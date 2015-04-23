@@ -29,6 +29,7 @@ Some good apps written with Electron.
 
 - [atom-shell-packager](https://github.com/maxogden/atom-shell-packager) - Package and distribute your app. *(OS X only for now)*
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
+- [grunt-build-atom-shell](https://github.com/paulcbetts/grunt-build-atom-shell) - Grunt task to build atom-shell from Git, and rebuild native modules.
 
 
 ## Components
