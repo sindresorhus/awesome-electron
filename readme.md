@@ -23,6 +23,7 @@ Some good apps written with Electron.
 
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+- [electron-starter](https://github.com/atom/electron-starter) - electron-starter is a basic application that can be used to get started writing Desktop apps via Electron.
 
 
 ## Tools
