@@ -17,7 +17,7 @@ Some good apps written with Electron.
 - [imagemin-app](https://github.com/imagemin/imagemin-app) - Minify images.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
 - [Douban-FM-Express](https://github.com/cyrilis/Douban-FM-Express) - DoubanFM client.
-
+- [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Mapbox Studio.
 
 ## Boilerplates
 
