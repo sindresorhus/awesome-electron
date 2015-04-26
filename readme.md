@@ -45,10 +45,12 @@ Some good apps written with Electron.
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
 
 
-## Support
+## Community
 
 - [Discussion forum](https://discuss.atom.io/c/electron)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/atom-shell)
+- [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
+- [`@electronjs` on Twitter](https://twitter.com/electronjs)
 
 
 ## Contribute
