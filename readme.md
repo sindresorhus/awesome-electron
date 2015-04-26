@@ -1,6 +1,6 @@
 # Awesome Electron
 
-> Useful resources for creating apps with [Electron](https://github.com/atom/electron) *(formerly atom-shell)*
+> Useful resources for creating apps with [Electron](http://electron.atom.io) *(formerly atom-shell)*
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
@@ -9,14 +9,27 @@
 
 Some good apps written with Electron.
 
-- [atom](https://github.com/atom/atom) - Code editor.
-- [playback](https://github.com/mafintosh/playback) - Video player.
-- [monu](https://github.com/maxogden/monu) - Process monitoring.
-- [screencat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
-- [gulp-app](https://github.com/sindresorhus/gulp-app) - Easily run gulp tasks.
-- [imagemin-app](https://github.com/imagemin/imagemin-app) - Minify images.
+### Open Source
+
+- [Atom](https://github.com/atom/atom) - Code editor.
+- [Nuclide](http://nuclide.io) - Unified IDE.
+- [Playback](https://github.com/mafintosh/playback) - Video player.
+- [Monu](https://github.com/maxogden/monu) - Process monitoring.
+- [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
+- [Gulp](https://github.com/sindresorhus/gulp-app) - GUI for running gulp tasks.
+- [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images.
+- [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
+- [Kart](https://github.com/maddox/kart) - Frontend for RetroArch.
 - [Douban-FM-Express](https://github.com/cyrilis/Douban-FM-Express) - DoubanFM client.
+- [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
+
+### Closed Source
+
+- [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
+- [Avocode](http://avocode.com) - Share design and collaborate.
+- [Pixate](http://www.pixate.com) - Mobile interaction designer.
+- [Spark Dev](https://www.spark.io/dev) - Professional IDE for Spark.
 
 
 ## Boilerplates
