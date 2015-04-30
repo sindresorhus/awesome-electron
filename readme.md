@@ -30,6 +30,7 @@ Some good apps written with Electron.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Spark Dev](https://www.spark.io/dev) - Professional IDE for Spark.
+- [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 
 
 ## Boilerplates
