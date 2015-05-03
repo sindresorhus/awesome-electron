@@ -14,6 +14,7 @@ Some good apps written with Electron.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Nuclide](http://nuclide.io) - Unified IDE.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
+- [Friends](https://github.com/moose-team/friends) - P2P chat.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
 - [Gulp](https://github.com/sindresorhus/gulp-app) - GUI for running gulp tasks.
