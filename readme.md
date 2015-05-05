@@ -44,7 +44,7 @@ Some good apps written with Electron.
 
 ## Tools
 
-- [atom-shell-packager](https://github.com/maxogden/atom-shell-packager) - Package and distribute your app. *(OS X only for now)*
+- [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your app. *(OS X only for now)*
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-rebuild](https://github.com/paulcbetts/electron-rebuild/) - Rebuild native io.js modules against the currently installed Electron version.
 
