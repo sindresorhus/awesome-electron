@@ -28,10 +28,12 @@ Some good apps written with Electron.
 ### Closed Source
 
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
+- [Vivaldi](https://vivaldi.com) - Web browser.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Spark Dev](https://www.spark.io/dev) - Professional IDE for Spark.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
+- [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 
 
 ## Boilerplates
