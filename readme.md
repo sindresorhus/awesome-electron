@@ -40,6 +40,7 @@ Some good apps written with Electron.
 
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+- [Electron-React-Boilerplate](https://github.com/airtoxin/Electron-React-Boilerplate) - Boilerplate to create app with React.
 
 
 ## Tools
