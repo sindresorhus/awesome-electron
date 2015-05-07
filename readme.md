@@ -15,6 +15,7 @@ Some good apps written with Electron.
 - [Nuclide](http://nuclide.io) - Unified IDE.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
+- [Kitematic](https://kitematic.com) - Docker container management.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
 - [Gulp](https://github.com/sindresorhus/gulp-app) - GUI for running gulp tasks.
@@ -34,7 +35,7 @@ Some good apps written with Electron.
 - [Spark Dev](https://www.spark.io/dev) - Professional IDE for Spark.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
-- [Fireball](http://fireball-x.com/en) - Hackable game editor for creating mobile and HTML5 games. 
+- [Fireball](http://fireball-x.com/en) - Hackable game editor for creating mobile and HTML5 games.
 
 
 ## Boilerplates
