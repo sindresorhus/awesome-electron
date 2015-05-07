@@ -34,6 +34,7 @@ Some good apps written with Electron.
 - [Spark Dev](https://www.spark.io/dev) - Professional IDE for Spark.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
+- [Fireball](http://fireball-x.com/en) - Hackable game editor for creating mobile and HTML5 games. 
 
 
 ## Boilerplates
