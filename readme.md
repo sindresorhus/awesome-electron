@@ -68,6 +68,11 @@ Some good apps written with Electron.
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
 
 
+## Videos
+
+- [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
+
+
 ## Community
 
 - [Discussion forum](https://discuss.atom.io/c/electron)
