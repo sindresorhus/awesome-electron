@@ -2,7 +2,7 @@
 
 > Useful resources for creating apps with [Electron](http://electron.atom.io) *(formerly atom-shell)*
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
 
 
 ## Example apps
