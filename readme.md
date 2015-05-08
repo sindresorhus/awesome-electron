@@ -25,6 +25,8 @@ Some good apps written with Electron.
 - [Kart](https://github.com/maddox/kart) - Frontend for RetroArch.
 - [Douban-FM-Express](https://github.com/cyrilis/Douban-FM-Express) - DoubanFM client.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
+- [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
+
 
 ### Closed Source
 
