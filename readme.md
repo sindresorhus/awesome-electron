@@ -59,6 +59,7 @@ Some good apps written with Electron.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 - [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
+- [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 
 
 ## Tutorials
