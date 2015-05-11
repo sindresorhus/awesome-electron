@@ -26,6 +26,7 @@ Some good apps written with Electron.
 - [Douban-FM-Express](https://github.com/cyrilis/Douban-FM-Express) - DoubanFM client.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
+- [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 
 
 ### Closed Source
