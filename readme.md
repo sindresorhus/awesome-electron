@@ -76,7 +76,7 @@ Some good apps written with Electron.
 
 - [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
-
+- [Packaging Electron Apps using Gulp Tasks](https://www.youtube.com/watch?v=ZhLG0O4W190)
 
 ## Community
 
