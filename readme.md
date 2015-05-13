@@ -27,6 +27,7 @@ Some good apps written with Electron.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
+- [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 
 
 ### Closed Source
