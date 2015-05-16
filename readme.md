@@ -28,6 +28,7 @@ Some good apps written with Electron.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
+- [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
 
 
 ### Closed Source
