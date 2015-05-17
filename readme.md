@@ -37,7 +37,7 @@ Some good apps written with Electron.
 - [Vivaldi](https://vivaldi.com) - Web browser.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
-- [Spark Dev](https://www.spark.io/dev) - Professional IDE for Spark.
+- [Particle Dev](https://www.particle.io/dev) - Professional IDE for Particle.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Fireball](http://fireball-x.com/en) - Hackable game editor for creating mobile and HTML5 games.
