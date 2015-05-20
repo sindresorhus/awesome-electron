@@ -34,7 +34,6 @@ Some good apps written with Electron.
 ### Closed Source
 
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
-- [Vivaldi](https://vivaldi.com) - Web browser.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Particle Dev](https://www.particle.io/dev) - Professional IDE for Particle.
