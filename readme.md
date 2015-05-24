@@ -30,6 +30,7 @@ Some good apps written with Electron.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
+- [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
 
 
 ### Closed Source
