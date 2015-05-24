@@ -29,6 +29,7 @@ Some good apps written with Electron.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
+- [Koko](https://github.com/hachibasu/koko) - IRC client.
 
 
 ### Closed Source
