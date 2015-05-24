@@ -29,7 +29,7 @@ Some good apps written with Electron.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
-
+- [Leanote Desktop App](https://github.com/leanote/desktop-app) - Leanote's desktop app (cloud notepad)
 
 ### Closed Source
 
