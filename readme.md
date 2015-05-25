@@ -31,6 +31,7 @@ Some good apps written with Electron.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
+- [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
 
 
 ### Closed Source
