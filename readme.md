@@ -33,6 +33,7 @@ Some good apps written with Electron.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub Notifications on your menu bar.
+- [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 
 
 ### Closed Source
