@@ -62,6 +62,7 @@ Some good apps written with Electron.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Electron auto-update by releasing on GitHub.
 - [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub for a particular architecture and platform.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
+- [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 
 
 ## Components
@@ -72,9 +73,6 @@ Some good apps written with Electron.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 - [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
 
-## Frameworks
-
-- [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE software in Electron.
 
 ## Tutorials
 
