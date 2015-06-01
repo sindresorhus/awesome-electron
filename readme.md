@@ -61,6 +61,7 @@ Some good apps written with Electron.
 - [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Electron auto-update by releasing on GitHub.
 - [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub for a particular architecture and platform.
+- [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 
 
