@@ -72,6 +72,9 @@ Some good apps written with Electron.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 - [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
 
+## Frameworks
+
+- [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE software in Electron.
 
 ## Tutorials
 
