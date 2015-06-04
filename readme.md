@@ -34,6 +34,7 @@ Some good apps written with Electron.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub Notifications on your menu bar.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
+- [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 
 
 ### Closed Source
