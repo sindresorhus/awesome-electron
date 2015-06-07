@@ -35,6 +35,7 @@ Some good apps written with Electron.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub Notifications on your menu bar.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
+- [DTCP](https://github.com/alchen/DTCP) - Desktop Twitter Client
 
 
 ### Closed Source
@@ -65,6 +66,7 @@ Some good apps written with Electron.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
+- [electron-rebrand](https://github.com/alchen/electron-rebrand) - Rebrands Electron distributebales.
 
 
 ## Components
