@@ -18,7 +18,7 @@ Some good apps written with Electron.
 - [Kitematic](https://kitematic.com) - Docker container management.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
-- [Gulp](https://github.com/sindresorhus/gulp-app) - GUI for running gulp tasks.
+- [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from the menubar.
 - [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
