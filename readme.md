@@ -36,6 +36,7 @@ Some good apps written with Electron.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
+- [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
 
 
 ### Closed Source
