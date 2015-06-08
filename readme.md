@@ -37,6 +37,7 @@ Some good apps written with Electron.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
+- [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 
 
 ### Closed Source
