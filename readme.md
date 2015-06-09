@@ -60,7 +60,7 @@ Some good apps written with Electron.
 ## Tools
 
 - [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your Electron app for OS X, Linux and Windows (.app, .exe, etc).
-- [electron-builder](https://github.com/loopline-systems/electron-builder) - Build installers.
+- [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Electron auto-update by releasing on GitHub.
