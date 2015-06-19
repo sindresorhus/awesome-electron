@@ -79,6 +79,7 @@ Some good apps written with Electron.
 - [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 - [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
+- [splash-screen](https://github.com/saan1984/ElectronSplashDemo) - Splash like screen before main window.
 
 
 ## Tutorials
