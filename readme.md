@@ -1,5 +1,7 @@
 # Awesome Electron
 
+[<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
+
 > Useful resources for creating apps with [Electron](http://electron.atom.io)
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
