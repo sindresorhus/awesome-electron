@@ -1,6 +1,6 @@
 # Awesome Electron
 
-> Useful resources for creating apps with [Electron](http://electron.atom.io) *(formerly atom-shell)*
+> Useful resources for creating apps with [Electron](http://electron.atom.io)
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
 
@@ -53,38 +53,38 @@ Some good apps written with Electron.
 
 ## Boilerplates
 
-- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) (by sindresorhus) - Boilerplate to kickstart creating an app.
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
-- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) (by szwacz) - Comprehensive boilerplate which even generates installers.
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
 
 
 ## Tools
 
-- [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your Electron app for OS X, Linux and Windows (.app, .exe, etc).
+- [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your app.
 - [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
-- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
-- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Electron auto-update by releasing on GitHub.
-- [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
-- [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub for a particular architecture and platform.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
+- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
+- [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
+- [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 
 
 ## Components
 
+- [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
-- [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 - [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
 
 
 ## Tutorials
 
-- [Quick Start](https://github.com/atom/electron/blob/master/docs/tutorial/quick-start.md)
-- [Official docs](https://github.com/atom/electron/tree/master/docs)
+- [Quick Start](http://electron.atom.io/docs/latest/tutorial/quick-start/)
+- [Official docs](http://electron.atom.io/docs/latest/)
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
 
 
@@ -96,8 +96,8 @@ Some good apps written with Electron.
 
 ## Community
 
-- [Discussion forum](https://discuss.atom.io/c/electron)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/atom-shell)
+- [Discuss](https://discuss.atom.io/c/electron)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/electron)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 
