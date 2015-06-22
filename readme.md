@@ -33,6 +33,7 @@ Some good apps written with Electron.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
+- [Loop Drop](https://github.com/mmckegg/loop-drop-app) - Live electronic music performance software.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub Notifications on your menu bar.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
