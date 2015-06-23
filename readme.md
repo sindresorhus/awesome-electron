@@ -95,6 +95,7 @@ Some good apps written with Electron.
 
 - [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
+- [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
 
 
 ## Community
