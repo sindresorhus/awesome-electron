@@ -40,6 +40,7 @@ Some good apps written with Electron.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
+- [Disclosure](https://github.com/Quramy/electron-disclosure) - Screen capturing and posting tweet with the captured image.
 
 
 ### Closed Source
@@ -59,6 +60,7 @@ Some good apps written with Electron.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
+- [electron-jsx-babel-boilerplate](https://github.com/Quramy/electron-jsx-babel-boilerplate) - Boilerplate an app with React JSX and Babel.
 
 
 ## Tools
@@ -73,6 +75,7 @@ Some good apps written with Electron.
 - [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
+- [electron-connect](https://github.com/Quramy/electron-connect) - Livereload tool.
 
 
 ## Components
