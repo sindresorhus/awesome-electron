@@ -40,6 +40,7 @@ Some good apps written with Electron.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
+- [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 
 
 ### Closed Source
@@ -47,7 +48,6 @@ Some good apps written with Electron.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
-- [Particle Dev](https://www.particle.io/dev) - Professional IDE for Particle.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Fireball](http://fireball-x.com/en) - Hackable game editor for creating mobile and HTML5 games.
