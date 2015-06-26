@@ -41,7 +41,7 @@ Some good apps written with Electron.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
-
+- [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 
 ### Closed Source
 
