@@ -33,7 +33,6 @@ Some good apps written with Electron.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
-- [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub Notifications on your menu bar.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
@@ -41,7 +40,7 @@ Some good apps written with Electron.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
-
+- [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 
 ### Closed Source
 
