@@ -42,7 +42,8 @@ Some good apps written with Electron.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
-- [Toby](https://github.com/frankhale/toby) - A YouTube player for the desktop.
+- [Fireball](https://github.com/fireball-x/fireball) - Hackable game editor for creating mobile and HTML5 games.
+- [Toby](https://github.com/frankhale/toby) - A YouTube player.
 
 ### Closed Source
 
@@ -51,7 +52,6 @@ Some good apps written with Electron.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
-- [Fireball](http://fireball-x.com/en) - Hackable game editor for creating mobile and HTML5 games.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 
 
