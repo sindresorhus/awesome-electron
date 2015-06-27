@@ -42,6 +42,7 @@ Some good apps written with Electron.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+- [Toby](https://github.com/frankhale/toby) - A YouTube player for the desktop.
 
 ### Closed Source
 
