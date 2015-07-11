@@ -44,6 +44,7 @@ Some good apps written with Electron.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 - [Fireball](https://github.com/fireball-x/fireball) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
+- [Ohm Player](https://github.com/OhmPlayer/ohm) - Music player.
 
 ### Closed Source
 
