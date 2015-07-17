@@ -72,7 +72,7 @@ Some good apps written with Electron.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
 - [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
-- [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES6, Coffeescript, and LESS/SCSS directly in Electron without a precompilation step.
+- [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, Coffeescript, and LESS/SCSS directly in Electron without a precompilation step.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 
