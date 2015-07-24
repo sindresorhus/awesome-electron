@@ -98,9 +98,9 @@ Some good apps written with Electron.
 
 ## Videos
 
-- [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
-- [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
-- [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
+- [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M) ([repo](https://github.com/shama/letswritecode/tree/master/creating-desktop-apps-with-electron))
+- [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc) ([repo](https://github.com/shama/letswritecode/tree/master/packaging-distributing-electron-apps))
+- [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU) ([repo](https://github.com/shama/letswritecode/tree/master/multi-window-electron-desktop-app))
 
 
 ## Community
