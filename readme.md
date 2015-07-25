@@ -89,11 +89,16 @@ Some good apps written with Electron.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 
 
-## Tutorials
+## Documentation
 
 - [Quick Start](http://electron.atom.io/docs/latest/tutorial/quick-start/)
 - [Official docs](http://electron.atom.io/docs/latest/)
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
+
+
+## Articles
+
+- [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 
 
 ## Videos
