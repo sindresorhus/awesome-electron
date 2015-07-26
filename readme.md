@@ -45,6 +45,7 @@ Some good apps written with Electron.
 - [Fireball](https://github.com/fireball-x/fireball) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku](https://github.com/EragonJ/Kaku) - The next generation music client.
+- [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
 
 ### Closed Source
 
