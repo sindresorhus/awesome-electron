@@ -97,6 +97,7 @@ Some good apps written with Electron.
 - [Quick Start](http://electron.atom.io/docs/latest/tutorial/quick-start/)
 - [Official docs](http://electron.atom.io/docs/latest/)
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
+- [API Demos](https://github.com/craigshoemaker/electron-api-demos)
 
 
 ## Articles
