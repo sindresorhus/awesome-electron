@@ -102,6 +102,7 @@ Some good apps written with Electron.
 ## Articles
 
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
+- [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 
 
 ## Videos
