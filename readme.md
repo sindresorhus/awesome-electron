@@ -47,6 +47,7 @@ Some good apps written with Electron.
 - [Kaku](https://github.com/EragonJ/Kaku) - The next generation music client.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
 - [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in the menubar.
+- [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer.
 
 ### Closed Source
 
