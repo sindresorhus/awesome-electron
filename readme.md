@@ -48,6 +48,7 @@ Some good apps written with Electron.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
 - [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in the menubar.
 - [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer.
+- [Shiba](https://github.com/rhysd/Shiba) - Live preview Markdown app with linting.
 
 ### Closed Source
 
