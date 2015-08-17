@@ -82,6 +82,7 @@ Some good apps written with Electron.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
+- [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
 
 
 ## Components
