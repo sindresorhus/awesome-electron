@@ -83,7 +83,7 @@ Some good apps written with Electron.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
-- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL or HTML with Electron.
+- [electron-pdf](https://github.com/fraserxu/electron-pdf) - A command line tool to generate PDF from URL, HTML or Markdown files.
 
 
 ## Components
