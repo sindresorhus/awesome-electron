@@ -59,6 +59,7 @@ Some good apps written with Electron.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
+- [Stremio](http://www.strem.io) - Next generation media center.
 
 
 ## Boilerplates
