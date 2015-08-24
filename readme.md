@@ -51,6 +51,7 @@ Some good apps written with Electron.
 - [Shiba](https://github.com/rhysd/Shiba) - Live preview Markdown app with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
+- [Spark](https://github.com/pltarun/spark-file-transfer) - Transfer files between computers easily.
 
 ### Closed Source
 
