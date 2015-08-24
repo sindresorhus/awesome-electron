@@ -50,6 +50,7 @@ Some good apps written with Electron.
 - [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer.
 - [Shiba](https://github.com/rhysd/Shiba) - Live preview Markdown app with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
+- [TimoFM](https://github.com/sapjax/TimoFM) - Another douban FM music player
 
 ### Closed Source
 
