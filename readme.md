@@ -50,6 +50,7 @@ Some good apps written with Electron.
 - [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer.
 - [Shiba](https://github.com/rhysd/Shiba) - Live preview Markdown app with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
+- [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 
 ### Closed Source
 
@@ -59,7 +60,9 @@ Some good apps written with Electron.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
-- [RESTer](http://getrester.com) - Test REST APIs with an easy to use beautiful tool.
+- [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
+- [Stremio](http://www.strem.io) - Next generation media center.
+
 
 ## Boilerplates
 
