@@ -51,6 +51,7 @@ Some good apps written with Electron.
 - [Shiba](https://github.com/rhysd/Shiba) - Live preview Markdown app with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
+- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from the menubar.
 
 ### Closed Source
 
