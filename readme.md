@@ -62,6 +62,7 @@ Some good apps written with Electron.
 - [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Next generation media center.
+- [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
 
 
 ## Boilerplates
