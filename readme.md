@@ -52,6 +52,8 @@ Some good apps written with Electron.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 - [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from the menubar.
+- [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
+
 
 ### Closed Source
 
