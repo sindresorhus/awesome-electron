@@ -53,6 +53,7 @@ Some good apps written with Electron.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 - [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from the menubar.
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
+- [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
 
 
 ### Closed Source
