@@ -103,6 +103,7 @@ Some good apps written with Electron.
 - [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
+- [Monogamous](https://github.com/mnichols/monogamous) - Make your app run as a single-instance app.
 
 
 ## Documentation
