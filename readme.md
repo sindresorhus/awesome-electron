@@ -91,7 +91,6 @@ Some good apps written with Electron.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML or Markdown files on the command-line.
-- [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library (alternative to PhantomJS).
 
 
 ## Components
@@ -103,6 +102,7 @@ Some good apps written with Electron.
 - [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
+- [Monogamous](https://github.com/mnichols/monogamous) - Make your app run as a single-instance application.
 
 
 ## Documentation
