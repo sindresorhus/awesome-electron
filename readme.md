@@ -115,6 +115,7 @@ Some good apps written with Electron.
 
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
+- [Electron Desktop Notification Using Node Notifier](http://www.tutorialsavvy.com/2015/07/electron-desktop-notification-using-node-notifier.html/)
 
 
 ## Videos
