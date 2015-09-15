@@ -66,6 +66,7 @@ Some good apps written with Electron.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Next generation media center.
 - [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
+- [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
 
 
 ## Boilerplates
