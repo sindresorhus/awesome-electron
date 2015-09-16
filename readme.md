@@ -55,6 +55,7 @@ Some good apps written with Electron.
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
 - [Tèsèvè](https://teseve.github.io) - A simple static webserver.
+- [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 
 ### Closed Source
 
