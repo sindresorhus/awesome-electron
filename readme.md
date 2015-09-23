@@ -68,6 +68,7 @@ Some good apps written with Electron.
 - [Stremio](http://www.strem.io) - Next generation media center.
 - [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
+- [Wagon](https://www.wagonhq.com) - A modern SQL editor: a better way to write queries, visualize results, and share data & charts.
 
 
 ## Boilerplates
