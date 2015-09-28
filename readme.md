@@ -42,7 +42,7 @@ Some good apps written with Electron.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
-- [Fireball](https://github.com/fireball-x/fireball) - Hackable game editor for creating mobile and HTML5 games.
+- [Fireball](https://github.com/fireball-x/editor-framework) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku](https://github.com/EragonJ/Kaku) - The next generation music client.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
