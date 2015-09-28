@@ -86,6 +86,7 @@ Some good apps written with Electron.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 - [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
+- [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
 - [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
 - [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
