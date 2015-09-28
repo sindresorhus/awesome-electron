@@ -95,6 +95,7 @@ Some good apps written with Electron.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML or Markdown files on the command-line.
 - [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library (alternative to PhantomJS).
+- [electron-release](https://github.com/jenslind/electron-release) - Publish a new release on GitHub with the app as an asset.
 
 
 ## Components
