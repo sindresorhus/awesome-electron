@@ -56,6 +56,7 @@ Some good apps written with Electron.
 - [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
 - [Tèsèvè](https://teseve.github.io) - A simple static webserver.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+- [Kakapo](https://github.com/bluedaniel/kakapo-app) - An ambient sound mixer for relaxation or productivity.
 
 ### Closed Source
 
