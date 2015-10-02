@@ -57,6 +57,7 @@ Some good apps written with Electron.
 - [Tèsèvè](https://teseve.github.io) - A simple static webserver.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - An ambient sound mixer for relaxation or productivity.
+- [DevDogs](https://github.com/ragingwind/devdogs) - Unofficial Devdocs app.
 
 ### Closed Source
 
