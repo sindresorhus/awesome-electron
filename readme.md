@@ -59,6 +59,7 @@ Some good apps written with Electron.
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - An ambient sound mixer for relaxation or productivity.
 - [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
 - [Blox Party](https://github.com/kvnneff/bloxparty) - Multiplayer Tetris game.
+- [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 
 ### Closed Source
 
