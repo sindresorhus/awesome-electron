@@ -68,7 +68,6 @@ Some good apps written with Electron.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
-- [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Next generation media center.
 - [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
