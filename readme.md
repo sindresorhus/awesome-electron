@@ -60,6 +60,7 @@ Some good apps written with Electron.
 - [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
 - [Blox Party](https://github.com/kvnneff/bloxparty) - Multiplayer Tetris game.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
+- [N1](https://github.com/nylas/N1) - Extensible email client.
 
 ### Closed Source
 
