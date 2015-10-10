@@ -75,7 +75,7 @@ Some good apps written with Electron.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
 - [Wagon](https://www.wagonhq.com) - A modern SQL editor: a better way to write queries, visualize results, and share data & charts.
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
-
+- [Pingendo](http://pingendo.com) - The simplest app for Bootstrap prototyping.
 
 ## Boilerplates
 
