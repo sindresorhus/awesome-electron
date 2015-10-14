@@ -117,7 +117,7 @@ Some good apps written with Electron.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [Monogamous](https://github.com/mnichols/monogamous) - Make your app run as a single-instance app.
-
+- [Photon](https://github.com/connors/photon) - UI toolkit for building desktop apps with Electron.
 
 ## Documentation
 
