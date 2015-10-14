@@ -118,6 +118,7 @@ Some good apps written with Electron.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [Monogamous](https://github.com/mnichols/monogamous) - Make your app run as a single-instance app.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
+- [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for OS X and Windows
 
 
 ## Documentation
