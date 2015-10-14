@@ -42,7 +42,7 @@ Some good apps written with Electron.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
-- [Fireball](https://github.com/fireball-x/fireball) - Hackable game editor for creating mobile and HTML5 games.
+- [Fireball](https://github.com/fireball-x/editor-framework) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku](https://github.com/EragonJ/Kaku) - The next generation music client.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
@@ -56,6 +56,13 @@ Some good apps written with Electron.
 - [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
 - [Tèsèvè](https://teseve.github.io) - A simple static webserver.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+- [Kakapo](https://github.com/bluedaniel/kakapo-app) - An ambient sound mixer for relaxation or productivity.
+- [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
+- [Blox Party](https://github.com/kvnneff/bloxparty) - Multiplayer Tetris game.
+- [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
+- [N1](https://github.com/nylas/N1) - Extensible email client.
+- [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
+- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 
 ### Closed Source
 
@@ -63,18 +70,21 @@ Some good apps written with Electron.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
-- [Nylas](https://www.nylas.com/blog/splitting-the-atom) - Email client.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Next generation media center.
 - [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
-- [Spreaker Studio](https://www.spreaker.com/desktop-studio/download) - Audio recording and broadcasting app from Spreaker.
+- [Wagon](https://www.wagonhq.com) - A modern SQL editor: a better way to write queries, visualize results, and share data & charts.
+- [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
+- [Pingendo](http://pingendo.com) - The simplest app for Bootstrap prototyping.
+- [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 
 ## Boilerplates
 
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
+- [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript template for creating an app.
 
 
 ## Tools
@@ -85,6 +95,7 @@ Some good apps written with Electron.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 - [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
+- [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
 - [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
 - [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
