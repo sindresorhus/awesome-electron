@@ -85,6 +85,7 @@ Some good apps written with Electron.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript template for creating an app.
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and Webpack.
 
 
 ## Tools
