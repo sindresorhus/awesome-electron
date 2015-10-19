@@ -63,6 +63,7 @@ Some good apps written with Electron.
 - [N1](https://github.com/nylas/N1) - Extensible email client.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
+- [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
 
 ### Closed Source
 
