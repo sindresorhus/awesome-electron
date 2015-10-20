@@ -80,6 +80,7 @@ Some good apps written with Electron.
 - [Pingendo](http://pingendo.com) - The simplest app for Bootstrap prototyping.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [BearyChat](https://bearychat.com) - A messaging service that brings your team on the same page. *(Chinese)*
+- [Gif Maker](http://gifmaker.io) - Create gifs from videos
 
 ## Boilerplates
 
