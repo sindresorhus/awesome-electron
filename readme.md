@@ -65,7 +65,7 @@ Some good apps written with Electron.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub on the command-line.
-
+- [HearthDash](https://github.com/postcasio/hearthdash) - Card tracking application for Hearthstone.
 
 ### Closed Source
 
