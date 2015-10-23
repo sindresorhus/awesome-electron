@@ -64,6 +64,8 @@ Some good apps written with Electron.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
+- [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub on the command-line.
+
 
 ### Closed Source
 
