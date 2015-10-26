@@ -83,6 +83,7 @@ Some good apps written with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [BearyChat](https://bearychat.com) - A messaging service that brings your team on the same page. *(Chinese)*
 - [MockingBot](https://mockingbot.com) - A prototyping tool for designing apps.
+- [GitKraken](http://www.gitkraken.com/) - An intuitive, fast, and beautiful cross-platform Git client.
 
 ## Boilerplates
 
