@@ -140,6 +140,7 @@ Some good apps written with Electron.
 
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
+- [Creating Desktop Applications With AngularJS and GitHub Electron](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron)
 
 
 ## Videos
