@@ -114,6 +114,7 @@ Some good apps written with Electron.
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML or Markdown files on the command-line.
 - [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library (alternative to PhantomJS).
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
+- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 
 
 ## Components
