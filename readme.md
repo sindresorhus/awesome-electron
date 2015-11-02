@@ -13,7 +13,7 @@ Some good apps written with Electron.
 
 ### Open Source
 
-- [Atom](https://github.com/atom/atom) - Code editor.
+- [Atom](https://github.com/atom/atom) - Code editor. `linux` `macos` `windows`
 - [Nuclide](http://nuclide.io) - Unified IDE.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
