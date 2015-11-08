@@ -67,7 +67,7 @@ Some good apps written with Electron.
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub on the command-line.
 - [Sia-UI](http://sia.tech) - A decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
-- [iCultus](https://github.com/djyde/iCultus) - Menubar calendar for OSX.
+- [iCultus](https://github.com/djyde/iCultus) - Menubar calendar for OS X.
 
 ### Closed Source
 
