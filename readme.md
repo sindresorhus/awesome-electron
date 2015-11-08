@@ -26,7 +26,6 @@ Some good apps written with Electron.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
 - [Kart](https://github.com/maddox/kart) - Frontend for RetroArch.
 - [Douban-FM-Express](https://github.com/cyrilis/Douban-FM-Express) - DoubanFM client.
-- [iCultus](https://github.com/djyde/iCultus) - Menubar calendar for OSX.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
@@ -68,7 +67,7 @@ Some good apps written with Electron.
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub on the command-line.
 - [Sia-UI](http://sia.tech) - A decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
-
+- [iCultus](https://github.com/djyde/iCultus) - Menubar calendar for OSX.
 
 ### Closed Source
 
