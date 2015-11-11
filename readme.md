@@ -122,6 +122,7 @@ Some good apps written with Electron.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
+- [electron-single-instance](https://github.com/republicwireless-open/electron-single-instance) - Stops users from opening multiple instances of your app in Windows and Linux.
 
 
 ## Components
