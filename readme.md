@@ -88,6 +88,7 @@ Some good apps written with Electron.
 - [MockingBot](https://mockingbot.com) - A prototyping tool for designing apps.
 - [GitKraken](http://www.gitkraken.com) - An intuitive, fast, and beautiful Git client.
 - [Wire](https://wire.com) - Beautiful and secure messenger and calling app.
+- [Boost](https://b00st.io) - Simple and beautiful Markdown note app for developers.
 
 
 ## Boilerplates
