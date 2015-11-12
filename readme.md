@@ -89,6 +89,7 @@ Some good apps written with Electron.
 - [GitKraken](http://www.gitkraken.com) - An intuitive, fast, and beautiful Git client.
 - [Wire](https://wire.com) - Beautiful and secure messenger and calling app.
 - [Boost](https://b00st.io) - Simple and beautiful Markdown note app for developers.
+- [Sync](https://www.wantedly.com/sync) - A group messaging app for successful teams. *(Japanese)*
 
 
 ## Boilerplates
