@@ -58,7 +58,6 @@ Some good apps written with Electron.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - An ambient sound mixer for relaxation or productivity.
 - [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
-- [Blox Party](https://github.com/kvnneff/bloxparty) - Multiplayer Tetris game.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 - [N1](https://github.com/nylas/N1) - Extensible email client.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
