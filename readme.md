@@ -122,7 +122,8 @@ Some good apps written with Electron.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
-
+- [karma-electron-launcher](https://github.com/lele85/karma-electron-launcher) - Launcher for Karma test runner
+- [karma-electron-launcher-simple-seed](https://github.com/lele85/karma-electron-launcher-simple-seed) - Simple seed project for unit testing an electron app with Karma
 
 ## Components
 
