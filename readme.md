@@ -67,6 +67,7 @@ Some good apps written with Electron.
 - [Sia-UI](http://sia.tech) - A decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free cross-platform IDE from Microsoft.
 
 
 ### Closed Source
@@ -74,7 +75,6 @@ Some good apps written with Electron.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
-- [Visual Studio Code](https://code.visualstudio.com) - Free cross-platform IDE from Microsoft.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Next generation media center.
 - [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
