@@ -68,6 +68,7 @@ Some good apps written with Electron.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free cross-platform IDE from Microsoft.
+- [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
 
 
 ### Closed Source
