@@ -123,6 +123,7 @@ Some good apps written with Electron.
 - [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library (alternative to PhantomJS).
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
+- [electron-sudo](https://github.com/automation-stack/electron-sudo) - Electron subprocesses with administrative privileges and prompting OS dialog if necessary.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
 - [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
