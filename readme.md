@@ -69,6 +69,7 @@ Some good apps written with Electron.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free cross-platform IDE from Microsoft.
 - [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
+- [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
 
 
 ### Closed Source
