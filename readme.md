@@ -126,6 +126,7 @@ Some good apps written with Electron.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
 - [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
+- [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 
 
 ## Components
