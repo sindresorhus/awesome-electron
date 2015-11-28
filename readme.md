@@ -174,9 +174,7 @@ Some good apps written with Electron.
 
 ## Tips
 
-### Notifications
-
-Electron doesn't have a notifications API, but you can use the [Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) in the browser window. It works on OS X and Linux, but [not yet Windows](https://github.com/atom/electron/issues/262). Use [`node-notifier`](https://github.com/mikaelbr/node-notifier) if you need Windows support.
+Contribute some ;)
 
 
 ## Contribute
