@@ -70,6 +70,7 @@ Some good apps written with Electron.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free cross-platform IDE from Microsoft.
 - [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
 - [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
+- [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 
 
 ### Closed Source
