@@ -71,6 +71,7 @@ Some good apps written with Electron.
 - [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
 - [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
 - [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
+- [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 
 
 ### Closed Source
