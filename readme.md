@@ -72,6 +72,7 @@ Some good apps written with Electron.
 - [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
 - [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
+- [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
 
 ### Closed Source
