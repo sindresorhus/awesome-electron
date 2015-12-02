@@ -73,6 +73,7 @@ Some good apps written with Electron.
 - [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client.
+- [Tunnels](https://github.com/parro-it/tunnels) - Manage your ssh tunnels.
 
 
 ### Closed Source
