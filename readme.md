@@ -73,6 +73,7 @@ Some good apps written with Electron.
 - [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
+- [Light Table](https://github.com/LightTable/LightTable) - A next generation code editor that connects you to your creation with instant feedback.
 
 
 ### Closed Source
