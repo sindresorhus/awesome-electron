@@ -132,6 +132,7 @@ Some good apps written with Electron.
 - [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 - [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+- [electron-har](https://github.com/shyiko/electron-har) - A command-line tool for generating HTTP Archive (HAR).
 
 
 ## Components
