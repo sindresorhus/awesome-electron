@@ -173,6 +173,7 @@ Some good apps written with Electron.
 - [Discuss](https://discuss.atom.io/c/electron)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/electron)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
+- [`#electron` on Atom Slack](http://atom-slack.herokuapp.com/)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
