@@ -20,7 +20,7 @@ Some good apps written with Electron.
 - [Kitematic](https://kitematic.com) - Docker container management.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
-- [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from the menubar.
+- [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
@@ -33,29 +33,29 @@ Some good apps written with Electron.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
-- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub Notifications on your menu bar.
+- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
-- [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from the menubar.
+- [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 - [Fireball](https://github.com/fireball-x/editor-framework) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
-- [Kaku](https://github.com/EragonJ/Kaku) - The next generation music client.
+- [Kaku](https://github.com/EragonJ/Kaku) - Music player.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
-- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in the menubar.
-- [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer.
-- [Shiba](https://github.com/rhysd/Shiba) - Live preview Markdown app with linting.
+- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
+- [Markn](https://github.com/minodisk/markn) - Markdown viewer.
+- [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
-- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from the menubar.
+- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from your menubar.
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
-- [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
-- [Tèsèvè](https://teseve.github.io) - A simple static webserver.
+- [Black Screen](https://github.com/shockone/black-screen) - Terminal emulator.
+- [Tèsèvè](https://teseve.github.io) - Static webserver.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-- [Kakapo](https://github.com/bluedaniel/kakapo-app) - An ambient sound mixer for relaxation or productivity.
+- [Kakapo](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
 - [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 - [N1](https://github.com/nylas/N1) - Extensible email client.
@@ -63,10 +63,10 @@ Some good apps written with Electron.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub on the command-line.
-- [Sia-UI](http://sia.tech) - A decentralized file storage system based on cryptocurrency technology.
+- [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Free cross-platform IDE from Microsoft.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE from Microsoft.
 - [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
 - [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
 - [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
@@ -82,20 +82,20 @@ Some good apps written with Electron.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
-- [Stremio](http://www.strem.io) - Next generation media center.
-- [RESTer](http://getrester.com) - Easy and beautiful way to test your APIs and servers.
+- [Stremio](http://www.strem.io) - Media center.
+- [RESTer](http://getrester.com) - Test your APIs and servers.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
-- [Wagon](https://www.wagonhq.com) - A modern SQL editor: a better way to write queries, visualize results, and share data & charts.
+- [Wagon](https://www.wagonhq.com) - SQL editor.
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
-- [Pingendo](http://pingendo.com) - The simplest app for Bootstrap prototyping.
+- [Pingendo](http://pingendo.com) - Bootstrap prototyping.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
-- [BearyChat](https://bearychat.com) - A messaging service that brings your team on the same page. *(Chinese)*
-- [MockingBot](https://mockingbot.com) - A prototyping tool for designing apps.
-- [GitKraken](http://www.gitkraken.com) - An intuitive, fast, and beautiful Git client.
-- [Wire](https://wire.com) - Beautiful and secure messenger and calling app.
-- [Boost](https://b00st.io) - Simple and beautiful Markdown note app for developers.
-- [Sync](https://www.wantedly.com/sync) - A group messaging app for successful teams. *(Japanese)*
-- [Caret](http://caret.io) - Better Markdown editor.
+- [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
+- [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
+- [GitKraken](http://www.gitkraken.com) - Git client.
+- [Wire](https://wire.com) - Messenger and calling app.
+- [Boost](https://b00st.io) - Markdown note app for developers.
+- [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
+- [Caret](http://caret.io) - Markdown editor.
 
 
 ## Boilerplates
@@ -103,8 +103,8 @@ Some good apps written with Electron.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
-- [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript template for creating an app.
-- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and Webpack.
+- [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 
 
 ## Tools
@@ -113,7 +113,7 @@ Some good apps written with Electron.
 - [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
-- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
+- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
@@ -123,8 +123,8 @@ Some good apps written with Electron.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
-- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML or Markdown files on the command-line.
-- [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library (alternative to PhantomJS).
+- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
+- [Nightmare](http://www.nightmarejs.org/) - High-level browser automation library (alternative to PhantomJS).
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
@@ -132,7 +132,7 @@ Some good apps written with Electron.
 - [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 - [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-- [electron-har](https://github.com/shyiko/electron-har) - A command-line tool for generating HTTP Archive (HAR).
+- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 
 
 ## Components
@@ -141,7 +141,7 @@ Some good apps written with Electron.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
-- [window](https://github.com/jprichardson/electron-window) - Easily create windows, pass arguments to renderer, and manage global window references.
+- [window](https://github.com/jprichardson/electron-window) - Easily create and manage windows.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
