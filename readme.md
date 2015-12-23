@@ -29,7 +29,7 @@ Some good apps written with Electron.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
-- [Sample apps](https://github.com/hokein/electron-sample-apps) - Various sample apps.
+- [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
