@@ -74,7 +74,7 @@ Some good apps written with Electron.
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
 - [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
-- [Electron Sample Apps](https://github.com/hokein/electron-sample-apps) - Sample apps.
+- [Electron Sample Apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 
 
 ### Closed Source
