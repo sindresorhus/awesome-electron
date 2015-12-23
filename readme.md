@@ -93,7 +93,7 @@ Some good apps written with Electron.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [Wire](https://wire.com) - Messenger and calling app.
-- [Boost](https://b00st.io) - Markdown note app for developers.
+- [Boostnote](https://b00st.io) - Markdown note app for developers.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
 
