@@ -76,6 +76,7 @@ Some good apps written with Electron.
 - [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
+- [Yeobara](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
 
 
 ### Closed Source
