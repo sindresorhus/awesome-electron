@@ -148,9 +148,9 @@ Some good apps written with Electron.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
+- [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [Maverix](https://github.com/GoBijan/maverix) - OSX UI toolkit and AngularJS boilerplate.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for  Windows 10 and OS X El Capitan, based on React.
-
 
 ## Documentation
 
