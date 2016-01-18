@@ -77,6 +77,7 @@ Some good apps written with Electron.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
+- [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Medis](https://github.com/luin/medis) - Redis database management.
 
 
