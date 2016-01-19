@@ -152,6 +152,7 @@ Some good apps written with Electron.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for OS X and Windows built with React.
+- [electron-ipc-responder](https://github.com/swissmanu/electron-ipc-responder/) - Provides a Request-Response pattern-based communication using Electrons IPC module.
 
 
 ## Documentation
