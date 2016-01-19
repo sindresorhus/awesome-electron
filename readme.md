@@ -79,6 +79,13 @@ Some good apps written with Electron.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Medis](https://github.com/luin/medis) - Redis database management.
+- [Proton](https://github.com/steventhanna/proton) - A pure JS Markdown editor with live rendering
+- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
+- [DTCP](https://github.com/alchen/DTCP) - Twitter client.
+- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
+- [DTCP](https://github.com/alchen/DTCP) - Twitter client.
 
 
 ### Closed Source
@@ -138,6 +145,10 @@ Some good apps written with Electron.
 - [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
+- [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
+- [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
+- [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
+- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 
 
 ## Components
