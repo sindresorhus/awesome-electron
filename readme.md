@@ -138,6 +138,7 @@ Some good apps written with Electron.
 - [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
+- [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
 
 
 ## Components
