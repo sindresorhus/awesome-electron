@@ -80,6 +80,7 @@ Some good apps written with Electron.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Medis](https://github.com/luin/medis) - Redis database management.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 
 
 ### Closed Source
