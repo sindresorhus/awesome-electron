@@ -139,6 +139,7 @@ Some good apps written with Electron.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
+- [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 
 
 ## Components
