@@ -79,6 +79,7 @@ Some good apps written with Electron.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Medis](https://github.com/luin/medis) - Redis database management.
+- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 
 
 ### Closed Source
