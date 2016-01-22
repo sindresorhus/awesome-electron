@@ -143,6 +143,7 @@ Some good apps written with Electron.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
 - [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
+- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 
 
 ## Components
