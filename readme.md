@@ -83,9 +83,6 @@ Some good apps written with Electron.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP](https://github.com/alchen/DTCP) - Twitter client.
-- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
-- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
-- [DTCP](https://github.com/alchen/DTCP) - Twitter client.
 
 
 ### Closed Source
