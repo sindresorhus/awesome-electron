@@ -84,6 +84,7 @@ Some good apps written with Electron.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP](https://github.com/alchen/DTCP) - Twitter client.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
+- [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 
 
 ### Closed Source
