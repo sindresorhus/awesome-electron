@@ -85,6 +85,7 @@ Some good apps written with Electron.
 - [DTCP](https://github.com/alchen/DTCP) - Twitter client.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
+- [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
 
 
 ### Closed Source
