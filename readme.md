@@ -177,6 +177,7 @@ Some good apps written with Electron.
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 - [Codesigning your app for OS X](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
+- [Auto-updating apps for Windows and OS X: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 
 
 ## Videos
