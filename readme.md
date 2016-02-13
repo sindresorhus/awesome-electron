@@ -149,6 +149,7 @@ Some good apps written with Electron.
 - [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
+- [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 
 ## Components
