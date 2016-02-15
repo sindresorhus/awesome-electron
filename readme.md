@@ -86,6 +86,7 @@ Some good apps written with Electron.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
+- [exAudio](https://github.com/ryankdwyer/exAudio) - Music player that supports lossless codecs, plus many others.
 
 
 ### Closed Source
