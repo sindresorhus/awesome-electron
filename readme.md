@@ -86,6 +86,7 @@ Some good apps written with Electron.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
+- [rss-reader](https://github.com/mrgodhani/rss-reader) - Simple RSS Reader with offline reading capability.
 
 
 ### Closed Source
