@@ -152,6 +152,7 @@ Some good apps written with Electron.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+- [electron-osx-sign](https://github.com/sethlu/electron-osx-sign) - Code-signing for OS X apps.
 
 
 ## Components
