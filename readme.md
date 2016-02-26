@@ -87,6 +87,7 @@ Some good apps written with Electron.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
+- [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 
 
 ### Closed Source
