@@ -89,6 +89,7 @@ Some good apps written with Electron.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
+- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
 
 ### Closed Source
 
