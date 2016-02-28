@@ -90,6 +90,7 @@ Some good apps written with Electron.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
+- [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 
 ### Closed Source
 
