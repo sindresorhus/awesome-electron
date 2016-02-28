@@ -91,7 +91,7 @@ Some good apps written with Electron.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
 - [FromScratch](https://github.com/kilian/fromscratch) - A simple but smart note taking application.
-- 
+
 ### Closed Source
 
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
