@@ -126,7 +126,7 @@ Some good apps written with Electron.
 
 ## Tools
 
-- [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your app.
+- [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 - [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
@@ -134,7 +134,7 @@ Some good apps written with Electron.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
-- [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
+- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
 - [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
@@ -155,7 +155,7 @@ Some good apps written with Electron.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
-- [electron-osx-sign](https://github.com/sethlu/electron-osx-sign) - Code-signing for OS X apps.
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
 
 
 ## Components
