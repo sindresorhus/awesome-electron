@@ -87,7 +87,10 @@ Some good apps written with Electron.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
-
+- [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
+- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
+- [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 
 ### Closed Source
 
@@ -109,6 +112,7 @@ Some good apps written with Electron.
 - [Boostnote](https://b00st.io) - Markdown note app for developers.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
+- [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 
 
 ## Boilerplates
@@ -151,6 +155,7 @@ Some good apps written with Electron.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+- [electron-osx-sign](https://github.com/sethlu/electron-osx-sign) - Code-signing for OS X apps.
 
 
 ## Components
