@@ -91,6 +91,7 @@ Some good apps written with Electron.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
+- [YouTubeAudioPlayer](https://github.com/2er0/YouTubeAudioPlayer) - Play Audio/Playlist from YouTube
 
 ### Closed Source
 
