@@ -92,6 +92,7 @@ Some good apps written with Electron.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
+- [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
 
 ### Closed Source
 
