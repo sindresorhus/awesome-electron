@@ -115,6 +115,7 @@ Some good apps written with Electron.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
+- [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
 
 
 ## Boilerplates
