@@ -114,10 +114,9 @@ Some good apps written with Electron.
 - [Boostnote](https://b00st.io) - Markdown note app for developers.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
-- [Remember](https://rememberapp.co.kr) - Business cards management service. *(Korean)*
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
-
+- [Remember](https://rememberapp.co.kr) - Business cards management service. *(Korean)*
 
 ## Boilerplates
 
