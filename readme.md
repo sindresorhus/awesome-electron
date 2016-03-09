@@ -161,6 +161,9 @@ Some good apps written with Electron.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
+- [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+- [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
+- [electron-installer-windows](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 
 ## Components
