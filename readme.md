@@ -93,6 +93,7 @@ Some good apps written with Electron.
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
+- [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 
 ### Closed Source
 
