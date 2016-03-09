@@ -116,6 +116,7 @@ Some good apps written with Electron.
 - [Caret](http://caret.io) - Markdown editor.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
+- [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 
 
 ## Boilerplates
