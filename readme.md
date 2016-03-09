@@ -86,7 +86,13 @@ Some good apps written with Electron.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
-
+- [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
+- [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
+- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
+- [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
+- [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
+- [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
 
 ### Closed Source
 
@@ -109,6 +115,8 @@ Some good apps written with Electron.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
 - [Remember](https://rememberapp.co.kr) - Business cards management service. *(Korean)*
+- [Postman](https://www.getpostman.com) - Create and send HTTP requests.
+- [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
 
 
 ## Boilerplates
@@ -122,7 +130,7 @@ Some good apps written with Electron.
 
 ## Tools
 
-- [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your app.
+- [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 - [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
@@ -130,7 +138,7 @@ Some good apps written with Electron.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
-- [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub.
+- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
 - [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
@@ -151,6 +159,7 @@ Some good apps written with Electron.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
 
 
 ## Components
@@ -188,6 +197,7 @@ Some good apps written with Electron.
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
 - [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
 - [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
+- [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
 
 
 ## Community
@@ -214,6 +224,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
