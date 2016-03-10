@@ -94,6 +94,7 @@ Some good apps written with Electron.
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
+- [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
 
 ### Closed Source
 
