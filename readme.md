@@ -95,6 +95,7 @@ Some good apps written with Electron.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 - [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
+- [Ansel](https://github.com/m0g/ansel) - Digital image organizer.
 
 ### Closed Source
 
