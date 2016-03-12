@@ -167,6 +167,7 @@ Some good apps written with Electron.
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
 - [electron-installer-windows](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+- [electron-json-storage](https://github.com/jviotti/electron-json-storage) - Write and read user settings.
 
 
 ## Components
