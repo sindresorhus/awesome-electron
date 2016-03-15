@@ -98,6 +98,7 @@ Some good apps written with Electron.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
+- [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 
 ### Closed Source
 
