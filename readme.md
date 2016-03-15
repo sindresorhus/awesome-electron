@@ -168,6 +168,7 @@ Some good apps written with Electron.
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
 - [electron-installer-windows](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 - [electron-json-storage](https://github.com/jviotti/electron-json-storage) - Write and read user settings.
+- [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 
 
 ## Components
