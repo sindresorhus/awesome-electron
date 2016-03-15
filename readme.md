@@ -97,6 +97,7 @@ Some good apps written with Electron.
 - [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
+- [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 
 ### Closed Source
 
