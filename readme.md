@@ -123,6 +123,7 @@ Some good apps written with Electron.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
+- [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
 
 
 ## Boilerplates
