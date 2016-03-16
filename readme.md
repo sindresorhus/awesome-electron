@@ -99,6 +99,7 @@ Some good apps written with Electron.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
+- [HydrogenIDE](https://github.com/facekapow/HydrogenIDE) - A simple IDE for making Electron apps.
 
 ### Closed Source
 
