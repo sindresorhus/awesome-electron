@@ -124,6 +124,7 @@ Some good apps written with Electron.
 - [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
+- [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 
 
 ## Boilerplates
