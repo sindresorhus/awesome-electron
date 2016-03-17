@@ -99,6 +99,7 @@ Some good apps written with Electron.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
 
 ### Closed Source
 
@@ -117,7 +118,6 @@ Some good apps written with Electron.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [Wire](https://wire.com) - Messenger and calling app.
-- [Boostnote](https://b00st.io) - Markdown note app for developers.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
