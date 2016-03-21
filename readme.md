@@ -100,6 +100,7 @@ Some good apps written with Electron.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
+- [Active Collab Desktop](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab Desktop application.
 
 ### Closed Source
 
