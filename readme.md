@@ -101,6 +101,7 @@ Some good apps written with Electron.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
 - [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool.
+- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 
 ### Closed Source
 
