@@ -102,6 +102,7 @@ Some good apps written with Electron.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
 - [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
+- [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 
 ### Closed Source
 
