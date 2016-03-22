@@ -187,6 +187,7 @@ Some good apps written with Electron.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for OS X and Windows built with React.
+- [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 
 
 ## Documentation
