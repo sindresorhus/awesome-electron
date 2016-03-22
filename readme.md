@@ -101,6 +101,8 @@ Some good apps written with Electron.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
+- [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool.
+- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 
 ### Closed Source
 
@@ -188,6 +190,7 @@ Some good apps written with Electron.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for OS X and Windows built with React.
+- [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 
 
 ## Documentation
