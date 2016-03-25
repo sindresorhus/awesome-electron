@@ -103,6 +103,7 @@ Some good apps written with Electron.
 - [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
+- [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows.
 
 ### Closed Source
 
