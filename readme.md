@@ -190,6 +190,7 @@ Some good apps written with Electron.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
+- [Metro-UI](https://github.com/olton/Metro-UI-CSS) UI toolkit for windows 8 style.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for OS X and Windows built with React.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
