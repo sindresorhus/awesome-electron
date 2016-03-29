@@ -104,6 +104,7 @@ Some good apps written with Electron.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 - [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows.
+- [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ### Closed Source
 
