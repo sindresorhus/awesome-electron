@@ -105,6 +105,7 @@ Some good apps written with Electron.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 - [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows.
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+- [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
 
 ### Closed Source
 
