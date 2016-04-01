@@ -115,7 +115,6 @@ Some good apps written with Electron.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Media center.
-- [RESTer](http://getrester.com) - Test your APIs and servers.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
 - [Wagon](https://www.wagonhq.com) - SQL editor.
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
