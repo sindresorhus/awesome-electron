@@ -107,6 +107,7 @@ Some good apps written with Electron.
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 
 ### Closed Source
 
