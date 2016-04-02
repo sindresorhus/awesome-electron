@@ -108,6 +108,7 @@ Some good apps written with Electron.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
+- [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check the build/deploy status of your project in your Continuous Integration server.
 
 ### Closed Source
 
