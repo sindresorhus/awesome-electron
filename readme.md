@@ -7,9 +7,22 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
 
 
-## Example apps
+## Table of Contents
 
-Some good apps written with Electron.
+- [Apps](#apps)
+- [Boilerplates](#boilerplates)
+- [Tools](#tools)
+- [Components](#components)
+- [Documentation](#documentation)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Community](#community)
+- [Tips](#tips)
+
+
+## Apps
+
+Some apps made with Electron.
 
 ### Open Source
 
