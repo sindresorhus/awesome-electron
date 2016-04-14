@@ -122,6 +122,7 @@ Some apps made with Electron.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
+- [Min](https://github.com/PalmerAL/Min) - Web browser.
 
 ### Closed Source
 
