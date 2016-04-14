@@ -16,6 +16,7 @@
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Community](#community)
 - [Tips](#tips)
 
@@ -236,6 +237,9 @@ Some apps made with Electron.
 - [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
 - [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
 
+## Podcasts
+
+- [JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
 
 ## Community
 
