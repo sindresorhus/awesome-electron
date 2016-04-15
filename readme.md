@@ -124,6 +124,7 @@ Some apps made with Electron.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Min](https://github.com/PalmerAL/Min) - Web browser.
+- [Note Me] (https://github.com/iamtekeste/noteme) - OS X's Notes app clone for Ubuntu & Windows.
 
 ### Closed Source
 
