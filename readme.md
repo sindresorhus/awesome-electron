@@ -198,6 +198,7 @@ Some apps made with Electron.
 - [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
+- [electron-stream](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 
 ## Components
