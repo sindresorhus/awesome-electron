@@ -239,6 +239,7 @@ Some apps made with Electron.
 - [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
 - [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
 - [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
+- [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
 
 ## Podcasts
 
