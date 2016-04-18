@@ -124,6 +124,7 @@ Some apps made with Electron.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Min](https://github.com/PalmerAL/Min) - Web browser.
+- [Backer Timetracker](http://trimatech.ee/backer-timetracker) - Tracks your time by monitoring your active windows and idle time.
 
 ### Closed Source
 
