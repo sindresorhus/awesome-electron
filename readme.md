@@ -149,6 +149,7 @@ Some apps made with Electron.
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
 - [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+- [DeckHub](https://getdeckhub.com) - A Tweetdeck style desktop client for GitHub.
 
 
 ## Boilerplates
