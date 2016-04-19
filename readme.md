@@ -162,45 +162,50 @@ Some apps made with Electron.
 
 ## Tools
 
+### For Electron
+
+- [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 - [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
-- [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
-- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+- [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
-- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-- [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
-- [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
-- [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
+- [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
+- [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
+- [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+- [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
+- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+- [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
-- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
-- [Nightmare](http://www.nightmarejs.org/) - High-level browser automation library (alternative to PhantomJS).
-- [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
-- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
-- [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+- [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
 - [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
-- [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
-- [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
-- [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
-- [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
-- [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
-- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
-- [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
-- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
 - [electron-installer-windows](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+- [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-json-storage](https://github.com/jviotti/electron-json-storage) - Write and read user settings.
+- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
+- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
+- [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
+- [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+- [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
+
+### Using Electron
+
 - [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
-- [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-- [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
+- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
-- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+- [Nightmare](http://www.nightmarejs.org/) - High-level browser automation library (alternative to PhantomJS).
+- [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
+- [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
+- [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
+- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 
 
 ## Components
