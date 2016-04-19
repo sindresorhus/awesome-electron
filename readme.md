@@ -200,6 +200,7 @@ Some apps made with Electron.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
 
 
 ## Components
