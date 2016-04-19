@@ -125,6 +125,7 @@ Some apps made with Electron.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Min](https://github.com/PalmerAL/Min) - Web browser.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
+- [ThreeDots](https://github.com/ialexryan/threedots-electron) - Asana desktop client.
 
 ### Closed Source
 
