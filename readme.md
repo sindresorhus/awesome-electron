@@ -55,7 +55,6 @@ Made with Electron.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
 - [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from your menubar.
-- [Nuclide](http://nuclide.io) - Unified IDE.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
@@ -75,7 +74,6 @@ Made with Electron.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
-- [Particle Dev](https://github.com/spark/spark-dev) - Professional IDE for Particle.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 - [Fireball](https://github.com/fireball-x/editor-framework) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
