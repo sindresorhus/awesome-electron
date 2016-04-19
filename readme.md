@@ -4,7 +4,7 @@
 
 > Useful resources for creating apps with [Electron](http://electron.atom.io)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
+You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
 
 ## Table of Contents
@@ -23,33 +23,55 @@
 
 ## Apps
 
-Some apps made with Electron.
+Made with Electron.
 
 ### Open Source
 
-- [Atom](https://github.com/atom/atom) - Code editor.
-- [Nuclide](http://nuclide.io) - Unified IDE.
+###### Featured
+
+- [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+- [Min](https://github.com/PalmerAL/Min) - Minimal web browser.
+- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
+- [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
+- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
+- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
+- [Black Screen](https://github.com/shockone/black-screen) - Terminal emulator.
+- [Atom](https://github.com/atom/atom) - Code editor.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+- [N1](https://github.com/nylas/N1) - Extensible email client.
+- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+
+###### Other
+
+- [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+- [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
+- [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
+- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
+- [Medis](https://github.com/luin/medis) - Redis database management.
+- [Kakapo](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
+- [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
+- [Koko](https://github.com/hachibasu/koko) - IRC client.
+- [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
+- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from your menubar.
+- [Nuclide](http://nuclide.io) - Unified IDE.
+- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
+- [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [Kitematic](https://kitematic.com) - Docker container management.
-- [Monu](https://github.com/maxogden/monu) - Process monitoring.
+- [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
 - [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
-- [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
-- [Kart](https://github.com/maddox/kart) - Frontend for RetroArch.
-- [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
+- [Kart](https://github.com/maddox/kart) - Front-end for RetroArch.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
-- [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
-- [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
 - [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
-- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
-- [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
-- [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
+- [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
@@ -59,45 +81,32 @@ Some apps made with Electron.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku](https://github.com/EragonJ/Kaku) - Music player.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
-- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
 - [Markn](https://github.com/minodisk/markn) - Markdown viewer.
 - [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
-- [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
-- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from your menubar.
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
-- [Black Screen](https://github.com/shockone/black-screen) - Terminal emulator.
+- [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [Tèsèvè](https://teseve.github.io) - Static webserver.
-- [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-- [Kakapo](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
 - [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
-- [N1](https://github.com/nylas/N1) - Extensible email client.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
-- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
-- [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub on the command-line.
 - [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
-- [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE from Microsoft.
-- [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
 - [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
+- [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
 - [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
+- [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
-- [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
-- [Medis](https://github.com/luin/medis) - Redis database management.
 - [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview.
-- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP](https://github.com/alchen/DTCP) - Twitter client.
-- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
@@ -107,48 +116,44 @@ Some apps made with Electron.
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
-- [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 - [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
-- [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-- [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
 - [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool.
-- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 - [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows.
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
-- [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
-- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
+- [Ansel](https://github.com/m0g/ansel) - Image organizer.
+- [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
+- [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
-- [Min](https://github.com/PalmerAL/Min) - Web browser.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 
 ### Closed Source
 
+- [GitKraken](http://www.gitkraken.com) - Git client.
+- [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
+- [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+- [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - Share design and collaborate.
 - [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Media center.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
-- [Wagon](https://www.wagonhq.com) - SQL editor.
-- [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
 - [Pingendo](http://pingendo.com) - Bootstrap prototyping.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
-- [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
-- [GitKraken](http://www.gitkraken.com) - Git client.
 - [Wire](https://wire.com) - Messenger and calling app.
-- [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Caret](http://caret.io) - Markdown editor.
-- [Postman](https://www.getpostman.com) - Create and send HTTP requests.
+- [Wagon](https://www.wagonhq.com) - SQL editor.
 - [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
+- [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
-- [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
-- [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+- [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
+- [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 
 
 ## Boilerplates
@@ -156,8 +161,8 @@ Some apps made with Electron.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
-- [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+- [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
 
 
 ## Tools
@@ -190,6 +195,8 @@ Some apps made with Electron.
 - [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-json-storage](https://github.com/jviotti/electron-json-storage) - Write and read user settings.
 - [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+- [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
+- [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
@@ -201,7 +208,7 @@ Some apps made with Electron.
 - [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
-- [Nightmare](http://www.nightmarejs.org/) - High-level browser automation library (alternative to PhantomJS).
+- [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
@@ -210,17 +217,15 @@ Some apps made with Electron.
 
 ## Components
 
-- [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
-- [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
-- [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
-- [window](https://github.com/jprichardson/electron-window) - Easily create and manage windows.
-- [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
-- [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
+- [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
+- [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
+- [window](https://github.com/jprichardson/electron-window) - Easily create and manage windows.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for OS X and Windows built with React.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
+- [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
 
 
 ## Documentation
@@ -255,9 +260,9 @@ Some apps made with Electron.
 
 - [Discuss](https://discuss.atom.io/c/electron)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/electron)
-- [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
-- [`#electron` on Atom Slack](http://atom-slack.herokuapp.com/)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
+- [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
+- [`#electron` on Atom Slack](http://atom-slack.herokuapp.com)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
