@@ -1,0 +1,954 @@
+{
+  "apps": [
+    {
+      "name": "Atom",
+      "href": "https://github.com/atom/atom",
+      "description": "Code editor."
+    },
+    {
+      "name": "Nuclide",
+      "href": "http://nuclide.io",
+      "description": "Unified IDE."
+    },
+    {
+      "name": "Playback",
+      "href": "https://github.com/mafintosh/playback",
+      "description": "Video player."
+    },
+    {
+      "name": "Friends",
+      "href": "https://github.com/moose-team/friends",
+      "description": "P2P chat."
+    },
+    {
+      "name": "Kitematic",
+      "href": "https://kitematic.com",
+      "description": "Docker container management."
+    },
+    {
+      "name": "Monu",
+      "href": "https://github.com/maxogden/monu",
+      "description": "Process monitoring."
+    },
+    {
+      "name": "ScreenCat",
+      "href": "https://github.com/maxogden/screencat",
+      "description": "Screen sharing &amp; remote collaboration."
+    },
+    {
+      "name": "Gulp",
+      "href": "https://github.com/sindresorhus/gulp-app",
+      "description": "Run Gulp tasks from your menubar."
+    },
+    {
+      "name": "Imagemin",
+      "href": "https://github.com/imagemin/imagemin-app",
+      "description": "Minify images."
+    },
+    {
+      "name": "Mapbox Studio",
+      "href": "https://github.com/mapbox/mapbox-studio",
+      "description": "Map designer."
+    },
+    {
+      "name": "LevelUI",
+      "href": "https://github.com/hij1nx/levelui",
+      "description": "LevelDB management."
+    },
+    {
+      "name": "Kart",
+      "href": "https://github.com/maddox/kart",
+      "description": "Frontend for RetroArch."
+    },
+    {
+      "name": "Cuttle",
+      "href": "https://github.com/oakmac/cuttle",
+      "description": "UI for the ClojureScript compiler."
+    },
+    {
+      "name": "Vmd",
+      "href": "https://github.com/yoshuawuyts/vmd",
+      "description": "Preview Markdown files."
+    },
+    {
+      "name": "Kyoku",
+      "href": "https://github.com/cheeaun/kyoku",
+      "description": "Displays current iTunes song."
+    },
+    {
+      "name": "GReader",
+      "href": "https://github.com/Nekle/greader",
+      "description": "Collect and read offline readme files of GitHub repos."
+    },
+    {
+      "name": "Sample apps",
+      "href": "https://github.com/hokein/electron-sample-apps",
+      "description": "Sample apps to illustrate the usage of Electron APIs."
+    },
+    {
+      "name": "Koko",
+      "href": "https://github.com/hachibasu/koko",
+      "description": "IRC client."
+    },
+    {
+      "name": "Leanote",
+      "href": "https://github.com/leanote/desktop-app",
+      "description": "Cloud notepad."
+    },
+    {
+      "name": "Snapper",
+      "href": "https://github.com/prt2121/Snapper",
+      "description": "Screen capturing &amp; recording for Android devices."
+    },
+    {
+      "name": "Gitify",
+      "href": "https://github.com/ekonstantinidis/gitify",
+      "description": "GitHub notifications in your menubar."
+    },
+    {
+      "name": "Colonizers",
+      "href": "https://github.com/colonizers/colonizers-desktop",
+      "description": "&quot;Catan&quot; inspired board game."
+    },
+    {
+      "name": "Cumulus",
+      "href": "https://github.com/gillesdemey/Cumulus",
+      "description": "SoundCloud player in your menubar."
+    },
+    {
+      "name": "We Build SG",
+      "href": "https://github.com/webuildsg/osx",
+      "description": "Upcoming events &amp; recently updated repos from webuild.sg."
+    },
+    {
+      "name": "Piglet",
+      "href": "https://github.com/jenslind/piglet",
+      "description": "Run Grunt tasks from your menubar."
+    },
+    {
+      "name": "Yoda",
+      "href": "https://github.com/whoisandie/yoda",
+      "description": "Browse and download YouTube videos."
+    },
+    {
+      "name": "Particle Dev",
+      "href": "https://github.com/spark/spark-dev",
+      "description": "Professional IDE for Particle."
+    },
+    {
+      "name": "Loop Drop",
+      "href": "https://github.com/mmckegg/loop-drop-app",
+      "description": "MIDI looper and synth for live electronic music performances."
+    },
+    {
+      "name": "Fireball",
+      "href": "https://github.com/fireball-x/editor-framework",
+      "description": "Hackable game editor for creating mobile and HTML5 games."
+    },
+    {
+      "name": "Toby",
+      "href": "https://github.com/frankhale/toby",
+      "description": "YouTube player."
+    },
+    {
+      "name": "Kaku",
+      "href": "https://github.com/EragonJ/Kaku",
+      "description": "Music player."
+    },
+    {
+      "name": "Yeoman",
+      "href": "https://github.com/yeoman/yeoman-app",
+      "description": "Scaffold projects using Yeoman."
+    },
+    {
+      "name": "Mojibar",
+      "href": "https://github.com/muan/mojibar",
+      "description": "Emoji searcher in your menubar."
+    },
+    {
+      "name": "Markn",
+      "href": "https://github.com/minodisk/markn",
+      "description": "Markdown viewer."
+    },
+    {
+      "name": "Shiba",
+      "href": "https://github.com/rhysd/Shiba",
+      "description": "Live Markdown preview with linting."
+    },
+    {
+      "name": "Yays",
+      "href": "https://github.com/Bahlaouane-Hamza/Yays",
+      "description": "YouTube music player in your menubar."
+    },
+    {
+      "name": "nuTorrent",
+      "href": "https://github.com/LeeChSien/nuTorrent",
+      "description": "BitTorrent client."
+    },
+    {
+      "name": "Soundcast",
+      "href": "https://github.com/andresgottlieb/soundcast",
+      "description": "Cast OS X audio to Chromecast from your menubar."
+    },
+    {
+      "name": "TimoFM",
+      "href": "https://github.com/sapjax/TimoFM",
+      "description": "DoubanFM music player."
+    },
+    {
+      "name": "Black Screen",
+      "href": "https://github.com/shockone/black-screen",
+      "description": "Terminal emulator."
+    },
+    {
+      "name": "Tèsèvè",
+      "href": "https://teseve.github.io",
+      "description": "Static webserver."
+    },
+    {
+      "name": "Caprine",
+      "href": "https://github.com/sindresorhus/caprine",
+      "description": "Unofficial Facebook Messenger app."
+    },
+    {
+      "name": "Kakapo",
+      "href": "https://github.com/bluedaniel/kakapo-app",
+      "description": "Ambient sound mixer for relaxation or productivity."
+    },
+    {
+      "name": "DevDogs",
+      "href": "https://github.com/ragingwind/devdogs",
+      "description": "DevDocs.io API documentation."
+    },
+    {
+      "name": "Trendy",
+      "href": "https://rhysd.github.io/Trendy/",
+      "description": "Trending GitHub repos in your menubar."
+    },
+    {
+      "name": "N1",
+      "href": "https://github.com/nylas/N1",
+      "description": "Extensible email client."
+    },
+    {
+      "name": "google-music-electron",
+      "href": "https://github.com/twolfson/google-music-electron",
+      "description": "Unofficial Google music app."
+    },
+    {
+      "name": "Mancy",
+      "href": "https://github.com/princejwesley/Mancy",
+      "description": "JavaScript REPL."
+    },
+    {
+      "name": "Pomodoro",
+      "href": "https://g07cha.github.io/pomodoro/",
+      "description": "Timer based on the Pomodoro Technique."
+    },
+    {
+      "name": "Git-it",
+      "href": "https://github.com/jlord/git-it-electron",
+      "description": "Teaches you Git and GitHub on the command-line."
+    },
+    {
+      "name": "Sia-UI",
+      "href": "http://sia.tech",
+      "description": "Decentralized file storage system based on cryptocurrency technology."
+    },
+    {
+      "name": "MarkRight",
+      "href": "https://github.com/dvcrn/markright",
+      "description": "GitHub flavored Markdown editor with live preview."
+    },
+    {
+      "name": "SpaceRadar",
+      "href": "https://github.com/zz85/space-radar",
+      "description": "Interactive disk space and memory visualization."
+    },
+    {
+      "name": "Visual Studio Code",
+      "href": "https://github.com/Microsoft/vscode",
+      "description": "Cross-platform IDE from Microsoft."
+    },
+    {
+      "name": "KeeWeb",
+      "href": "https://github.com/antelle/keeweb",
+      "description": "Unofficial KeePass app."
+    },
+    {
+      "name": "Mongotron",
+      "href": "https://github.com/officert/mongotron",
+      "description": "MongoDB management tool."
+    },
+    {
+      "name": "Eintopf",
+      "href": "https://github.com/mazehall/eintopf",
+      "description": "Manage development projects with Docker."
+    },
+    {
+      "name": "WhatsDesktop",
+      "href": "https://github.com/mawie81/whatsdesktop",
+      "description": "Unofficial WhatsApp app."
+    },
+    {
+      "name": "Sqlectron",
+      "href": "https://github.com/sqlectron/sqlectron-gui",
+      "description": "SQL client."
+    },
+    {
+      "name": "docker-indicator",
+      "href": "https://github.com/khornberg/docker-indicator",
+      "description": "Unofficial Docker menubar app."
+    },
+    {
+      "name": "Light Table",
+      "href": "https://github.com/LightTable/LightTable",
+      "description": "Code editor with instant feedback."
+    },
+    {
+      "name": "Tubehead",
+      "href": "https://github.com/makotot/Tubehead",
+      "description": "YouTube music player in your menubar."
+    },
+    {
+      "name": "Chrome DevTools",
+      "href": "https://github.com/auchenberg/chrome-devtools-app",
+      "description": "Chrome DevTools packaged as an app."
+    },
+    {
+      "name": "Yeobara",
+      "href": "https://github.com/yeobara/yeobara-desktop",
+      "description": "Meetup check-in with beacon."
+    },
+    {
+      "name": "SmartMirror",
+      "href": "https://github.com/evancohen/smart-mirror",
+      "description": "Voice controlled smart mirror."
+    },
+    {
+      "name": "Medis",
+      "href": "https://github.com/luin/medis",
+      "description": "Redis database management."
+    },
+    {
+      "name": "Proton",
+      "href": "https://github.com/steventhanna/proton",
+      "description": "Markdown editor with live preview."
+    },
+    {
+      "name": "Brave",
+      "href": "https://github.com/brave/browser-laptop",
+      "description": "Privacy-focused web browser."
+    },
+    {
+      "name": "James",
+      "href": "https://github.com/uxebu/james",
+      "description": "HTTP proxy to view and intercept browser requests."
+    },
+    {
+      "name": "DTCP",
+      "href": "https://github.com/alchen/DTCP",
+      "description": "Twitter client."
+    },
+    {
+      "name": "Abricotine",
+      "href": "https://github.com/brrd/Abricotine",
+      "description": "Markdown editor with inline preview."
+    },
+    {
+      "name": "Inbox",
+      "href": "https://github.com/fgnass/inbox-app",
+      "description": "Unofficial Google Inbox app."
+    },
+    {
+      "name": "alienbox",
+      "href": "http://a9.io/alienbox/",
+      "description": "Reddit inbox &amp; notifier in your menubar."
+    },
+    {
+      "name": "tweet-rec",
+      "href": "https://github.com/midnightSuyama/tweet-rec",
+      "description": "Tweet recording player."
+    },
+    {
+      "name": "Snippet Bar",
+      "href": "https://github.com/teesloane/snippet-bar",
+      "description": "Copy-paste &amp; re-use text snippets in your menubar."
+    },
+    {
+      "name": "Electronic WeChat",
+      "href": "https://github.com/geeeeeeeeek/electronic-wechat",
+      "description": "Unofficial WeChat app."
+    },
+    {
+      "name": "dida",
+      "href": "https://github.com/xwartz/dida",
+      "description": "Add tasks to TickTick (&#x6EF4;&#x7B54;&#x6E05;&#x5355;) with a shortcut."
+    },
+    {
+      "name": "FromScratch",
+      "href": "https://github.com/kilian/fromscratch",
+      "description": "Autosaving scratchpad."
+    },
+    {
+      "name": "Hawkpass",
+      "href": "https://github.com/kalpetros/hawkpass-desktop",
+      "description": "Password generator."
+    },
+    {
+      "name": "Gokotta",
+      "href": "https://github.com/Zhangdroid/Gokotta",
+      "description": "Music player."
+    },
+    {
+      "name": "Google Play Music Desktop Player",
+      "href": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+      "description": "Unofficial Google Play Music app."
+    },
+    {
+      "name": "Shake",
+      "href": "https://github.com/lumios/shake",
+      "description": "Japanese Earthquake Early Warning Notifier."
+    },
+    {
+      "name": "WebTorrent",
+      "href": "https://github.com/feross/webtorrent-app",
+      "description": "Streaming torrent client."
+    },
+    {
+      "name": "Ansel",
+      "href": "https://github.com/m0g/ansel",
+      "description": "Image organizer."
+    },
+    {
+      "name": "Fog",
+      "href": "https://github.com/vitorgalvao/fog",
+      "description": "Unofficial Overcast podcast app."
+    },
+    {
+      "name": "Wmail",
+      "href": "https://github.com/Thomas101/wmail",
+      "description": "Unofficial Gmail &amp; Google Inbox app."
+    },
+    {
+      "name": "Boostnote",
+      "href": "https://github.com/BoostIO/Boostnote",
+      "description": "Markdown note app for developers."
+    },
+    {
+      "name": "Before Dawn",
+      "href": "https://github.com/muffinista/before-dawn",
+      "description": "Screensaver tool."
+    },
+    {
+      "name": "Nocturn",
+      "href": "https://github.com/k0kubun/Nocturn",
+      "description": "Twitter client."
+    },
+    {
+      "name": "Active Collab",
+      "href": "https://github.com/nurtext/active-collab-desktop",
+      "description": "Unofficial Active Collab app."
+    },
+    {
+      "name": "Hain",
+      "href": "https://github.com/appetizermonster/hain",
+      "description": "Launcher for Windows."
+    },
+    {
+      "name": "Catify",
+      "href": "https://github.com/MeoBeoI/Catify",
+      "description": "Utility for Spotify."
+    },
+    {
+      "name": "FatFileFinder",
+      "href": "https://github.com/pwambach/fat-file-finder",
+      "description": "Find large files on your machine."
+    },
+    {
+      "name": "Minira",
+      "href": "https://github.com/jenslind/minira",
+      "description": "JIRA issues in your menubar."
+    },
+    {
+      "name": "Simplenote",
+      "href": "https://github.com/Automattic/simplenote-electron",
+      "description": "Note keeper."
+    },
+    {
+      "name": "Build Checker App",
+      "href": "https://github.com/willmendesneto/build-checker-app",
+      "description": "Check CI-server build statuses."
+    },
+    {
+      "name": "Min",
+      "href": "https://github.com/PalmerAL/Min",
+      "description": "Web browser."
+    },
+    {
+      "name": "Slack",
+      "href": "https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f",
+      "description": "Desktop version."
+    },
+    {
+      "name": "Avocode",
+      "href": "http://avocode.com",
+      "description": "Share design and collaborate."
+    },
+    {
+      "name": "Pixate",
+      "href": "http://www.pixate.com",
+      "description": "Mobile interaction designer."
+    },
+    {
+      "name": "Prepros",
+      "href": "https://prepros.io",
+      "description": "Compile almost any preprocessing language with live browser refresh."
+    },
+    {
+      "name": "Stremio",
+      "href": "http://www.strem.io",
+      "description": "Media center."
+    },
+    {
+      "name": "Typetalk",
+      "href": "http://www.typetalk.in",
+      "description": "Share and discuss ideas with your team through instant messaging."
+    },
+    {
+      "name": "Wagon",
+      "href": "https://www.wagonhq.com",
+      "description": "SQL editor."
+    },
+    {
+      "name": "Pubu",
+      "href": "https://pubu.im",
+      "description": "Real-time chat for team communication. <em>(Chinese)</em>"
+    },
+    {
+      "name": "Pingendo",
+      "href": "http://pingendo.com",
+      "description": "Bootstrap prototyping."
+    },
+    {
+      "name": "Spreaker Studio",
+      "href": "https://www.spreaker.com/download",
+      "description": "Audio recording and broadcasting."
+    },
+    {
+      "name": "BearyChat",
+      "href": "https://bearychat.com",
+      "description": "Team messaging service. <em>(Chinese)</em>"
+    },
+    {
+      "name": "MockingBot",
+      "href": "https://mockingbot.com",
+      "description": "Prototyping tool for designing apps."
+    },
+    {
+      "name": "GitKraken",
+      "href": "http://www.gitkraken.com",
+      "description": "Git client."
+    },
+    {
+      "name": "Wire",
+      "href": "https://wire.com",
+      "description": "Messenger and calling app."
+    },
+    {
+      "name": "Sync",
+      "href": "https://www.wantedly.com/sync",
+      "description": "Team group messaging. <em>(Japanese)</em>"
+    },
+    {
+      "name": "Caret",
+      "href": "http://caret.io",
+      "description": "Markdown editor."
+    },
+    {
+      "name": "Postman",
+      "href": "https://www.getpostman.com",
+      "description": "Create and send HTTP requests."
+    },
+    {
+      "name": "SIV",
+      "href": "http://www.integritytools.com/siv/",
+      "description": "Extensible image viewer."
+    },
+    {
+      "name": "Remember",
+      "href": "https://rememberapp.co.kr",
+      "description": "Business card management. <em>(Korean)</em>"
+    },
+    {
+      "name": "1Clipboard",
+      "href": "http://1clipboard.io",
+      "description": "Universal clipboard manager."
+    },
+    {
+      "name": "Franz",
+      "href": "http://meetfranz.com",
+      "description": "Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app."
+    }
+  ],
+  "boilerplates": [
+    {
+      "name": "electron-boilerplate",
+      "href": "https://github.com/sindresorhus/electron-boilerplate",
+      "description": "Boilerplate to kickstart creating an app."
+    },
+    {
+      "name": "generator-electron",
+      "href": "https://github.com/sindresorhus/generator-electron",
+      "description": "Scaffold out an app boilerplate."
+    },
+    {
+      "name": "electron-boilerplate",
+      "href": "https://github.com/szwacz/electron-boilerplate",
+      "description": "Comprehensive boilerplate which even generates installers."
+    },
+    {
+      "name": "descjop",
+      "href": "https://github.com/karad/lein_template_descjop",
+      "description": "ClojureScript boilerplate for creating an app."
+    },
+    {
+      "name": "electron-react-boilerplate",
+      "href": "https://github.com/chentsulin/electron-react-boilerplate",
+      "description": "Boilerplate based on React and webpack."
+    }
+  ],
+  "tools": [
+    {
+      "name": "electron-packager",
+      "href": "https://github.com/electron-userland/electron-packager",
+      "description": "Package and distribute your app."
+    },
+    {
+      "name": "electron-builder",
+      "href": "https://github.com/loopline-systems/electron-builder",
+      "description": "Create installers."
+    },
+    {
+      "name": "electron-prebuilt",
+      "href": "https://github.com/mafintosh/electron-prebuilt",
+      "description": "Install prebuilt Electron binaries for command-line use using npm."
+    },
+    {
+      "name": "electron-debug",
+      "href": "https://github.com/sindresorhus/electron-debug",
+      "description": "Adds useful debug features."
+    },
+    {
+      "name": "electron-rebuild",
+      "href": "https://github.com/paulcbetts/electron-rebuild",
+      "description": "Rebuild native Node.js modules against the currently installed Electron version."
+    },
+    {
+      "name": "electron-gh-release",
+      "href": "https://github.com/jenslind/electron-gh-releases",
+      "description": "Auto-update by releasing on GitHub."
+    },
+    {
+      "name": "electron-release",
+      "href": "https://github.com/jenslind/electron-release",
+      "description": "Publish a new release of your app to GitHub."
+    },
+    {
+      "name": "electron-updater",
+      "href": "https://github.com/evolvelabs/electron-updater",
+      "description": "Auto-updater leveraging npm to deploy updates."
+    },
+    {
+      "name": "electron-download",
+      "href": "https://github.com/electron-userland/electron-download",
+      "description": "Download the Electron release zip from GitHub."
+    },
+    {
+      "name": "electron-compile",
+      "href": "https://github.com/paulcbetts/electron-compile",
+      "description": "Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step."
+    },
+    {
+      "name": "fix-path",
+      "href": "https://github.com/sindresorhus/fix-path",
+      "description": "Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process."
+    },
+    {
+      "name": "editor-framework",
+      "href": "https://github.com/fireball-x/editor-framework",
+      "description": "Easily create dockable IDE apps."
+    },
+    {
+      "name": "electron-mocha",
+      "href": "https://github.com/jprichardson/electron-mocha",
+      "description": "Run your Mocha tests in Electron."
+    },
+    {
+      "name": "electron-positioner",
+      "href": "https://github.com/jenslind/electron-positioner",
+      "description": "Position windows at common spots."
+    },
+    {
+      "name": "electron-pdf",
+      "href": "https://github.com/fraserxu/electron-pdf",
+      "description": "Generate PDF from URL, HTML, or Markdown files on the command-line."
+    },
+    {
+      "name": "Nightmare",
+      "href": "http://www.nightmarejs.org/",
+      "description": "High-level browser automation library (alternative to PhantomJS)."
+    },
+    {
+      "name": "Geojsonapp",
+      "href": "https://github.com/mick/geojsonapp",
+      "description": "Preview GeoJSON locally."
+    },
+    {
+      "name": "electron-detach",
+      "href": "https://github.com/parro-it/electron-detach",
+      "description": "Restart an Electron app as a detached process."
+    },
+    {
+      "name": "electron-localshortcut",
+      "href": "https://github.com/parro-it/electron-localshortcut",
+      "description": "Add keyboard shortcuts locally to a window."
+    },
+    {
+      "name": "electron-drag",
+      "href": "https://github.com/kapetan/electron-drag",
+      "description": "Improved window dragging."
+    },
+    {
+      "name": "debug-menu",
+      "href": "https://github.com/parro-it/debug-menu",
+      "description": "Chrome-like &quot;inspect element&quot; context-menu."
+    },
+    {
+      "name": "electron-sudo",
+      "href": "https://github.com/automation-stack/electron-sudo",
+      "description": "Subprocesses with administrative privileges."
+    },
+    {
+      "name": "electron-dl",
+      "href": "https://github.com/sindresorhus/electron-dl",
+      "description": "Simplified file downloads."
+    },
+    {
+      "name": "electron-har",
+      "href": "https://github.com/shyiko/electron-har",
+      "description": "Command-line tool for generating HTTP Archive (HAR)."
+    },
+    {
+      "name": "electron-window-state",
+      "href": "https://github.com/mawie81/electron-window-state",
+      "description": "Save and restore window sizes and positions."
+    },
+    {
+      "name": "nuts",
+      "href": "https://github.com/GitbookIO/nuts",
+      "description": "Releases server with auto-updater and GitHub as a backend."
+    },
+    {
+      "name": "electrify",
+      "href": "https://github.com/arboleya/electrify",
+      "description": "Package Meteor apps."
+    },
+    {
+      "name": "nativefier",
+      "href": "https://github.com/jiahaog/nativefier",
+      "description": "Create an app of any website."
+    },
+    {
+      "name": "ember-electron",
+      "href": "https://github.com/felixrieseberg/ember-electron",
+      "description": "Build, test, and package Ember apps."
+    },
+    {
+      "name": "electron-osx-sign",
+      "href": "https://github.com/electron-userland/electron-osx-sign",
+      "description": "Code-signing for OS X apps."
+    },
+    {
+      "name": "electron-installer-debian",
+      "href": "https://github.com/unindented/electron-installer-debian",
+      "description": "Create a Debian package."
+    },
+    {
+      "name": "electron-installer-redhat",
+      "href": "https://github.com/unindented/electron-installer-redhat",
+      "description": "Create a Red Hat package."
+    },
+    {
+      "name": "electron-installer-windows",
+      "href": "https://github.com/unindented/electron-installer-windows",
+      "description": "Create a Windows package."
+    },
+    {
+      "name": "electron-json-storage",
+      "href": "https://github.com/jviotti/electron-json-storage",
+      "description": "Write and read user settings."
+    },
+    {
+      "name": "devtool",
+      "href": "https://github.com/Jam3/devtool",
+      "description": "Debug Node.js with Chrome DevTools."
+    },
+    {
+      "name": "electron-release-server",
+      "href": "https://github.com/ArekSredzki/electron-release-server",
+      "description": "Self-hosted release server with front-end &amp; auto-updater support."
+    }
+  ],
+  "components": [
+    {
+      "name": "menubar",
+      "href": "https://github.com/maxogden/menubar",
+      "description": "High-level way to create a menubar app."
+    },
+    {
+      "name": "titlebar",
+      "href": "https://github.com/kapetan/titlebar",
+      "description": "Emulate the OS X window titlebar."
+    },
+    {
+      "name": "chrome-tabs",
+      "href": "https://github.com/adamschwartz/chrome-tabs",
+      "description": "Chrome like tabs."
+    },
+    {
+      "name": "cookies",
+      "href": "https://github.com/hstove/electron-cookies",
+      "description": "Adds support for <code>document.cookie</code>."
+    },
+    {
+      "name": "window",
+      "href": "https://github.com/jprichardson/electron-window",
+      "description": "Easily create and manage windows."
+    },
+    {
+      "name": "is-electron-renderer",
+      "href": "https://github.com/jprichardson/is-electron-renderer",
+      "description": "Check if your code is running in <code>main</code> or <code>renderer</code>."
+    },
+    {
+      "name": "ipc-stream",
+      "href": "https://github.com/jprichardson/electron-ipc-stream",
+      "description": "Duplex stream over IPC."
+    },
+    {
+      "name": "Photon",
+      "href": "http://photonkit.com",
+      "description": "UI toolkit for building beautiful apps."
+    },
+    {
+      "name": "React PhotonKit",
+      "href": "https://github.com/react-photonkit/react-photonkit",
+      "description": "Photon components built with React."
+    },
+    {
+      "name": "React Desktop",
+      "href": "https://github.com/gabrielbull/react-desktop",
+      "description": "UI toolkit for OS X and Windows built with React."
+    },
+    {
+      "name": "electron-input-menu",
+      "href": "https://github.com/parro-it/electron-input-menu",
+      "description": "Context menu for input elements."
+    }
+  ],
+  "documentation": [
+    {
+      "name": "Quick Start",
+      "href": "http://electron.atom.io/docs/latest/tutorial/quick-start/"
+    },
+    {
+      "name": "Official docs",
+      "href": "http://electron.atom.io/docs/latest/"
+    },
+    {
+      "name": "Architecture overview",
+      "href": "https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md"
+    }
+  ],
+  "articles": [
+    {
+      "name": "Electron Fundamentals",
+      "href": "http://maxogden.com/electron-fundamentals.html"
+    },
+    {
+      "name": "Building a desktop application with Electron",
+      "href": "https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658"
+    },
+    {
+      "name": "Codesigning your app for OS X",
+      "href": "http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/"
+    },
+    {
+      "name": "Auto-updating apps for Windows and OS X: The complete guide",
+      "href": "https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Creating Desktop Apps with Electron",
+      "href": "https://www.youtube.com/watch?v=ojX5yz35v4M"
+    },
+    {
+      "name": "Packaging and Distributing Electron Desktop Apps",
+      "href": "https://www.youtube.com/watch?v=dz5SnmBzBXc"
+    },
+    {
+      "name": "Multi Window Electron Desktop Apps",
+      "href": "https://www.youtube.com/watch?v=K-H2amwQ_pU"
+    },
+    {
+      "name": "The State of Electron",
+      "href": "https://www.youtube.com/watch?v=RaPmi-33rfc"
+    },
+    {
+      "name": "Cross-Platform Desktop Apps with Electron",
+      "href": "https://www.youtube.com/watch?v=Xs3Oc4weZbw"
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain",
+      "href": "https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain"
+    }
+  ],
+  "community": [
+    {
+      "name": "Discuss",
+      "href": "https://discuss.atom.io/c/electron"
+    },
+    {
+      "name": "StackOverflow",
+      "href": "http://stackoverflow.com/questions/tagged/electron"
+    },
+    {
+      "name": "#atom-shell on Freenode",
+      "href": "http://webchat.freenode.net/?channels=atom-shell"
+    },
+    {
+      "name": "#electron on Atom Slack",
+      "href": "http://atom-slack.herokuapp.com/"
+    },
+    {
+      "name": "@electronjs on Twitter",
+      "href": "https://twitter.com/electronjs"
+    },
+    {
+      "name": "electron-jp",
+      "href": "https://electron-jp-slackin.herokuapp.com"
+    },
+    {
+      "name": "electron-br",
+      "href": "https://electron-br.slack.com"
+    },
+    {
+      "name": "electron-kr",
+      "href": "http://www.meetup.com/electronkr"
+    }
+  ]
+}
