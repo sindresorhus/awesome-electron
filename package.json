@@ -2,9 +2,8 @@
   "name": "awesome-electron",
   "version": "1.0.0",
   "description": "Useful resources for creating apps with Electron",
-  "main": "index.json",
+  "main": "index.js",
   "scripts": {
-    "build": "node build.js > index.json",
     "test": "node test.js | tap-spec"
   },
   "repository": "github:sindresorhus/awesome-electron",
@@ -22,7 +21,6 @@
   },
   "homepage": "https://github.com/sindresorhus/awesome-electron#readme",
   "devDependencies": {
-    "marky-markdown-lite": "^1.0.1",
     "tap-spec": "^4.1.1",
     "tape": "^4.5.1"
   }
