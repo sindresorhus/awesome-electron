@@ -19,7 +19,6 @@ module.exports = function() {
         var cat = slug(line.replace(headingPattern, ''))
         if (ignoredCategories.indexOf(cat) > -1) return
         category = cat
-        console.log(category)
         subcategory = null
         return
       }
