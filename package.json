@@ -19,9 +19,17 @@
   "bugs": {
     "url": "https://github.com/sindresorhus/awesome-electron/issues"
   },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
   "homepage": "https://github.com/sindresorhus/awesome-electron#readme",
   "devDependencies": {
     "tap-spec": "^4.1.1",
     "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "brfs": "^1.4.3"
   }
 }
