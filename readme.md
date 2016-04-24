@@ -167,9 +167,9 @@ Made with Electron.
 
 ### For Electron
 
-- [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
+- [electron-prebuilt](https://github.com/electron-userland/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
-- [electron-builder](https://github.com/loopline-systems/electron-builder) - Create installers.
+- [electron-builder](https://github.com/electron-userland/electron-builder) - Create installers.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 - [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
