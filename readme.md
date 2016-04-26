@@ -200,6 +200,7 @@ Made with Electron.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
+- [spectron](https://github.com/kevinsawicki/spectron) - Test Electron apps using ChromeDriver.
 
 ### Using Electron
 
