@@ -201,6 +201,7 @@ Made with Electron.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron](https://github.com/kevinsawicki/spectron) - Test Electron apps using ChromeDriver.
+- [basel](http://baseljs.github.io/) - Build Electron apps and create CRUDs with Bootstrap, AngularJS and SQLite.
 
 ### Using Electron
 
