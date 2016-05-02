@@ -128,6 +128,7 @@ Made with Electron.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
+- [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
 
 ### Closed Source
 
