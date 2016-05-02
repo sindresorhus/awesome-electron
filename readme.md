@@ -129,6 +129,7 @@ Made with Electron.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
+- [WordPress.com](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
 
 ### Closed Source
 
