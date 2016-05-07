@@ -183,8 +183,8 @@ Made with Electron.
 - [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
-- [electron-compile](https://github.com/paulcbetts/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
+- [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+- [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
@@ -202,7 +202,7 @@ Made with Electron.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
-- [spectron](https://github.com/kevinsawicki/spectron) - Test Electron apps using ChromeDriver.
+- [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
 
 ### Using Electron
 
