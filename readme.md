@@ -261,7 +261,7 @@ Made with Electron.
 ## Community
 
 - [Discuss](https://discuss.atom.io/c/electron)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/electron)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/electron)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`#electron` on Atom Slack](http://atom-slack.herokuapp.com)
