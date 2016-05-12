@@ -155,6 +155,7 @@ Made with Electron.
 - [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
+- [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 
 
 ## Boilerplates
