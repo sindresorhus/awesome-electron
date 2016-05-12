@@ -255,6 +255,7 @@ Made with Electron.
 - [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
 - [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
 - [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
+- [The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences](https://www.youtube.com/watch?v=jRPUB-D1Wx0)
 
 ## Podcasts
 
