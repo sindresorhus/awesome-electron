@@ -204,6 +204,7 @@ Made with Electron.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
+- [is-electron](https://github.com/delvedor/is-electron) - An 'is' utility which provides a set of handy functions, with a self-descriptive name.
 
 ### Using Electron
 
