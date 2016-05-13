@@ -171,6 +171,7 @@ Made with Electron.
 
 ### For Electron
 
+- [devtron](https://github.com/electron/devtron) - Official DevTools extension.
 - [electron-prebuilt](https://github.com/electron-userland/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
 - [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 - [electron-builder](https://github.com/electron-userland/electron-builder) - Create installers.
