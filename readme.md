@@ -206,6 +206,7 @@ Made with Electron.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
+- [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
 
 ### Using Electron
 
