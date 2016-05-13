@@ -208,6 +208,7 @@ Made with Electron.
 - [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
 - [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
+- [scram-engine](https://github.com/scramjs/scram-engine) - Write server apps declaratively with HTML and web components.
 
 ### Using Electron
 
@@ -233,6 +234,7 @@ Made with Electron.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
+- [express-web-components](https://github.com/scramjs/express-web-components) - Declaratively build Express.js applications with web components.
 
 
 ## Documentation
