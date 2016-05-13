@@ -219,7 +219,7 @@ Made with Electron.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
-
+- [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Microsoft Tool to compile Electron apps as AppX packages.
 
 ## Components
 
