@@ -165,7 +165,7 @@ Made with Electron.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
-- [electron-quick-start] (https://github.com/electron/electron-quick-start) *(by electron)* - Clone to try a simple Electron app
+- [electron-quick-start] (https://github.com/electron/electron-quick-start)  - Clone repo to try a simple app.
 
 
 ## Tools
