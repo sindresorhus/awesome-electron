@@ -30,7 +30,7 @@ Made with Electron.
 ###### Featured
 
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-- [Min](https://github.com/PalmerAL/Min) - Minimal web browser.
+- [Min](https://github.com/minbrowser/min) - Minimal web browser.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
@@ -129,6 +129,9 @@ Made with Electron.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
+- [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
+- [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
+- [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 
 ### Closed Source
 
@@ -166,6 +169,7 @@ Made with Electron.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
 - [bozon](https://github.com/railsware/bozon) - Simple tool for scaffolding, running, testing, and packaging your application.
+- [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 
 
 ## Tools
