@@ -131,7 +131,7 @@ Made with Electron.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
 - [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
-- [douban.fm](https://github.com/xwartz/douban.fm) - douban.fm music player.
+- [PupaFM](https://github.com/xwartz/PupaFM) - douban.fm music player.
 
 ### Closed Source
 
