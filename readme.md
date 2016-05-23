@@ -132,6 +132,7 @@ Made with Electron.
 - [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Simple & beautiful desktop client for WhatsApp Web.
+- [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 
 ### Closed Source
 
@@ -169,6 +170,7 @@ Made with Electron.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
+- [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 
 ## Tools
