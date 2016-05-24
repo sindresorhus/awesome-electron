@@ -131,6 +131,7 @@ Made with Electron.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
 - [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
+- [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 
 ### Closed Source
