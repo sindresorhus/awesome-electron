@@ -133,6 +133,7 @@ Made with Electron.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
+- [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 
 ### Closed Source
 
