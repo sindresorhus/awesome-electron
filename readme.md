@@ -134,6 +134,7 @@ Made with Electron.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
+- [HyperTunes](https://github.com/facekapow/hypertunes) - An open source music player app, with support for custom backends.
 
 ### Closed Source
 
