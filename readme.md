@@ -216,9 +216,9 @@ Made with Electron.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
 - [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing OS X's appearance settings.
-- [oauth-electron-facebook](https://github.com/kanekotic/oauth-electron-facebook) - Oauth management component for facebook.
-- [oauth-electron-twitter](https://github.com/kanekotic/oauth-electron-twitter) - Oauth management component for twitter.
-- [oauth-electron](https://github.com/kanekotic/oauth-electron) - General Oauth management component.
+- [oauth-electron-facebook](https://github.com/kanekotic/oauth-electron-facebook) - Oauth management workflow abstraction for facebook.
+- [oauth-electron-twitter](https://github.com/kanekotic/oauth-electron-twitter) - Oauth management workflow abstraction for twitter.
+- [oauth-electron](https://github.com/kanekotic/oauth-electron) - General Oauth management workflow abstraction.
 
 ### Using Electron
 
