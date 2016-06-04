@@ -134,6 +134,7 @@ Made with Electron.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on Mac OS X and Linux.
 
 ### Closed Source
 
