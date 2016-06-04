@@ -41,7 +41,6 @@ Made with Electron.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [N1](https://github.com/nylas/N1) - Extensible email client.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on Mac OS X and Linux.
 
 ###### Other
 
@@ -135,6 +134,7 @@ Made with Electron.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - A better WeChat on Mac OS X and Linux.
 
 ### Closed Source
 
