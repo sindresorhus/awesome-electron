@@ -134,6 +134,7 @@ Made with Electron.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
+- [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 
 ### Closed Source
 
