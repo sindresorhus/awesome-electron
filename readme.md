@@ -135,6 +135,7 @@ Made with Electron.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 - [HyperTunes](https://github.com/facekapow/hypertunes) - An open source music player app, with support for custom backends.
+- [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 
 ### Closed Source
 
