@@ -135,7 +135,6 @@ Made with Electron.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
-- [Crypter](https://github.com/HR/Crypter) - Secure encryption client.
 
 ### Closed Source
 
@@ -278,6 +277,7 @@ Made with Electron.
 
 - [Discuss](https://discuss.atom.io/c/electron)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/electron)
+- [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`#electron` on Atom Slack](http://atom-slack.herokuapp.com)
