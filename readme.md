@@ -15,6 +15,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Components](#components)
 - [Documentation](#documentation)
 - [Articles](#articles)
+- [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Community](#community)
