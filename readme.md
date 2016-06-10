@@ -260,6 +260,9 @@ Made with Electron.
 - [Codesigning your app for OS X](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for Windows and OS X: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 
+## Books
+
+- [Electron in Action](https://www.manning.com/books/electron-in-action) - Manning Early Access Program (MEAP), estimated publication in summer of 2017.
 
 ## Videos
 
