@@ -14,6 +14,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Tools](#tools)
 - [Components](#components)
 - [Documentation](#documentation)
+- [Books](#books)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -252,6 +253,11 @@ Made with Electron.
 - [Official docs](http://electron.atom.io/docs/latest/)
 - [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
 
+
+## Books
+
+- [Cross Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications)
+- [Electron in Action](https://www.manning.com/books/electron-in-action)
 
 ## Articles
 
