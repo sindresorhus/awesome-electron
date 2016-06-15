@@ -163,6 +163,7 @@ Made with Electron.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
+- [CatLight](https://catlight.io) - Build status notifier.
 
 
 ## Boilerplates
