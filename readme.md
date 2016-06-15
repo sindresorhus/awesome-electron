@@ -136,6 +136,7 @@ Made with Electron.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 - [Crypter](https://github.com/HR/Crypter) - Secure encryption client.
+- [Menubar TimeTable](https://github.com/willyb321/electron-menubar-timetable) - Timetable app for menubar on OS X.  
 
 ### Closed Source
 
