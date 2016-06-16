@@ -136,6 +136,7 @@ Made with Electron.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 - [Crypter](https://github.com/HR/Crypter) - Secure encryption client.
+- [yakyak](https://github.com/yakyak/yakyak) - Unofficial Desktop chat client for Google Hangouts.
 
 ### Closed Source
 
