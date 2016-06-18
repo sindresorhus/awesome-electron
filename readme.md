@@ -263,6 +263,7 @@ Made with Electron.
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
+- [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
 
 
 ## Videos
