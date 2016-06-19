@@ -222,6 +222,7 @@ Made with Electron.
 - [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings.
 - [electron-config](https://github.com/sindresorhus/electron-config) - Persist user settings and other data.
+- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ### Using Electron
 
