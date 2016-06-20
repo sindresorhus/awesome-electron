@@ -194,6 +194,7 @@ Made with Electron.
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
 - [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+- [electron-ipc-reactive](https://github.com/simonhochrein/electron-ipc-reactive)
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
 - [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
