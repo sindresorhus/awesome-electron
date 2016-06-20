@@ -54,7 +54,7 @@ Made with Electron.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
-- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast OS X audio to Chromecast from your menubar.
+- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast macOS audio to Chromecast from your menubar.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
@@ -136,6 +136,7 @@ Made with Electron.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 - [Crypter](https://github.com/HR/Crypter) - Secure encryption client.
+- [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 
 ### Closed Source
 
@@ -163,6 +164,7 @@ Made with Electron.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
+- [CatLight](https://catlight.io) - Build status notifier.
 
 
 ## Boilerplates
@@ -175,6 +177,7 @@ Made with Electron.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [SkelEktron](https://github.com/BZCoding/SkelEktron) - A ready to go application template with some useful features built-in.
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 
 
 ## Tools
@@ -191,7 +194,7 @@ Made with Electron.
 - [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-release](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
-- [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
+- [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
 - [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
@@ -210,7 +213,7 @@ Made with Electron.
 - [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
-- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for OS X apps.
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
@@ -218,8 +221,9 @@ Made with Electron.
 - [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
 - [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
-- [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing OS X's appearance settings.
+- [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings.
 - [electron-config](https://github.com/sindresorhus/electron-config) - Persist user settings and other data.
+- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ### Using Electron
 
@@ -241,10 +245,10 @@ Made with Electron.
 - [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 - [window](https://github.com/jprichardson/electron-window) - Easily create and manage windows.
-- [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for OS X and Windows built with React.
+- [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
-- [titlebar](https://github.com/kapetan/titlebar) - Emulate the OS X window titlebar.
+- [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
 
 
 ## Documentation
@@ -258,8 +262,10 @@ Made with Electron.
 
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
-- [Codesigning your app for OS X](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
-- [Auto-updating apps for Windows and OS X: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
+- [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
+- [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
+- [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
+- [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
 
 
 ## Videos
