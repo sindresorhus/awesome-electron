@@ -137,6 +137,7 @@ Made with Electron.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 - [Crypter](https://github.com/HR/Crypter) - Secure encryption client.
 - [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
+- [Museeks](https://github.com/KeitIG/museeks) - Music player.
 
 ### Closed Source
 
