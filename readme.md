@@ -138,6 +138,7 @@ Made with Electron.
 - [Crypter](https://github.com/HR/Crypter) - Secure encryption client.
 - [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 - [Museeks](https://github.com/KeitIG/museeks) - Music player.
+- [Vox](https://github.com/fresk-nc/VOX) - Unofficial VOX Music Player.
 
 ### Closed Source
 
