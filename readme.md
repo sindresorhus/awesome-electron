@@ -143,7 +143,6 @@ Made with Electron.
 
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
-- [Paws for Trello](http://friendlyfox.es/paws/) - Paws is a Trello client with notifications, powerful shortcuts and more.
 - [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
@@ -167,7 +166,7 @@ Made with Electron.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
-
+- [Paws for Trello](http://friendlyfox.es/paws/) - Trello client with notifications, powerful shortcuts and more.
 
 ## Boilerplates
 
