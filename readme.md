@@ -139,6 +139,7 @@ Made with Electron.
 - [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 - [Museeks](https://github.com/KeitIG/museeks) - Music player.
 - [VOX](https://github.com/fresk-nc/VOX) - Unofficial VOX music player.
+- [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
 
 ### Closed Source
 
