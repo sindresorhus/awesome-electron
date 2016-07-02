@@ -166,7 +166,7 @@ Made with Electron.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
-
+- [Paws for Trello](http://friendlyfox.es/paws/) - Trello client with notifications, powerful shortcuts and more.
 
 ## Boilerplates
 
