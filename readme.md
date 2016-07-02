@@ -250,6 +250,7 @@ Made with Electron.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
+- [angular-electron](https://github.com/ozsay/angular-electron) - `angularjs` helpers for electron apps.
 
 
 ## Documentation
