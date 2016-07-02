@@ -166,6 +166,7 @@ Made with Electron.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
+- [CrossCloud](https://crosscloud.me) - Secure sync application for multiple cloud storages.
 
 
 ## Boilerplates
