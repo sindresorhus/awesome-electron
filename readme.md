@@ -284,9 +284,11 @@ Made with Electron.
 - [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
 - [Building Desktop Apps with Node.js and Electron](https://www.youtube.com/watch?v=rbSvc8_BHaw)
 
+
 ## Podcasts
 
 - [JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
+
 
 ## Community
 
