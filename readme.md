@@ -140,6 +140,7 @@ Made with Electron.
 - [Museeks](https://github.com/KeitIG/museeks) - Music player.
 - [VOX](https://github.com/fresk-nc/VOX) - Unofficial VOX music player.
 - [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
+- [Marky](https://github.com/vesparny/marky) - Markdown editor.
 
 ### Closed Source
 
