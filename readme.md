@@ -7,7 +7,7 @@
 You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
 
-## Table of Contents
+## Contents
 
 - [Apps](#apps)
 - [Boilerplates](#boilerplates)
