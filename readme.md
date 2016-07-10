@@ -229,6 +229,7 @@ Made with Electron.
 - [electron-config](https://github.com/sindresorhus/electron-config) - Persist user settings and other data.
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require.
+- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
 
 ### Using Electron
 
