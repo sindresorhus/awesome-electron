@@ -230,7 +230,7 @@ Made with Electron.
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
-- [electron-machine-id](https://github.com/automation-stack/electron-machine-id) - Unique machine (desktop) id for Electron application.
+- [electron-machine-id](https://github.com/automation-stack/electron-machine-id) - Unique machine (desktop) id.
 
 ### Using Electron
 
