@@ -171,6 +171,7 @@ Made with Electron.
 - [CatLight](https://catlight.io) - Build status notifier.
 - [Paws](http://friendlyfox.es/paws/) - Trello client.
 - [Automint](http://automint.in) - CRM for automobile businesses.
+- [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
 
 ## Boilerplates
 
