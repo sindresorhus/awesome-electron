@@ -166,7 +166,7 @@ Made with Electron.
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
 - [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
-- [Hackolade](https://hackolade.com) - Visual modeling of MongoDB schemas, and other NoSQL document data stores.
+- [Hackolade](http://hackolade.com) - Visual modeling of MongoDB schemas.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
