@@ -170,6 +170,7 @@ Made with Electron.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
 - [Paws](http://friendlyfox.es/paws/) - Trello client.
+- [Automint](http://automint.in) - CRM for automobile businesses.
 
 ## Boilerplates
 
