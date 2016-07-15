@@ -29,6 +29,7 @@ Made with Electron.
 
 ###### Featured
 
+- [HyperTerm](https://hyperterm.org) - Terminal.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 - [Min](https://github.com/minbrowser/min) - Minimal web browser.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
