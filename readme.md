@@ -142,8 +142,8 @@ Made with Electron.
 - [VOX](https://github.com/fresk-nc/VOX) - Unofficial VOX music player.
 - [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
 - [Marky](https://github.com/vesparny/marky) - Markdown editor.
-- [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
 - [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE.
+- [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
 
 ### Closed Source
 
