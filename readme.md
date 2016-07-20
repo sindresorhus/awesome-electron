@@ -143,6 +143,7 @@ Made with Electron.
 - [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
 - [Marky](https://github.com/vesparny/marky) - Markdown editor.
 - [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE.
+- [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
 
 ### Closed Source
 
