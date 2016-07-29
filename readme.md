@@ -236,6 +236,7 @@ Made with Electron.
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+- [electron-storage](https://github.com/Cocycles/electron-storage) - Simply save/load json files to/from file system.
 
 ### Using Electron
 
