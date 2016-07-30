@@ -144,6 +144,7 @@ Made with Electron.
 - [Marky](https://github.com/vesparny/marky) - Markdown editor.
 - [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE.
 - [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
+- [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
 
 ### Closed Source
 
