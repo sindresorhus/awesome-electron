@@ -280,6 +280,10 @@ Made with Electron.
 - [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
 
 
+## Books
+
+- [Building an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/)
+
 ## Videos
 
 - [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
