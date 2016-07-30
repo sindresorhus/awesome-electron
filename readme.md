@@ -175,6 +175,7 @@ Made with Electron.
 - [Paws](http://friendlyfox.es/paws/) - Trello client.
 - [Automint](http://automint.in) - CRM for automobile businesses.
 - [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
+- [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers.
 
 ## Boilerplates
 
