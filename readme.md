@@ -189,6 +189,7 @@ Made with Electron.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [SkelEktron](https://github.com/BZCoding/SkelEktron) - A ready to go app template with some useful features built-in.
+- [Elmctron](https://github.com/nirgn975/Elmctron) - Documented boilerplate of an Electron app written in Elm.
 
 
 ## Tools
