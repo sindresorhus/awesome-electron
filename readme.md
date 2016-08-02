@@ -15,6 +15,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Components](#components)
 - [Documentation](#documentation)
 - [Articles](#articles)
+- [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Community](#community)
@@ -280,6 +281,11 @@ Made with Electron.
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
+
+
+## Books
+
+- [Building an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC)
 
 
 ## Videos
