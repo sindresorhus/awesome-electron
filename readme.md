@@ -146,6 +146,7 @@ Made with Electron.
 - [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE.
 - [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
 - [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
+- [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 
 ### Closed Source
 
@@ -162,7 +163,6 @@ Made with Electron.
 - [Pingendo](http://pingendo.com) - Bootstrap prototyping.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
-- [Wire](https://wire.com) - Messenger and calling app.
 - [Caret](http://caret.io) - Markdown editor.
 - [Wagon](https://www.wagonhq.com) - SQL editor.
 - [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
