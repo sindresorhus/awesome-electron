@@ -319,6 +319,7 @@ Made with Electron.
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
+- [electron subreddit](https://www.reddit.com/r/electronjs/)
 
 
 ## Tips
