@@ -147,6 +147,7 @@ Made with Electron.
 - [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
 - [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
 - [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
+- [MSI Keyboard LED Controller](https://github.com/stevelacy/msi-keyboard-gui) - Keyboard LED controller for MSI laptops.
 
 ### Closed Source
 
