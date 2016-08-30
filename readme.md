@@ -240,6 +240,7 @@ Made with Electron.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
+- [electron-chrome](https://github.com/koush/electron-chrome) - An incomplete polyfill on the Chrome APIs.
 
 ### Using Electron
 
