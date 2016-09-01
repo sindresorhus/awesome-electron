@@ -147,6 +147,7 @@ Made with Electron.
 - [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
 - [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
 - [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app.
 
 ### Closed Source
 
