@@ -297,7 +297,7 @@ Made with Electron.
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
 - [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
 - [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
-- [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=Xs3Oc4weZbw)
+- [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=9xX_G0l5jLU)
 - [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
 - [The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences](https://www.youtube.com/watch?v=jRPUB-D1Wx0)
 - [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
