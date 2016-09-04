@@ -302,6 +302,7 @@ Made with Electron.
 - [The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences](https://www.youtube.com/watch?v=jRPUB-D1Wx0)
 - [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
 - [Building Desktop Apps with Node.js and Electron](https://www.youtube.com/watch?v=rbSvc8_BHaw)
+- [Electron Fundamentals course - Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals) 💲
 
 
 ## Podcasts
