@@ -271,9 +271,9 @@ Made with Electron.
 
 ## Documentation
 
-- [Quick Start](http://electron.atom.io/docs/latest/tutorial/quick-start/)
-- [Official docs](http://electron.atom.io/docs/latest/)
-- [Architecture overview](https://github.com/ilyavorobiev/atom-docs/blob/master/atom-shell/Architecture.md)
+- [Quick Start](http://electron.atom.io/docs/tutorial/quick-start/)
+- [Official docs](http://electron.atom.io/docs/)
+- [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
 
 
 ## Articles
