@@ -288,7 +288,7 @@ Made with Electron.
 
 ## Books
 
-- [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC)
+- [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
 
 
 ## Videos
