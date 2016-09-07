@@ -195,12 +195,6 @@ Made with Electron.
 
 ## Tools
 
-- [electron-packager](https://github.com/maxogden/electron-packager) - Package and distribute your Electron app for OS X, Linux and Windows (.app, .exe, etc).
-- [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
-- [electron-rebuild](https://github.com/paulcbetts/electron-rebuild) - Rebuild native io.js modules against the currently installed Electron version.
-- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Electron auto-update by releasing on GitHub.
-- [electron-download](https://github.com/maxogden/electron-download) - Download the Electron release zip from GitHub for a particular architecture and platform.
-- [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on OS X when run from a GUI app. Useful when spawning a child process.
 ### For Electron
 
 - [devtron](https://github.com/electron/devtron) - Official DevTools extension.
