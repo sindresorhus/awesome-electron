@@ -77,7 +77,6 @@ Made with Electron.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
-- [Fireball](https://github.com/fireball-x/editor-framework) - Hackable game editor for creating mobile and HTML5 games.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku](https://github.com/EragonJ/Kaku) - Music player.
 - [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
@@ -179,6 +178,7 @@ Made with Electron.
 - [Automint](http://automint.in) - CRM for automobile businesses.
 - [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
 - [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers.
+- [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 
 ## Boilerplates
 
@@ -228,7 +228,6 @@ Made with Electron.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 - [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
-- [editor-framework](https://github.com/fireball-x/editor-framework) - Easily create dockable IDE apps.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
