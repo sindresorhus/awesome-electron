@@ -240,6 +240,7 @@ Made with Electron.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
+- [electron-titlebar-windows](https://github.com/sidneys/electron-titlebar-windows) - Add Windows 10 style titlebars to any Electron app.
 
 ### Using Electron
 
