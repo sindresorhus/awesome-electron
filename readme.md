@@ -147,6 +147,7 @@ Made with Electron.
 - [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
 - [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app.
+- [Calypso](https://github.com/Automattic/wp-desktop) - WordPress.com front-end written with Node.js and wrapped in Electron.
 
 ### Closed Source
 
