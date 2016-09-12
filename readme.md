@@ -45,7 +45,7 @@ Made with Electron.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 
 ###### Other
-
+- [InvoiceTop](https://github.com/techiediaries/invoice-electron-angularjs-app) - Create invoices visually and export them as PDF files for printing or email them to your clients.
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
