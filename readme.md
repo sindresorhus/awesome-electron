@@ -240,6 +240,7 @@ Made with Electron.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
+- [electron-update-server](https://github.com/santomegonzalo/electron-update-server) - Releases server with Squirrel auto-updater support.
 
 ### Using Electron
 
