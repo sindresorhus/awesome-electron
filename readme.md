@@ -180,6 +180,7 @@ Made with Electron.
 - [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
 - [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
+- [1-NET Clients](https://www.datavow.com) - Connect your resources anywhere and anytime. File transfer/management, audio/video chat, multicast and monitoring.
 
 ## Boilerplates
 
