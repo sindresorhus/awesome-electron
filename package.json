@@ -1,0 +1,35 @@
+{
+  "name": "awesome-electron",
+  "version": "1.0.0",
+  "description": "Useful resources for creating apps with Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js | tap-spec"
+  },
+  "repository": "github:sindresorhus/awesome-electron",
+  "keywords": [
+    "electron",
+    "documentation",
+    "reference",
+    "guide",
+    "awesome"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/awesome-electron/issues"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "homepage": "https://github.com/sindresorhus/awesome-electron#readme",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "brfs": "^1.4.3"
+  }
+}
