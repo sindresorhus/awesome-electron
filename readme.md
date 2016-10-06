@@ -55,7 +55,7 @@ Made with Electron.
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
-- [KeeWeb](https://github.com/antelle/keeweb) - Unofficial KeePass app.
+- [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
 - [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast macOS audio to Chromecast from your menubar.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
