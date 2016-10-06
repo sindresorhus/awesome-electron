@@ -180,6 +180,8 @@ Made with Electron.
 - [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
 - [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
+- [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
+
 
 ## Boilerplates
 
