@@ -150,6 +150,7 @@ Made with Electron.
 - [Moonview](https://github.com/teesloane/moonview) - Ambient notepad.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast.
 - [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
+- [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 
 ### Closed Source
 
