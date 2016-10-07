@@ -148,6 +148,7 @@ Made with Electron.
 - [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app.
 - [Moonview](https://github.com/teesloane/moonview) - Ambient notepad.
+- [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
 
 ### Closed Source
 
