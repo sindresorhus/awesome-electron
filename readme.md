@@ -149,6 +149,7 @@ Made with Electron.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app.
 - [Moonview](https://github.com/teesloane/moonview) - Ambient notepad.
 - [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
+- [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 
 ### Closed Source
 
