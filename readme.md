@@ -118,7 +118,7 @@ Made with Electron.
 - [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
-- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note app for developers.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
 - [Before Dawn](https://github.com/muffinista/before-dawn) - Screensaver tool.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 - [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows.
