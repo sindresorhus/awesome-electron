@@ -183,6 +183,8 @@ Made with Electron.
 - [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
+- [WhereDat](https://itunes.apple.com/us/app/wheredat/id1163488836) - An Enterprise search app that makes all your content searchable from one place. Connect the apps you use (Slack, Gmail, Dropbox etc.) and search them all simultaneously.
+
 
 
 ## Boilerplates
