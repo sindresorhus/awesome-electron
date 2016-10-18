@@ -148,7 +148,7 @@ Made with Electron.
 - [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app.
 - [Moonview](https://github.com/teesloane/moonview) - Ambient notepad.
-- [Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Physical Web beacon broadcast app for Macs.
+- [Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Physical web beacon broadcast.
 
 ### Closed Source
 
