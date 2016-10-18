@@ -153,6 +153,7 @@ Made with Electron.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 - [Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Physical Web beacon broadcast app for Macs.
 - [Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Physical web beacon broadcast.
+- [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast.
 
 ### Closed Source
 
