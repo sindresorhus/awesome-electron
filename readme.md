@@ -152,6 +152,7 @@ Made with Electron.
 - [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 - [Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Physical Web beacon broadcast app for Macs.
+- [Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Physical web beacon broadcast.
 
 ### Closed Source
 
