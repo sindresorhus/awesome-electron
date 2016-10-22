@@ -220,7 +220,7 @@ Made with Electron.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
-- [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, LESS, SCSS in your app without a precompilation step.
+- [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, Less, Stylus in your app without a precompilation step.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
