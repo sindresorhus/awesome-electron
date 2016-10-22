@@ -151,6 +151,7 @@ Made with Electron.
 - [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast.
+- [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook.
 
 ### Closed Source
 
