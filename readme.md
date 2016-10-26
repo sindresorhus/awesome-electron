@@ -299,7 +299,7 @@ Made with Electron.
 
 ## Videos
 
-- [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=ojX5yz35v4M)
+- [Creating Desktop Apps with Electron](https://www.youtube.com/watch?v=jKzBJAowmGg)
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
 - [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
 - [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
