@@ -335,8 +335,12 @@ Made with Electron.
 
 ## Tips
 
-Contribute some ;)
-
+- Some steps to get the "electron-react-boilerplate" worked on Windows 10:
+```
+npm install -g electron
+choco install -y python2
+npm install -g npm@next
+```
 
 ## Contribute
 
