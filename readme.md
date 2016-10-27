@@ -335,12 +335,15 @@ Made with Electron.
 
 ## Tips
 
-- Some steps to get the "electron-react-boilerplate" worked on Windows 10:
+- If you meet errors while compiling electron on Windows 10 according to [this](https://github.com/nodejs/node-gyp/issues/972), try:
 ```
-npm install -g electron
-choco install -y python2
 npm install -g npm@next
 ```
+- If you have vs2015 installed in your machine, sometimes you need to do:
+```
+npm install --vs2015
+```
+- node-gyp needs python2, so make sure you have python installed and it's available in your PATH.
 
 ## Contribute
 
