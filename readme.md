@@ -32,6 +32,7 @@ Made with Electron.
 
 - [Hyper](https://github.com/zeit/hyper) - Terminal.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+- [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support.
 - [Min](https://github.com/minbrowser/min) - Minimal web browser.
 - [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
