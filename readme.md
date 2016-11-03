@@ -153,6 +153,7 @@ Made with Electron.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast.
 - [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook.
+- [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 
 ### Closed Source
 
