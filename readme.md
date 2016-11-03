@@ -39,7 +39,7 @@ Made with Electron.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
-- [Black Screen](https://github.com/shockone/black-screen) - Terminal emulator.
+- [Black Screen](https://github.com/shockone/black-screen) - Terminal.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [N1](https://github.com/nylas/N1) - Extensible email client.
@@ -112,7 +112,7 @@ Made with Electron.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
-- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单) with a shortcut.
+- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
@@ -130,7 +130,7 @@ Made with Electron.
 - [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
-- [Ghost](https://github.com/tryghost/ghost-desktop) - A professional publishing platform.
+- [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
 - [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Unofficial WhatsApp app.
@@ -172,7 +172,7 @@ Made with Electron.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
 - [Wagon](https://www.wagonhq.com) - SQL editor.
-- [SIV](http://www.integritytools.com/siv/) - Extensible image viewer.
+- [SIV](http://www.integritytools.com/siv/) - Image viewer.
 - [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
@@ -184,7 +184,7 @@ Made with Electron.
 - [Paws](http://friendlyfox.es/paws/) - Trello client.
 - [Automint](http://automint.in) - CRM for automobile businesses.
 - [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
-- [Discord](https://discordapp.com) - All-in-one voice and text chat for gamers.
+- [Discord](https://discordapp.com) - Voice and text chat for gamers.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
@@ -207,10 +207,10 @@ Made with Electron.
 
 ### For Electron
 
-- [devtron](https://github.com/electron/devtron) - Official DevTools extension.
-- [electron-prebuilt](https://github.com/electron-userland/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
-- [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 - [electron-builder](https://github.com/electron-userland/electron-builder) - Create installers.
+- [electron-prebuilt](https://github.com/electron-userland/electron-prebuilt) - Install prebuilt Electron binaries for command-line use using npm.
+- [devtron](https://github.com/electron/devtron) - Official DevTools extension.
+- [electron-packager](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 - [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
 - [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
@@ -225,7 +225,7 @@ Made with Electron.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 - [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, Less, Stylus in your app without a precompilation step.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
-- [electron-window-state](https://github.com/mawie81/electron-window-state) - Save and restore window sizes and positions.
+- [electron-window-state](https://github.com/mawie81/electron-window-state) - Persist window sizes and positions.
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging.
 - [debug-menu](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
@@ -242,12 +242,12 @@ Made with Electron.
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
-- [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
+- [electron-is](https://github.com/delvedor/electron-is) - Utility functions.
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings.
 - [electron-config](https://github.com/sindresorhus/electron-config) - Persist user settings and other data.
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require.
-- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
+- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
@@ -260,7 +260,7 @@ Made with Electron.
 - [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
-- [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run your Mocha tests in Electron.
+- [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages.
 - [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
@@ -270,9 +270,9 @@ Made with Electron.
 
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
-- [menubar](https://github.com/maxogden/menubar) - High-level way to create a menubar app.
+- [menubar](https://github.com/maxogden/menubar) - Menubar app framework.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
-- [window](https://github.com/jprichardson/electron-window) - Easily create and manage windows.
+- [window](https://github.com/jprichardson/electron-window) - Create and manage windows.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
