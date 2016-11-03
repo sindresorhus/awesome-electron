@@ -154,6 +154,7 @@ Made with Electron.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast.
 - [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
+- [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 
 ### Closed Source
 
