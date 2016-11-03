@@ -251,6 +251,7 @@ Made with Electron.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
+- [electron-pug](https://www.npmjs.com/package/electron-pug) - Simple electron module to render Pug (former Jade) templates
 
 ### Using Electron
 
