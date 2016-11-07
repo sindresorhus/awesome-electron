@@ -254,6 +254,7 @@ Made with Electron.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows.
+- [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ### Using Electron
 
