@@ -156,6 +156,7 @@ Made with Electron.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu System Optimizer.
 
 ### Closed Source
 
