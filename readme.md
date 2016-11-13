@@ -255,7 +255,6 @@ Made with Electron.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
-- [elemon](https://github.com/mawni/elemon) - Live-reload tool for developing Electron apps.
 
 ### Using Electron
 
@@ -269,6 +268,7 @@ Made with Electron.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages.
 - [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
+- [elemon](https://github.com/mawni/elemon) - Live-reload tool for developing Electron apps.
 
 
 ## Components
