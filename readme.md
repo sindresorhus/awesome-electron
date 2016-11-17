@@ -257,7 +257,6 @@ Made with Electron.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 - [elemon](https://github.com/mawni/elemon) - Live-reload tool for developing Electron apps.
 
-
 ### Using Electron
 
 - [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
