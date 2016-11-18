@@ -255,6 +255,7 @@ Made with Electron.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+- [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
 
 ### Using Electron
 
