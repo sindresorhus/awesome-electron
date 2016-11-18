@@ -256,6 +256,7 @@ Made with Electron.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 - [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 
 ### Using Electron
 
