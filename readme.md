@@ -156,6 +156,7 @@ Made with Electron.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
+- [Electro](https://github.com/jspear29/electro) - DJ songs from YouTube.
 
 ### Closed Source
 
