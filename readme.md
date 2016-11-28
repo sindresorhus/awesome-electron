@@ -156,6 +156,7 @@ Made with Electron.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
+- [Hacker News App](https://github.com/romanschejbal/electron-blog) - Hacker News App for macOS that sits inside the menu bar.
 
 ### Closed Source
 
@@ -302,6 +303,7 @@ Made with Electron.
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
+- [Building Desktop Apps With Electron, Webpack and Redux](https://red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux?rq=electron) - Beginners guide to Electron and how to setup a dev. environment with Webpack
 
 
 ## Books
