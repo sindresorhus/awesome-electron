@@ -156,6 +156,7 @@ Made with Electron.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
+- [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
 
 ### Closed Source
 
