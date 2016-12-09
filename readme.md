@@ -157,6 +157,7 @@ Made with Electron.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app.
 
 ### Closed Source
 
