@@ -158,6 +158,7 @@ Made with Electron.
 - [Dext](https://github.com/vutran/dext) - Launcher.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app.
+- [ndm](https://github.com/720kb/ndm) - npm desktop manager.
 
 ### Closed Source
 
