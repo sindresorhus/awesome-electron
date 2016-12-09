@@ -157,8 +157,8 @@ Made with Electron.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
-- [ndm](https://github.com/720kb/ndm) - Npm desktop manager
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app.
+- [ndm](https://github.com/720kb/ndm) - Npm desktop manager
 
 ### Closed Source
 
