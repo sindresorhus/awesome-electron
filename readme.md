@@ -261,6 +261,7 @@ Made with Electron.
 - [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+- [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Native in-page search like Chrome.
 
 ### Using Electron
 
