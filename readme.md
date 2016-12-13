@@ -156,7 +156,11 @@ Made with Electron.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 - [Materialette](https://github.com/mike-schultz/materialette) - Material design color palette in your menubar.
 - [Dext](https://github.com/vutran/dext) - Launcher.
-- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu System Optimizer.
+- [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app.
+- [ndm](https://github.com/720kb/ndm) - npm desktop manager.
+- [GIFBar](https://github.com/dcrousso/GIFBar) - Search GIFs in your menubar.
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ### Closed Source
 
@@ -256,6 +260,9 @@ Made with Electron.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+- [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
+- [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ### Using Electron
 
@@ -282,6 +289,7 @@ Made with Electron.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
+- [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
 
 
 ## Documentation
@@ -339,6 +347,7 @@ Made with Electron.
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
+- [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 
 
 ## Tips
