@@ -160,7 +160,8 @@ Made with Electron.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app.
 - [ndm](https://github.com/720kb/ndm) - npm desktop manager.
 - [GIFBar](https://github.com/dcrousso/GIFBar) - Search GIFs in your menubar.
-- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer,
+- [--shots](https://github.com/binjospookie/--shots) - Application for creating, editing and sharing screenshots.
 
 ### Closed Source
 
