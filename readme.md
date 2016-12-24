@@ -230,7 +230,6 @@ Made with Electron.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
-- [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up ipc message passing
 - [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, Less, Stylus in your app without a precompilation step.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Persist window sizes and positions.
@@ -264,6 +263,7 @@ Made with Electron.
 - [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+- [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up ipc message passing
 
 ### Using Electron
 
