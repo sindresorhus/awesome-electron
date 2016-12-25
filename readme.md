@@ -195,6 +195,7 @@ Made with Electron.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
+- [Colibri](https://colibri.opqr.co/) - Modern browser without tabs.
 
 
 ## Boilerplates
