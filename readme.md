@@ -342,13 +342,13 @@ Made with Electron.
 - [Reddit](https://www.reddit.com/r/electronjs)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/electron)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
-- [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`#electron` on Atom Slack](http://atom-slack.herokuapp.com)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
+- [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 
 
 ## Tips
