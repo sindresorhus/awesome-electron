@@ -161,6 +161,7 @@ Made with Electron.
 - [ndm](https://github.com/720kb/ndm) - npm desktop manager.
 - [GIFBar](https://github.com/dcrousso/GIFBar) - Search GIFs in your menubar.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+- [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
 
 ### Closed Source
 
