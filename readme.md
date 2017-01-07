@@ -162,7 +162,7 @@ Made with Electron.
 - [GIFBar](https://github.com/dcrousso/GIFBar) - Search GIFs in your menubar.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 - [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
-- [Inpad](http://sarah-seo.github.io/Inpad) - Notes app with Github flavored markdown.
+- [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ### Closed Source
 
