@@ -14,6 +14,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Tools](#tools)
 - [Components](#components)
 - [Documentation](#documentation)
+- [Books](#books)
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
@@ -300,6 +301,11 @@ Made with Electron.
 - [Official docs](http://electron.atom.io/docs/)
 - [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
 
+
+## Books
+
+- [Cross Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications)
+- [Electron in Action](https://www.manning.com/books/electron-in-action)
 
 ## Articles
 
