@@ -265,6 +265,10 @@ Made with Electron.
 - [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+- [electron-ipc-listener](https://github.com/electron-utils/electron-ipc-listener) - IPC listener which will cache the callbacks for easily clear.
+- [electron-ipc-plus](https://github.com/electron-utils/electron-ipc-plus) - Improved IPC APIs.
+- [electron-platform](https://github.com/electron-utils/electron-platform) - Platform detection.
+- [electron-quick-inspect](https://github.com/electron-utils/electron-quick-inspect) - Quickly inspect an element at mouse position.
 
 ### Using Electron
 
