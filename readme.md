@@ -42,7 +42,7 @@ Made with Electron.
 - [Black Screen](https://github.com/shockone/black-screen) - Terminal.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
-- [N1](https://github.com/nylas/N1) - Extensible email client.
+- [Nylas N1](https://github.com/nylas/N1) - Extensible email client.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 
 ###### Other
