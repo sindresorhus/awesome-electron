@@ -163,6 +163,7 @@ Made with Electron.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 - [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+- [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - Screen recorder.
 
 ### Closed Source
 
