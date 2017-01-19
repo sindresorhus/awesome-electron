@@ -263,7 +263,7 @@ Made with Electron.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
-- [elemon](https://github.com/mawni/elemon) - Live-reload your app during development.
+- [elemon](https://github.com/manidlou/elemon) - Live-reload your app during development.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
