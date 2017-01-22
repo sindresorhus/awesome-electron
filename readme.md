@@ -163,6 +163,7 @@ Made with Electron.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 - [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+- [stretchly](https://github.com/hovancik/stretchly) - Break time reminder app.
 
 ### Closed Source
 
