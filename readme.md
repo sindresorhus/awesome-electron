@@ -127,7 +127,6 @@ Made with Electron.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
-- [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
@@ -198,6 +197,14 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
+
+### Samples
+
+- [Electron API usage](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
+- [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+- [Activity Monitor](http://electron.atom.io/blog/2017/01/19/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
+- [Hash](http://electron.atom.io/blog/2017/01/19/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
+- [Prices](http://electron.atom.io/blog/2017/01/19/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
 
 
 ## Boilerplates
