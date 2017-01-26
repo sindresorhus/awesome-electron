@@ -162,6 +162,7 @@ Made with Electron.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 - [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+- [Nearby Live Desktop](https://github.com/N3TC4T/Nearby-Live-Desktop) -  Nearby Live Desktop Client.
 
 ### Closed Source
 
