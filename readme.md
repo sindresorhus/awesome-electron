@@ -162,6 +162,7 @@ Made with Electron.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 - [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+- [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Closed Source
 
