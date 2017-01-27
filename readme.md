@@ -88,6 +88,7 @@ Made with Electron.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [Tèsèvè](https://teseve.github.io) - Static webserver.
 - [DevDogs](https://github.com/ragingwind/devdogs) - DevDocs.io API documentation.
+- [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial desktop app for DevDocs.io
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
