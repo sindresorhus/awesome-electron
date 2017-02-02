@@ -183,7 +183,7 @@ Made with Electron.
 - [Caret](http://caret.io) - Markdown editor.
 - [Wagon](https://www.wagonhq.com) - SQL editor.
 - [SIV](http://www.integritytools.com/siv/) - Image viewer.
-- [Sync](https://www.wantedly.com/sync) - Team group messaging. *(Japanese)*
+- [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
 - [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
