@@ -164,6 +164,7 @@ Made with Electron.
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 - [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - Control the brightness of any display.
+- [Hippotomate](https://github.com/MihaiValentin/hippotomate) - Hippotomate is an Open Source tool for Selenium that will provide valuable insights in your automated tests and present them in a meaningful and concise way.
 
 ### Closed Source
 
