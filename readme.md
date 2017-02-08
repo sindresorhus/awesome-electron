@@ -164,6 +164,7 @@ Made with Electron.
 - [Inpad](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 - [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - Control the brightness of any display.
+- [LosslessCut](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ### Closed Source
 
