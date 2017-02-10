@@ -322,11 +322,13 @@ Made with Electron.
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
+- [A complete guide to packaging your Electron app](https://medium.com/@meakaakka/a-complete-guide-to-packaging-your-electron-app-1bdc717d739f)
+- [How to add auto-updates to your Electron application: An up to date guide](https://medium.com/@meakaakka/how-to-add-auto-updates-to-your-electron-application-an-up-to-date-guide-d62794a0467d)
 
 
 ## Books
 
-- [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
+- [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 
 
 
 ## Videos
@@ -339,7 +341,7 @@ Made with Electron.
 - [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
 - [The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences](https://www.youtube.com/watch?v=jRPUB-D1Wx0)
 - [Building Desktop Apps with Node.js and Electron](https://www.youtube.com/watch?v=rbSvc8_BHaw)
-- [Electron Fundamentals course - Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals) 💲
+- [Electron Fundamentals course - Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals) 
 
 
 ## Podcasts
