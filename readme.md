@@ -47,6 +47,7 @@ Made with Electron.
 
 ###### Other
 
+- [Fastlane](https://github.com/pontusab/Fastlane) - Book Uber from your menubar, fast.
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
