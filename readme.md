@@ -296,6 +296,7 @@ Made with Electron.
 ## Components
 
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
+- [Metro-UI](https://github.com/olton/Metro-UI-CSS) UI toolkit for windows 8 style.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [menubar](https://github.com/maxogden/menubar) - Menubar app framework.
 - [cookies](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
