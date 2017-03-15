@@ -165,6 +165,7 @@ Made with Electron.
 - [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - Control the brightness of any display.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+- [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 
 ### Closed Source
 
