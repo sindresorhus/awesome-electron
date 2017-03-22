@@ -166,6 +166,7 @@ Made with Electron.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - Control the brightness of any display.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
+- [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
 
 ### Closed Source
 
