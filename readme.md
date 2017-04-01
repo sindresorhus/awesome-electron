@@ -6,6 +6,20 @@
 
 You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
+## Table of Contents
+
+- [Example apps](#example-apps)
+  - [Open Source](#open-source)
+  - [Closed Source](#closed-source)
+- [Boilerplates](#boilerplates)
+- [Tools](#tools)
+- [Components](#components)
+- [Documentation](#documentation)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Community](#community)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Contents
 
