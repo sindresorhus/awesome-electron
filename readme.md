@@ -44,6 +44,7 @@ Made with Electron.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Nylas N1](https://github.com/nylas/N1) - Extensible email client.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [Caption](https://github.com/gielcobben/Caption) - Find the right subtitles. Easy.
 
 ###### Other
 
@@ -201,6 +202,7 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
+- [Captain](https://getcaptain.co/) - Manage Docker containers instantly from the menu bar.
 
 ### Samples
 
