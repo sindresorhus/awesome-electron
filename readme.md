@@ -306,6 +306,7 @@ Made with Electron.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
+- [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
 
 
 ## Documentation
