@@ -87,7 +87,6 @@ Made with Electron.
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [Tèsèvè](https://teseve.github.io) - Static webserver.
-- [DevDogs](https://github.com/ragingwind/devdogs) - Unofficial DevDocs.io app.
 - [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
