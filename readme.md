@@ -370,6 +370,7 @@ Made with Electron.
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
+- [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
 
 ## Tips
