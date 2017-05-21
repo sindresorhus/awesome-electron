@@ -167,6 +167,7 @@ Made with Electron.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/lnsomnia) - Create and manage HTTP requests.
+- [Dockeron](https://github.com/dockeron/dockeron) - Docker container and images management.
 
 ### Closed Source
 
