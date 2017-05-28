@@ -223,6 +223,7 @@ Made with Electron.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [SkelEktron](https://github.com/BZCoding/SkelEktron) - A ready to go app template with some useful features built-in.
+- [angular-electron-seed](https://github.com/DevWurm/angular-electron-seed) - An Angular-CLI based dev environment for building Electron Apps with Angular
 
 
 ## Tools
