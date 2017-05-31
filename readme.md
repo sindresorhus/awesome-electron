@@ -30,20 +30,20 @@ Made with Electron.
 
 ###### Featured
 
-- [Hyper](https://github.com/zeit/hyper) - Terminal.
-- [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-- [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support.
-- [Min](https://github.com/minbrowser/min) - Minimal web browser.
-- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
-- [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
-- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
-- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
-- [Playback](https://github.com/mafintosh/playback) - Video player.
-- [Black Screen](https://github.com/shockone/black-screen) - Terminal.
-- [Atom](https://github.com/atom/atom) - Code editor.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
-- [Nylas N1](https://github.com/nylas/N1) - Extensible email client.
-- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [**Hyper ★14,332**](https://github.com/zeit/hyper) - Terminal.
+- [**WebTorrent ★2,905**](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+- [**Kap ★3,873**](https://github.com/wulkano/kap) - Screen recorder with GIF support.
+- [**Min ★1,587**](https://github.com/minbrowser/min) - Minimal web browser.
+- [**Mancy ★2,715**](https://github.com/princejwesley/Mancy) - JavaScript REPL.
+- [*SpaceRadar ★506*](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
+- [*Nocturn ★436*](https://github.com/k0kubun/Nocturn) - Twitter client.
+- [**Mojibar ★1,589**](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
+- [**Playback ★1,491**](https://github.com/mafintosh/playback) - Video player.
+- [**Black Screen ★14,368**](https://github.com/shockone/black-screen) - Terminal.
+- [**Atom :star:34,239**](https://github.com/atom/atom) - Code editor.
+- [**Visual Studio Code :star:21,867**](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+- [**Nylas N1 :star:21,718**](https://github.com/nylas/N1) - Extensible email client.
+- [**Brave ★4,159**](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 
 ###### Other
 
@@ -127,6 +127,7 @@ Made with Electron.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
+- [Sample apps](https://github.com/hokein/electron-sample-apps) - Sample apps to illustrate the usage of Electron APIs.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
@@ -202,14 +203,6 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
-
-### Samples
-
-- [Electron API usage](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-- [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
-- [Activity Monitor](http://electron.atom.io/blog/2017/01/19/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
-- [Hash](http://electron.atom.io/blog/2017/01/19/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
-- [Prices](http://electron.atom.io/blog/2017/01/19/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
 
 
 ## Boilerplates
