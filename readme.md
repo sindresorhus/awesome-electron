@@ -130,7 +130,6 @@ Made with Electron.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
-- [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
