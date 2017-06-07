@@ -201,6 +201,7 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
+- [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 
 ### Samples
 
