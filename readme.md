@@ -202,6 +202,7 @@ Made with Electron.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
 - [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
+- [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 
 ### Samples
 
