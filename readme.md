@@ -130,7 +130,6 @@ Made with Electron.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
-- [Anatine](https://github.com/sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
@@ -202,6 +201,7 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
+- [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 
 ### Samples
