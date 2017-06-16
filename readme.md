@@ -57,7 +57,6 @@ Made with Electron.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
-- [Soundcast](https://github.com/andresgottlieb/soundcast) - Cast macOS audio to Chromecast from your menubar.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
@@ -126,7 +125,6 @@ Made with Electron.
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
-- [Cuttle](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
