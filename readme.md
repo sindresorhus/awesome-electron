@@ -333,6 +333,7 @@ Made with Electron.
 ## Books
 
 - [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
+- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) - [Preview](https://manning-content.s3.amazonaws.com/download/5/1f50f4f-800b-40a5-a726-6ab236efeaf0/Kinney_Electron_MEAP_V10_ch1.pdf) 💲
 
 
 ## Videos
