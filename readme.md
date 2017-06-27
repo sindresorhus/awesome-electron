@@ -72,7 +72,7 @@ Made with Electron.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 - [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad.
-- [Snapper](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
+- [Snapper](https://github.com/pt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images.
 - [We Build SG](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
