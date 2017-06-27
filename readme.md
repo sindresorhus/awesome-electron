@@ -283,7 +283,7 @@ Made with Electron.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
-- [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI for Electron applications
+- [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 
 ### Using Electron
 
