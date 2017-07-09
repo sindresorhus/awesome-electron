@@ -282,6 +282,7 @@ Made with Electron.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+- [electron-linux-installer](https://github.com/DakshMiglani/electron-linux-installer) - Build Installers for Linux (Debian / Redhat) from Your Source Code.
 
 ### Using Electron
 
