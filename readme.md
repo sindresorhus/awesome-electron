@@ -282,6 +282,7 @@ Made with Electron.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+- [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux like state & action management across processes (ipc).
 
 ### Using Electron
 
