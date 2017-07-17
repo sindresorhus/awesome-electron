@@ -165,6 +165,7 @@ Made with Electron.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+- [Standard Notes](https://github.com/StandardNotes) - Simple and private notes app.
 
 ### Closed Source
 
