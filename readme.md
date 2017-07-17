@@ -283,6 +283,7 @@ Made with Electron.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
+- [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 
 ### Using Electron
 
