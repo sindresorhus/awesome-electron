@@ -165,6 +165,7 @@ Made with Electron.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+- [WAIL](https://github.com/N0taN3rd/wail) - Collection based personal web archiving.
 
 ### Closed Source
 
@@ -329,7 +330,7 @@ Made with Electron.
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
-- [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron) 
+- [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 
 
 ## Books
