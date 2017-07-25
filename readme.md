@@ -40,7 +40,7 @@ Made with Electron.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
-- [Black Screen](https://github.com/shockone/black-screen) - Terminal.
+- [Upterm](https://github.com/railsware/upterm) - Terminal.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Nylas N1](https://github.com/nylas/N1) - Extensible email client.
