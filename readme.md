@@ -165,6 +165,7 @@ Made with Electron.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+- [Source Me](https://github.com/theIYD/source-me) - A web development toolkit which makes your project flow easy !
 
 ### Closed Source
 
