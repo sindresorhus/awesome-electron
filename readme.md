@@ -223,6 +223,7 @@ Made with Electron.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
+- [typescript-react-boilerplate](https://github.com/lieone/typescript-react-boilerplate) - Main and renderer both in TypeScript
 
 
 ## Tools
