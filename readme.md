@@ -223,6 +223,7 @@ Made with Electron.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
+- [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 
 
 ## Tools
@@ -330,7 +331,7 @@ Made with Electron.
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
-- [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron) 
+- [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 
 
 ## Books
