@@ -203,6 +203,7 @@ Made with Electron.
 - [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
+- [Mockoon](https://mockoon.com) - Mock servers in seconds.
 
 ### Samples
 
