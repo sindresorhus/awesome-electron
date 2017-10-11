@@ -345,6 +345,7 @@ Made with Electron.
 - [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) - [Preview](https://manning-content.s3.amazonaws.com/download/5/1f50f4f-800b-40a5-a726-6ab236efeaf0/Kinney_Electron_MEAP_V10_ch1.pdf) 💲
 - [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
+
 ## Videos
 
 - [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
