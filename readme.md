@@ -208,6 +208,7 @@ Made with Electron.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
+- [Twitch](https://app.twitch.tv) - Official Twitch app.
 
 ### Samples
 
