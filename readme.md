@@ -209,6 +209,7 @@ Made with Electron.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
+- [Circuit](https://circuit.com) - Make your Teamwork better.
 
 ### Samples
 
