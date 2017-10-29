@@ -171,6 +171,7 @@ Made with Electron.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
+- [YouTube To MP3](https://github.com/leerob/youtube-to-mp3) - Convert and download YouTube videos as MP3s.
 
 ### Closed Source
 
