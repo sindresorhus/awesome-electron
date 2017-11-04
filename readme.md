@@ -293,6 +293,7 @@ Made with Electron.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
+- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 
 ### Using Electron
 
