@@ -217,7 +217,7 @@ Made with Electron.
 - [Activity Monitor](http://electron.atom.io/blog/2017/01/19/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
 - [Hash](http://electron.atom.io/blog/2017/01/19/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
 - [Prices](http://electron.atom.io/blog/2017/01/19/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
-- [TouchBar API Sample](https://github.com/Rawnly/touchbar-api-sample) - Sample touchbar integration.
+- [Touch bar API Sample](https://github.com/Rawnly/touchbar-api-sample) - Sample touchbar integration.
 
 
 ## Boilerplates
