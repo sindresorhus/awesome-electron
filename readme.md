@@ -171,6 +171,7 @@ Made with Electron.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
+- [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor.
 
 ### Closed Source
 
