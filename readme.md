@@ -363,6 +363,7 @@ Made with Electron.
 - [Electron: Building Cross Platform Desktop Apps - Lynda](https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html) 💲
 - [Automatically Build and Publish Node and Electron Applications for Linux](https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux)
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
+- [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 💲
 
 
 ## Podcasts
