@@ -170,6 +170,7 @@ Made with Electron.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
+- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor.
 
 ### Closed Source
@@ -293,6 +294,7 @@ Made with Electron.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
+- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 
 ### Using Electron
 
@@ -362,6 +364,7 @@ Made with Electron.
 - [Electron: Building Cross Platform Desktop Apps - Lynda](https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html) 💲
 - [Automatically Build and Publish Node and Electron Applications for Linux](https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux)
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
+- [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 💲
 
 
 ## Podcasts
