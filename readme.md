@@ -1,8 +1,8 @@
 # Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
+[<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](https://electronjs.org)
 
-> Useful resources for creating apps with [Electron](http://electron.atom.io)
+> Useful resources for creating apps with [Electron](https://electronjs.org)
 
 You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
@@ -217,9 +217,9 @@ Made with Electron.
 
 - [Electron API usage](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
 - [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
-- [Activity Monitor](http://electron.atom.io/blog/2017/01/19/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
-- [Hash](http://electron.atom.io/blog/2017/01/19/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
-- [Prices](http://electron.atom.io/blog/2017/01/19/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
+- [Activity Monitor](https://electronjs.org/blog/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
+- [Hash](https://electronjs.org/blog/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
+- [Prices](https://electronjs.org/blog/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
 - [Touch Bar API](https://github.com/Rawnly/touchbar-api-sample) - Example of macOS Touch Bar integration.
 
 
@@ -329,8 +329,8 @@ Made with Electron.
 
 ## Documentation
 
-- [Quick Start](http://electron.atom.io/docs/tutorial/quick-start/)
-- [Official docs](http://electron.atom.io/docs/)
+- [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
+- [Official docs](https://electronjs.org/docs)
 - [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
 
 
