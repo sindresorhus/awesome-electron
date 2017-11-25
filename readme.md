@@ -304,6 +304,7 @@ Made with Electron.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
+- [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
 
 ### Using Electron
 
