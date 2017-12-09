@@ -177,6 +177,7 @@ Made with Electron.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+- [Syng](https://github.com/sotch-pr35mac/syng) - Chinese-to-English dictionary and study tools.
 
 ### Closed Source
 
