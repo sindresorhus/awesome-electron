@@ -217,7 +217,7 @@ Made with Electron.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
-- [Cleaver](https://getcleaver.com) - Provision robust servers and deploy web apps with zero downtime.
+- [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
 
 ### Samples
 
