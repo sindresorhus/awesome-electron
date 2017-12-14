@@ -177,6 +177,7 @@ Made with Electron.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+- [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Syng](https://github.com/sotch-pr35mac/syng) - Chinese-to-English dictionary and study tools.
 
 ### Closed Source
@@ -218,6 +219,7 @@ Made with Electron.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
+- [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
 
 ### Samples
 
