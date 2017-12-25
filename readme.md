@@ -178,6 +178,7 @@ Made with Electron.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
+- [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 
 ### Closed Source
 
@@ -212,7 +213,6 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
-- [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
