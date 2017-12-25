@@ -178,7 +178,7 @@ Made with Electron.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
-- [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
+- [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 
 ### Closed Source
 
