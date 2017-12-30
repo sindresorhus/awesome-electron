@@ -57,6 +57,7 @@ Made with Electron.
 
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
