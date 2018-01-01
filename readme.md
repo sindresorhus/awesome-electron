@@ -55,6 +55,7 @@ Made with Electron.
 
 ###### Other
 
+- [primitive.nextgen](https://github.com/cielito-lindo-productions/primitive.nextgen) - Tool to redraw images using shapes (triangles, rectangles ...)
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
