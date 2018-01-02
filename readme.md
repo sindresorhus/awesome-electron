@@ -55,7 +55,6 @@ Made with Electron.
 
 ###### Other
 
-- [primitive.nextgen](https://github.com/cielito-lindo-productions/primitive.nextgen) - Tool to redraw images using shapes (triangles, rectangles ...)
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
@@ -180,6 +179,7 @@ Made with Electron.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+- [primitive.nextgen](https://github.com/cielito-lindo-productions/primitive.nextgen) - Tool to redraw images using shapes (triangles, rectangles ...).
 
 ### Closed Source
 
