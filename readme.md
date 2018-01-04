@@ -57,7 +57,6 @@ Made with Electron.
 
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
@@ -180,6 +179,7 @@ Made with Electron.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App.
 
 ### Closed Source
 
