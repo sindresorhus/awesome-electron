@@ -403,6 +403,7 @@ Made with Electron.
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
+- [electron-pl](https://electronpl.github.io/) *(Polish)*
 
 
 ## Tips
