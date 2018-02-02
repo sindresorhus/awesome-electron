@@ -179,6 +179,7 @@ Made with Electron.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Closed Source
 
