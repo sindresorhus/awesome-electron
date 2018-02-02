@@ -179,6 +179,7 @@ Made with Electron.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App.
 
 ### Closed Source
@@ -189,7 +190,6 @@ Made with Electron.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - Share design and collaborate.
-- [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Media center.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
@@ -298,7 +298,6 @@ Made with Electron.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
-- [electron-lets-move](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
@@ -403,6 +402,7 @@ Made with Electron.
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
+- [electron-pl](https://electronpl.github.io) *(Polish)*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
