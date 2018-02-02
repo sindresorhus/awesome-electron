@@ -180,6 +180,7 @@ Made with Electron.
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 
 ### Closed Source
 
