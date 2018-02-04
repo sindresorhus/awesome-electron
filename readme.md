@@ -305,6 +305,7 @@ Made with Electron.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
+- [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ### Using Electron
 
