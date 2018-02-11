@@ -305,6 +305,7 @@ Made with Electron.
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ### Using Electron
 
