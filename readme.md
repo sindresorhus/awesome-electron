@@ -197,7 +197,6 @@ Made with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
-- [Wagon](https://www.wagonhq.com) - SQL editor.
 - [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
