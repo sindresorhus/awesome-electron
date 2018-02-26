@@ -6,13 +6,9 @@
 
 You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
-
----
-
-<p align="center">⚡️</p>
-<p align="center"><b>Support this project and improve your JavaScript skills with this awesome <a href="https://ES6.io/friend/AWESOME">ES6 course</a> by Wes Bos.</b><br>Try his free <a href="https://javascript30.com/friend/AWESOME">JavaScript 30 course</a> for a taste of what to expect. You might also like his <a href="https://ReactForBeginners.com/friend/AWESOME">React</a> and <a href="https://SublimeTextBook.com/friend/AWESOME">Sublime</a> course.</p>
-
----
+<a href="https://www.patreon.com/sindresorhus">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 
 ## Contents
@@ -179,6 +175,8 @@ Made with Electron.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [primitive.nextgen](https://github.com/cielito-lindo-productions/primitive.nextgen) - Tool to redraw images using shapes (triangles, rectangles ...).
 
 ### Closed Source
@@ -189,7 +187,6 @@ Made with Electron.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - Share design and collaborate.
-- [Pixate](http://www.pixate.com) - Mobile interaction designer.
 - [Prepros](https://prepros.io) - Compile almost any preprocessing language with live browser refresh.
 - [Stremio](http://www.strem.io) - Media center.
 - [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
@@ -197,7 +194,6 @@ Made with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
-- [Wagon](https://www.wagonhq.com) - SQL editor.
 - [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
@@ -243,6 +239,7 @@ Made with Electron.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
+- [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload.
 
 
 ## Tools
@@ -298,13 +295,14 @@ Made with Electron.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
-- [electron-lets-move](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
+- [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ### Using Electron
 
@@ -403,6 +401,7 @@ Made with Electron.
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
+- [electron-pl](https://electronpl.github.io) *(Polish)*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
