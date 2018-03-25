@@ -303,6 +303,7 @@ Made with Electron.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+- [Release.work](https://release.work) - Hosted release server for auto-updater, download links and landing pages.
 
 ### Using Electron
 
