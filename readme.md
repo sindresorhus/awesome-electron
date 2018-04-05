@@ -331,7 +331,7 @@ Made with Electron.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
 - [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
-
+- [electron-splashscreen](https://github.com/trodi/electron-splashscreen) - Simple and smart splashscreen for your applications.
 
 ## Documentation
 
