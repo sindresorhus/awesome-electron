@@ -218,6 +218,7 @@ Made with Electron.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
 - [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
+- [Taskade](https://taskade.com/downloads) - Real-time collaborative task lists and notes. Available on web, desktop and mobile.
 
 ### Samples
 
