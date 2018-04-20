@@ -177,7 +177,7 @@ Made with Electron.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
-- [MarkText](https://github.com/marktext/marktext) - Realtime preview Markdown editor. 
+- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
 
 ### Closed Source
 
