@@ -303,6 +303,7 @@ Made with Electron.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+- [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 
 ### Using Electron
 
