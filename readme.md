@@ -1,18 +1,14 @@
-# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](https://electronjs.org)
+[<img src="electron-logo.svg" align="right" width="100">](https://electronjs.org)
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
 You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
-
----
-
-<p align="center">⚡️</p>
-<p align="center"><b>Support this project and improve your JavaScript skills with this awesome <a href="https://ES6.io/friend/AWESOME">ES6 course</a> by Wes Bos.</b><br>Try his free <a href="https://javascript30.com/friend/AWESOME">JavaScript 30 course</a> for a taste of what to expect. You might also like his <a href="https://ReactForBeginners.com/friend/AWESOME">React</a> and <a href="https://SublimeTextBook.com/friend/AWESOME">Sublime</a> course.</p>
-
----
+<a href="https://www.patreon.com/sindresorhus">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 
 ## Contents
@@ -180,6 +176,11 @@ Made with Electron.
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 - [electerm](https://github.com/electerm/electerm) - terminal/ssh/sftp client(mac, win, linux), it works like a combination of `guake` and `xshell`.
+- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
+- [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
+- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
+- [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### Closed Source
 
@@ -196,7 +197,6 @@ Made with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
-- [Wagon](https://www.wagonhq.com) - SQL editor.
 - [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
@@ -242,6 +242,7 @@ Made with Electron.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
+- [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload.
 
 
 ## Tools
@@ -303,6 +304,10 @@ Made with Electron.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
+- [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+- [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+- [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 
 ### Using Electron
 
@@ -358,7 +363,7 @@ Made with Electron.
 ## Books
 
 - [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
-- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) - [Preview](https://manning-content.s3.amazonaws.com/download/5/1f50f4f-800b-40a5-a726-6ab236efeaf0/Kinney_Electron_MEAP_V10_ch1.pdf) 💲
+- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) - [Preview](https://manning-content.s3.amazonaws.com/download/c/5a98fe9-3e88-4249-9d27-b6cbc063a242/Kinney_Electron_MEAP_v14_ch1.pdf) 💲
 - [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
 
@@ -401,6 +406,7 @@ Made with Electron.
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
+- [electron-pl](https://electronpl.github.io) *(Polish)*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
