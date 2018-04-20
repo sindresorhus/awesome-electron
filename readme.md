@@ -239,7 +239,7 @@ Made with Electron.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 - [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload.
-
+- [electron-pixi](https://github.com/h3rb/electron-pixi) - Pixitron Engine, the PixiJS + Electron fresh start for making games!
 
 ## Tools
 
