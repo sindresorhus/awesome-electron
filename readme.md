@@ -34,6 +34,7 @@ Made with Electron.
 
 ###### Featured
 
+- [Luna](https://github.com/rvpanoz/luna) - npm management through a modern UI
 - [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 - [Hyper](https://github.com/zeit/hyper) - Terminal.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
