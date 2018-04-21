@@ -175,12 +175,12 @@ Made with Electron.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
-- [electerm](https://github.com/electerm/electerm) - Terminal/ssh/sftp client(linux, mac, win).
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
+- [electerm](https://github.com/electerm/electerm) - Terminal/ssh/sftp GUI client(linux, mac, win), with ssh bookmark/history helper, and sftp file manager.
 
 ### Closed Source
 
