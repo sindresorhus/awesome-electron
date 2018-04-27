@@ -23,6 +23,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Community](#community)
+- [Resources](#resources)
 - [Tips](#tips)
 
 
@@ -409,6 +410,9 @@ Made with Electron.
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
+
+## Resources
+- [Programming Community Curated Resources for learning Electron](https://hackr.io/tutorials/learn-electron)
 
 
 ## Tips
