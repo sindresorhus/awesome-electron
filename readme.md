@@ -346,6 +346,7 @@ Made with Electron.
 
 ## Articles
 
+- [Protecting your Secrets and Credentials](https://medium.com/@rocketlaunchr.cloud/introducing-electron-vault-d09ade2c2020)
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
