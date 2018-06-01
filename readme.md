@@ -178,8 +178,9 @@ Made with Electron.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
-- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
+- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
+- [Ride Receipts](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber/Lyft.
 
 ### Closed Source
 
