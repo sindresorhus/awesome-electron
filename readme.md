@@ -180,6 +180,7 @@ Made with Electron.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
+- [Ticktick desktop](https://github.com/huynhduckhoan/ticktick-desktop) - An unofficial desktop application of ticktick.com
 
 ### Closed Source
 
