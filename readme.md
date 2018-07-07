@@ -180,6 +180,7 @@ Made with Electron.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
+- [Netron](https://github.com/lutzroeder/Netron) - Viewer for deep learning and machine learning models.
 
 ### Closed Source
 
