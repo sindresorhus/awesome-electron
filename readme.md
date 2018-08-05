@@ -219,6 +219,7 @@ Made with Electron.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
 - [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
+- [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 
 ### Samples
 
