@@ -178,7 +178,7 @@ Made with Electron.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
-- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
+- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
 - [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
 
@@ -232,9 +232,9 @@ Made with Electron.
 
 ## Boilerplates
 
-- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
-- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
