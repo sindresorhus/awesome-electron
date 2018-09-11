@@ -70,7 +70,6 @@ Made with Electron.
 - [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
-- [Kart](https://github.com/maddox/kart) - Front-end for RetroArch.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
