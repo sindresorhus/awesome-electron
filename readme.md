@@ -180,6 +180,7 @@ Made with Electron.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
 - [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
+- [E-Mage](https://github.com/douglasjunior/emage) - Cross-platform tool to help with image compression.
 
 ### Closed Source
 
