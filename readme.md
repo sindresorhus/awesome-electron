@@ -307,6 +307,7 @@ Made with Electron.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
+- [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
 ### Using Electron
 
