@@ -181,6 +181,7 @@ Made with Electron.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
 - [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+- [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
 
 ### Closed Source
 
