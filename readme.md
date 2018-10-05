@@ -182,7 +182,7 @@ Made with Electron.
 - [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 - [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
-- [Clipboard Manager](https://github.com/dotenorio/clipboard-manager-electron) - More one clipboard manager.
+- [clipboard-manager-electron](https://github.com/dotenorio/clipboard-manager-electron) - More one clipboard manager.
 
 ### Closed Source
 
