@@ -180,7 +180,7 @@ Made with Electron.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
-- [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source
 
