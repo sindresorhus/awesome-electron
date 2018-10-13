@@ -70,7 +70,6 @@ Made with Electron.
 - [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
-- [Kart](https://github.com/maddox/kart) - Front-end for RetroArch.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
@@ -178,8 +177,11 @@ Made with Electron.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
-- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. 
+- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
+- [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
+- [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+- [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source
@@ -219,6 +221,7 @@ Made with Electron.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
 - [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
+- [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 
 ### Samples
 
@@ -232,9 +235,9 @@ Made with Electron.
 
 ## Boilerplates
 
-- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) *(by sindresorhus)* - Boilerplate to kickstart creating an app.
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
-- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) *(by szwacz)* - Comprehensive boilerplate which even generates installers.
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 - [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
@@ -308,6 +311,7 @@ Made with Electron.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
+- [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
 ### Using Electron
 
@@ -405,7 +409,6 @@ Made with Electron.
 - [`#electron` on Atom Slack](http://atom-slack.herokuapp.com)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
-- [electron-kr](http://www.meetup.com/electronkr) *(Korean)*
 - [electron-pl](https://electronpl.github.io) *(Polish)*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
