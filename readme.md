@@ -182,6 +182,7 @@ Made with Electron.
 - [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 - [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
+- [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source
 
