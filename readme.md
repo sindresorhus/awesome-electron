@@ -404,10 +404,10 @@ Made with Electron.
 
 - [Discuss](https://discuss.atom.io/c/electron)
 - [Reddit](https://www.reddit.com/r/electronjs)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/electron)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/electron)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
-- [`#electron` on Atom Slack](http://atom-slack.herokuapp.com)
+- [`#electron` on Atom Slack](https://atom-slack.herokuapp.com)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-pl](https://electronpl.github.io) *(Polish)*
