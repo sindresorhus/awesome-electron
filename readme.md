@@ -183,6 +183,7 @@ Made with Electron.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 - [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+- [Puppetry](https://puppetry.app/) - codeless end-to-end test automation, integrated with CI/CD pipeline
 
 ### Closed Source
 
