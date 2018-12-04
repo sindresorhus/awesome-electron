@@ -313,6 +313,7 @@ Made with Electron.
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+- [electron-tray-window](https://github.com/sfatihk/electron-tray-window) - Generates custom tray windows with Electron.js.
 
 ### Using Electron
 
