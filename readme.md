@@ -363,6 +363,7 @@ Made with Electron.
 - [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack rewrote their Electron app with `BrowserView`, Redux, Rx, and TypeScript, to fix its performance problems.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) - Realm rewrote their database browser app with Electron for cross-platform support.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
+- [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - Focused on design and code decisions and Electron security.
 
 
 ## Books
