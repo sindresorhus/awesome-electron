@@ -341,6 +341,7 @@ Made with Electron.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
 - [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
+- [electron-osx-prompt](https://github.com/peterfreeman/electron-osx-prompt) - Dialog box for macOS to prompt for user input.
 
 
 ## Documentation
