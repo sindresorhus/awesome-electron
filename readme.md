@@ -185,7 +185,7 @@ Made with Electron.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source
-
+- [Negibox](https://github.com/hugetiny/negibox) - Cross-platfrom downloader.
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
 - [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
