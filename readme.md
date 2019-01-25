@@ -183,6 +183,7 @@ Made with Electron.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 - [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+- [Ice Spring](https://github.com/baijifeilong/ice-spring) - A music player with flexible layout.
 
 ### Closed Source
 
