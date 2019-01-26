@@ -247,7 +247,7 @@ Made with Electron.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 - [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload.
-- [Electrojet](https://github.com/o-my-code/electrojet) - No hassle foundation for Electron apps that lets you take off quickly 🚀
+- [Electrojet](https://github.com/o-my-code/electrojet) - No hassle foundation for Electron apps that lets you take off quickly.
 
 
 ## Tools
