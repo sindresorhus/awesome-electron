@@ -357,7 +357,6 @@ Made with Electron.
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
-- [Electron Rocks!](http://electron.rocks) - Blog about working with Electron.
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - New Electron API to embed web apps with fewer bugs and improved performance.
 - [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack rewrote their Electron app with `BrowserView`, Redux, Rx, and TypeScript, to fix its performance problems.
