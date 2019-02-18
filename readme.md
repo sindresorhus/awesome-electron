@@ -184,7 +184,7 @@ Made with Electron.
 - [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 - [Noty](https://github.com/fabiospampinato/noty) - Auto-saving sticky note with support for multiple notes in a single window.
-- [Notable](https://github.com/fabiospampinato/notable) - The markdown-based note-taking app that doesn't suck.
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app.
 
 ### Closed Source
 
