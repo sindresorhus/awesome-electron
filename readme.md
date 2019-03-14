@@ -185,6 +185,7 @@ Made with Electron.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 - [Noty](https://github.com/fabiospampinato/noty) - Auto-saving sticky note with support for multiple notes in a single window.
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+- [Altus](https://github.com/shadythgod/altus) - Desktop client for WhatsApp with themes and multiple account support
 
 ### Closed Source
 
