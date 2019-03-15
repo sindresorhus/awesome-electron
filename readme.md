@@ -47,7 +47,6 @@ Made with Electron.
 - [Upterm](https://github.com/railsware/upterm) - Terminal.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
-- [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 
 ###### Other
