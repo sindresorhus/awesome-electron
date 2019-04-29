@@ -314,6 +314,7 @@ Made with Electron.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
+- [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
 
 ### Using Electron
 
