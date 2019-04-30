@@ -184,7 +184,7 @@ Made with Electron.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 - [Noty](https://github.com/fabiospampinato/noty) - Auto-saving sticky note with support for multiple notes in a single window.
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
-- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Unsplash cross-platform desktop application.
+- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper picked from Unsplash.
 
 ### Closed Source
 
