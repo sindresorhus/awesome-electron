@@ -184,6 +184,7 @@ Made with Electron.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 - [Noty](https://github.com/fabiospampinato/noty) - Auto-saving sticky note with support for multiple notes in a single window.
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+- [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
 ### Closed Source
@@ -248,7 +249,7 @@ Made with Electron.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
-- [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload.
+- [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 
 ## Tools
@@ -315,6 +316,7 @@ Made with Electron.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
+- [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
 
 ### Using Electron
 
