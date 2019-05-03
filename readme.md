@@ -129,7 +129,7 @@ Made with Electron.
 - [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
-- [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
+- [Tockler](https://github.com/MayGo/tockler) - Tracks your time.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
