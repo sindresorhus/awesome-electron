@@ -317,6 +317,7 @@ Made with Electron.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
+- [electron-fiddle](https://github.com/electron/fiddle) - Create and play with small Electron experiments
 
 ### Using Electron
 
