@@ -182,6 +182,7 @@ Made with Electron.
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+- [Motrix](https://github.com/agalwood/Motrix) - Download manager.
 
 ### Closed Source
 
