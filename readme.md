@@ -314,6 +314,7 @@ Made with Electron.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
+- [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome Extensions.
 
 ### Using Electron
 
