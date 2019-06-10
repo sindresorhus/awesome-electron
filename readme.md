@@ -314,6 +314,7 @@ Made with Electron.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
+- [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ### Using Electron
 
