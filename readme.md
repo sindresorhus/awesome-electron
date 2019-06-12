@@ -313,6 +313,7 @@ Made with Electron.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
+- [debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
