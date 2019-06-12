@@ -350,6 +350,7 @@ Made with Electron.
 - [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 - [Official docs](https://electronjs.org/docs)
 - [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
+- [electron.guide](https://electron.guide) - How different UI elements look in different OS.
 
 
 ## Articles
@@ -421,7 +422,7 @@ Made with Electron.
 
 ## Tips
 
-Contribute some ;)
+- [electron.guide](https://electron.guide) - The final polish before distribution.
 
 
 ## Contribute
