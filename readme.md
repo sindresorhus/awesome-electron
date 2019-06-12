@@ -424,7 +424,7 @@ Made with Electron.
 
 ## Tips
 
-Contribute some ;)
+- [electron.guide](https://electron.guide/final-polish/renderer/) - The Final Polish: Make your application feel native
 
 
 ## Contribute
