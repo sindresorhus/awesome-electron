@@ -315,6 +315,7 @@ Made with Electron.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM.
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+- [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
 
 ### Using Electron
 
