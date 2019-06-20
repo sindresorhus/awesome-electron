@@ -223,6 +223,7 @@ Made with Electron.
 - [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
 - [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 - [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
+- [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 
 ### Samples
 
