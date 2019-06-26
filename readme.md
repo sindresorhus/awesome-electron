@@ -207,7 +207,7 @@ Made with Electron.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
-- [Paws](http://friendlyfox.es/paws/) - Trello client.
+- [Paws](http://friendlyfox.es/pawsfortrello/) - Trello client.
 - [Automint](http://automint.in) - CRM for automobile businesses.
 - [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
 - [Discord](https://discordapp.com) - Voice and text chat for gamers.
