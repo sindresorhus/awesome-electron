@@ -249,6 +249,7 @@ Made with Electron.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+- [phaser-electron](https://github.com/distantcam/phaser-electron-typescript-parcel) - Boilerplate for building a game using Phaser.js.
 
 
 ## Tools
