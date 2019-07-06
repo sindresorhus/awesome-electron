@@ -9,6 +9,7 @@ Ensure your pull request adheres to the following guidelines:
 - **The pull request should have a useful title and include a link to the thing you're submitting and why it should be included.**
 - If you just created something, wait at least 30 days before submitting.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
+- Boilerplates are not accepted as most boilerplates are too opinionated and low-quality and I don't have time to comment on everything they need to improve.
 - If you're submitting a closed source app, include evidence of it being built with Electron.
 - The "Closed Source" section has a very high bar for acceptance. You're a lot more likely to get accepted if you link to a blog post on how you built the app. Don't worry if your submission is declined, you can still submit your app to the [official Electron apps list](https://electronjs.org/apps).
 - Submitted open source apps should have a English readme, screenshot of the app in the readme, and a binary for at least one OS, preferably macOS, Linux and Windows.
