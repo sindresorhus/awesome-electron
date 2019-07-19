@@ -183,6 +183,7 @@ Made with Electron.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
+- [Vif](https://github.com/soroushchehresa/Vif) - Convert videos to high-quality GIFs.
 
 ### Closed Source
 
