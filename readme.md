@@ -183,6 +183,7 @@ Made with Electron.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
+- [Laravel Kit](https://github.com/tmdh/laravel-kit) - Execute Laravel Artisan commands without using any terminal.
 
 ### Closed Source
 
