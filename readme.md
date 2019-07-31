@@ -183,7 +183,7 @@ Made with Electron.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
-- [Dashpad] (https://github.com/etamity/dashpad) - A hackable universal dashboard framework for your desktop task automation and visualise tooling.
+- [Dashpad] (https://github.com/etamity/dashpad) - Hackable dashboard framework for your desktop task automation and visualise tooling.
 
 ### Closed Source
 
