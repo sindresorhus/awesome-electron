@@ -183,12 +183,12 @@ Made with Electron.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
+- [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 
 ### Closed Source
 
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
-- [Franz](http://meetfranz.com) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - Share design and collaborate.
