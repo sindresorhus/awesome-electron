@@ -183,6 +183,7 @@ Made with Electron.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
+- [WTC](https://github.com/omidnikrah/WTC) - Working time calculator for remote and hourly paid workers.
 
 ### Closed Source
 
