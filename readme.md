@@ -322,6 +322,7 @@ Made with Electron.
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+- [electron-adblocker](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Efficient and flexible adblocker library to easily block ads and trackers.
 
 ### Using Electron
 
