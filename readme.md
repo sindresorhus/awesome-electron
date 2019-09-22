@@ -185,6 +185,7 @@ Made with Electron.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+- [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source
 
