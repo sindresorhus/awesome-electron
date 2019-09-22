@@ -226,6 +226,7 @@ Made with Electron.
 - [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
 - [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 - [Mingo](https://mingo.io) - MongoDB GUI.
+- [Moon Modeler](https://datensen.com) - Schema design tool for MongoDB, Mongoose, and MariaDB.
 
 ### Samples
 
