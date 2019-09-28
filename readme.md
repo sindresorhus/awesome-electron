@@ -335,7 +335,7 @@ Made with Electron.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages.
 - [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
-- [jest-electron](https://github.com/hustcc/jest-electron) - An easy way to run and debug jest unit tests in browser environment.
+- [jest-electron](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 
 ## Components
