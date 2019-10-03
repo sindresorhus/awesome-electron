@@ -41,7 +41,7 @@ Made with Electron.
 - [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
 - [Playback](https://github.com/mafintosh/playback) - Video player.
-- [Upterm](https://github.com/railsware/upterm) - Terminal.
+- [hyper](https://github.com/zeit/hyper) - Terminal.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
