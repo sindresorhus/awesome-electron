@@ -203,6 +203,7 @@ Made with Electron.
 - [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
+- [Notion](https://notion.so) - The all-in-one workspace for your notes, tasks, wikis, and databases.
 
 ### Samples
 
