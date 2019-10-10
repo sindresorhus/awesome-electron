@@ -228,6 +228,7 @@ Made with Electron.
 - [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 - [Mingo](https://mingo.io) - MongoDB GUI.
 - [Moon Modeler](https://datensen.com) - Schema design tool for MongoDB, Mongoose, and MariaDB.
+- [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 
 ### Samples
 
