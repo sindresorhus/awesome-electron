@@ -186,6 +186,7 @@ Made with Electron.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+- [Biblos](https://github.com/mbykov/biblos.js) - Ancient Greek dictionary app and study toolset
 
 ### Closed Source
 
