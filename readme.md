@@ -238,6 +238,7 @@ Made with Electron.
 - [Hash](https://electronjs.org/blog/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
 - [Prices](https://electronjs.org/blog/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
 - [Touch Bar API](https://github.com/Rawnly/touchbar-api-sample) - Example of macOS Touch Bar integration.
+- [Electron webview](https://github.com/cba85/electron-webview) - Electron application example to create a webview with cool features.
 
 
 ## Boilerplates
