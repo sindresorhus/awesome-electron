@@ -177,6 +177,7 @@ Made with Electron.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 - [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
 - [Swifty](https://github.com/swiftyapp/swifty) - Password manager.
+- [MQTTX](https://github.com/emqx/MQTTX) - MQTT desktop client
 
 ### Closed Source
 
