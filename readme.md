@@ -229,6 +229,7 @@ Made with Electron.
 - [Mingo](https://mingo.io) - MongoDB GUI.
 - [Moon Modeler](https://datensen.com) - Schema design tool for MongoDB, Mongoose, and MariaDB.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
+- [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 
 ### Samples
 
