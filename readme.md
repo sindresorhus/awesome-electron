@@ -7,7 +7,6 @@
 - [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
 - [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
 
-
 ## Contents
 
 - [Apps](#apps)
@@ -20,8 +19,7 @@
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Community](#community)
-- [Tips](#tips)
-
+- [Related](#related)
 
 ## Apps
 
@@ -144,7 +142,6 @@ Made with Electron.
 - [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app.
 - [Moonview](https://github.com/teesloane/moonview) - Ambient notepad.
-- [Temps](https://jackd248.github.io/temps/) - Weather forecast in your menubar.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - Physical web beacon broadcast.
 - [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook.
@@ -203,15 +200,12 @@ Made with Electron.
 - [Caret](http://caret.io) - Markdown editor.
 - [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
-- [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
 - [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
-- [Paws](http://friendlyfox.es/pawsfortrello/) - Trello client.
 - [Automint](http://automint.in) - CRM for automobile businesses.
-- [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) - Secure sync for multiple cloud storages.
 - [Discord](https://discordapp.com) - Voice and text chat for gamers.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
@@ -240,7 +234,6 @@ Made with Electron.
 - [Prices](https://electronjs.org/blog/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
 - [Touch Bar API](https://github.com/Rawnly/touchbar-api-sample) - Example of macOS Touch Bar integration.
 
-
 ## Boilerplates
 
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
@@ -254,7 +247,6 @@ Made with Electron.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
-
 
 ## Tools
 
@@ -342,7 +334,6 @@ Made with Electron.
 - [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
 - [jest-electron](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
-
 ## Components
 
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
@@ -357,13 +348,11 @@ Made with Electron.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
 - [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
 
-
 ## Documentation
 
 - [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 - [Official docs](https://electronjs.org/docs)
 - [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
-
 
 ## Articles
 
@@ -374,19 +363,17 @@ Made with Electron.
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - New Electron API to embed web apps with fewer bugs and improved performance.
-- [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack rewrote their Electron app with `BrowserView`, Redux, Rx, and TypeScript, to fix its performance problems.
+- [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack rewrote their Electron app with `BrowserView`, Redux, Rx, and TypeScript, to fix its performance problems.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) - Realm rewrote their database browser app with Electron for cross-platform support.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - Focused on design and code decisions and Electron security.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 
-
 ## Books
 
 - [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
-- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) - [Preview](https://manning-content.s3.amazonaws.com/download/c/5a98fe9-3e88-4249-9d27-b6cbc063a242/Kinney_Electron_MEAP_v14_ch1.pdf) 💲
+- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
 - [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
-
 
 ## Videos
 
@@ -405,7 +392,6 @@ Made with Electron.
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 💲
 - [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - Includes some good talks on improving app startup time, debugging crashes, etc.
 
-
 ## Podcasts
 
 - [JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
@@ -413,8 +399,6 @@ Made with Electron.
 - [JavaScript Air: Electron Apps with @jlord and @emorikawa](https://javascriptair.com/episodes/2016-07-06)
 - [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/216/)
 - [Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron](http://www.fullstackradio.com/48)
-- [NodeUp: Electron with Jessica Lord](http://nodeup.com/onehundredseven)
-
 
 ## Community
 
@@ -423,7 +407,7 @@ Made with Electron.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/electron)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
-- [`#electron` on Atom Slack](https://atom-slack.herokuapp.com)
+- [`#electron` on Atom Slack](https://discuss.atom.io/t/join-us-on-slack/16638)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
 - [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 - [electron-pl](https://electronpl.github.io) *(Polish)*
@@ -431,24 +415,10 @@ Made with Electron.
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
-
-## Tips
-
-Contribute some ;)
-
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-
 ## Related
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
