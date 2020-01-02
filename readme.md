@@ -183,6 +183,7 @@ Made with Electron.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+- [Upcount](https://github.com/madisvain/upcount) - Invoicing.
 
 ### Closed Source
 
