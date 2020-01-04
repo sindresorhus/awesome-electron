@@ -43,6 +43,7 @@ Made with Electron.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
+- [EBTCalc](https://github.com/EricTerrell/EBTCalc) - Programmable Reverse Polish Notation (RPN) calculator.
 
 ###### Other
 
