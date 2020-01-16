@@ -184,6 +184,7 @@ Made with Electron.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
+- [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool.
 
 ### Closed Source
 
