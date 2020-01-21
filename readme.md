@@ -184,6 +184,8 @@ Made with Electron.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
+- [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+- [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
 
 ### Closed Source
 
@@ -320,7 +322,8 @@ Made with Electron.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
-- [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable and with i18n support.
+- [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+- [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 
 ### Using Electron
 
@@ -370,6 +373,7 @@ Made with Electron.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - Focused on design and code decisions and Electron security.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
+- [Notarizing your Electron app](https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/) - How to configure your app packaging for Apple's notarization.
 
 ## Books
 
