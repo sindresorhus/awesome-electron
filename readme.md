@@ -184,6 +184,7 @@ Made with Electron.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
+- [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 - [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
 
 ### Closed Source
@@ -321,6 +322,7 @@ Made with Electron.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+- [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 
 ### Using Electron
 
