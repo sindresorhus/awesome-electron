@@ -185,6 +185,7 @@ Made with Electron.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+- [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
 
 ### Closed Source
 
