@@ -323,6 +323,7 @@ Made with Electron.
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 - [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+- [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 
 ### Using Electron
 
