@@ -186,6 +186,7 @@ Made with Electron.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 - [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
+- [Mockoon](https://mockoon.com) - Mock servers in seconds.
 
 ### Closed Source
 
@@ -216,7 +217,6 @@ Made with Electron.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
-- [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
 - [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
