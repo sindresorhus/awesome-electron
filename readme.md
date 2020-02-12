@@ -186,6 +186,7 @@ Made with Electron.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 - [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
+- [Swifty](https://github.com/swiftyapp/swifty) - Password manager.
 
 ### Closed Source
 
