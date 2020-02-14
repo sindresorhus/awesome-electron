@@ -177,7 +177,7 @@ Made with Electron.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 - [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
 - [Swifty](https://github.com/swiftyapp/swifty) - Password manager.
-- [MQTTX](https://github.com/emqx/MQTTX) - An elegant cross-platform MQTT 5.0 desktop client
+- [MQTTX](https://github.com/emqx/MQTTX) - MQTT 5.0 desktop client. (MQTT stands for MQ Telemetry Transport. It is a publish/subscribe, extremely simple and lightweight messaging protocol)
 
 ### Closed Source
 
