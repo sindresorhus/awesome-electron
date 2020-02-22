@@ -8,6 +8,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - **The pull request should have a useful title and include a link to the thing you're submitting and why it should be included.**
 - If you just created something, wait at least 30 days before submitting.
+- The project repo should have at least 30 stars.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Boilerplates are not accepted as most boilerplates are too opinionated and low-quality and I don't have time to comment on everything they need to improve.
 - If you're submitting a closed source app, include evidence of it being built with Electron.
