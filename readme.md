@@ -219,6 +219,9 @@ Made with Electron.
 - [Moon Modeler](https://datensen.com) - Schema design tool for MongoDB, Mongoose, and MariaDB.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
+- [Atomic Wallet](https://atomicwallet.io) - Universal crypto wallet for Bitcoin, Ethereum, XRP, Litecoin, XLM, and 500+ coins.
+
+
 
 ### Samples
 
