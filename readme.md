@@ -241,7 +241,7 @@ Made with Electron.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
-- [secure-electron-template](https://github.com/reZach/secure-electron-template) - Boilerplate for creating secure apps.
+- [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## Tools
