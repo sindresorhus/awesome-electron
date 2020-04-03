@@ -220,6 +220,8 @@ Made with Electron.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 - [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
+- [Mouseless](https://mouseless.app) - Unleash your keyboard’s superpower
+- [Glyphfinder](https://www.glyphfinder.com) - Every fricking glyph at your fingertips
 
 ### Samples
 
