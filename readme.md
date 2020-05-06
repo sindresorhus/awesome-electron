@@ -246,6 +246,7 @@ Made with Electron.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+- [electron-gatsby-boilerplate](https://github.com/zonayedpca/electron-gatsby-boilerplate) - Boilerplate to build your app with Gatsby. Supports Redux, Hot Reload, Automatic Deployment and Automatic Linting.
 
 ## Tools
 
