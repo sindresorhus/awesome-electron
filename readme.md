@@ -322,6 +322,7 @@ Made with Electron.
 - [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+- [Electron-puppeteer](https://github.com/replac5/electron-puppeteer) - Driver for control webview, like puppeteer.
 
 ### Using Electron
 
