@@ -179,6 +179,7 @@ Made with Electron.
 - [Swifty](https://github.com/swiftyapp/swifty) - Password manager.
 - [MQTTX](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 - [LightProxy](https://github.com/alibaba/lightproxy) - Web debugging proxy.
+- [Electron-puppeteer](https://github.com/replac5/electron-puppeteer) - Driver for control webview, like puppeteer.
 
 ### Closed Source
 
