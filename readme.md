@@ -428,3 +428,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Related
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking)
