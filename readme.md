@@ -158,7 +158,6 @@ Made with Electron.
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
