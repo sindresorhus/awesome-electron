@@ -4,6 +4,8 @@
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
+Electron is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.
+
 - [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
 - [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
 
