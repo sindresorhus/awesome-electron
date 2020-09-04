@@ -181,6 +181,7 @@ Made with Electron.
 - [MQTTX](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 - [LightProxy](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
+- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Enforce privacy & security on Windows.
 
 ### Closed Source
 
