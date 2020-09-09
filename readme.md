@@ -9,6 +9,30 @@ Electron is an open-source framework for creating desktop apps using web technol
 - [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
 - [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
 
+<br>
+
+---
+
+<div align="center">
+	<p>
+		<p>
+			<sup>
+				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+			</sup>
+		</p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<a href="https://standardresume.co">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="200"/>
+		</a>
+	</p>
+</div>
+
+---
+
+<br>
+
 ## Contents
 
 - [Apps](#apps)
