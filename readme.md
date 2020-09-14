@@ -365,6 +365,7 @@ Made with Electron.
 
 ## Components
 
+- [Electron-Alert](https://github.com/rocketlaunchr/electron-alert) - SweetAlert2 for Electron Applications (main process).
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [menubar](https://github.com/maxogden/menubar) - Menubar app framework.
