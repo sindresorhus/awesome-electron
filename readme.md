@@ -205,6 +205,8 @@ Made with Electron.
 - [MQTTX](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 - [LightProxy](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
+- [Mouseless](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+- [Glyphfinder](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 
 ### Closed Source
 
@@ -247,8 +249,6 @@ Made with Electron.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 - [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
-- [Mouseless](https://mouseless.app) - Keyboard shortcut training and look-up.
-- [Glyphfinder](https://www.glyphfinder.com) - Unicode character search.
 
 ### Samples
 
