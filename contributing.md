@@ -7,8 +7,9 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 Ensure your pull request adheres to the following guidelines:
 
 - **The pull request should have a useful title and include a link to the thing you're submitting and why it should be included.**
+- Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
 - If you just created something, wait at least 30 days before submitting.
-- The project repo should have at least 30 stars.
+- The project repo should have at least 40 stars.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Boilerplates are not accepted as most boilerplates are too opinionated and low-quality and I don't have time to comment on everything they need to improve.
 - If you're submitting a closed source app, include evidence of it being built with Electron.
