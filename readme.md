@@ -209,6 +209,7 @@ Made with Electron.
 
 ### Closed Source
 
+- [MNNWorkbench](http://www.mnn.zone/#download-mnn-workstation) - Create machine learning models and deploy models with python in your app.
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
