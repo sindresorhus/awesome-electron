@@ -206,6 +206,7 @@ Made with Electron.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
 - [Mouseless](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
 - [Glyphfinder](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+- [SimpleInstaBot](https://github.com/mifi/SimpleInstaBot) - Easy to use Instagram bot.
 
 ### Closed Source
 
