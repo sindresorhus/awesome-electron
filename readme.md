@@ -206,6 +206,7 @@ Made with Electron.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
 - [Mouseless](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
 - [Glyphfinder](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+- [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ### Closed Source
 
