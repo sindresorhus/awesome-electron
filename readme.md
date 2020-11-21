@@ -224,7 +224,6 @@ Made with Electron.
 - [Caret](http://caret.io) - Markdown editor.
 - [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
-- [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
