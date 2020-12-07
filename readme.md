@@ -127,7 +127,7 @@ Made with Electron.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
-- [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
+- [Hawkpass](https://github.com/kalpetros/hawkpass) - Password generator.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
 - [Shake](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
 - [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
