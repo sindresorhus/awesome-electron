@@ -329,6 +329,7 @@ Made with Electron.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
+- [electron-re](https://github.com/nojsja/electron-re) - A tool for process management, creation and monitoring.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
