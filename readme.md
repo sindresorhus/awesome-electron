@@ -247,7 +247,7 @@ Made with Electron.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 - [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
-- [Coloban](https://www.coloban.com) - Save hours per week on Project Management with Chats, Screenshare, Kanban, Gantt and many more.
+- [Coloban](https://www.coloban.com) - All-in-one Project management tool with Chats, Kanban, Gantt, Calls, Screenshare and many more.
 
 ### Samples
 
