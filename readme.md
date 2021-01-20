@@ -6,7 +6,7 @@
 
 Electron is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.
 
-**You can now [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) right in this repo.** 
+**You can now [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) right in this repo.**
 
 <br>
 
@@ -22,7 +22,7 @@ Electron is an open-source framework for creating desktop apps using web technol
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co">
+		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="200"/>
 		</a>
 	</p>
