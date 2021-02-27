@@ -211,6 +211,7 @@ Made with Electron.
 - [Mouseless](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
 - [Glyphfinder](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 - [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+- [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
 ### Closed Source
 
