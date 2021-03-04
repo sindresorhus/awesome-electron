@@ -277,6 +277,7 @@ Made with Electron.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+- [electron-webview](https://github.com/cba85/electron-webview) - Electron application example to create a webview with features like responsive window, menu & keyboard shortcuts for MacOS, print function, MacOS, Windows and Linux executable with an app icon and DMG installer for Mac.
 
 ## Tools
 
