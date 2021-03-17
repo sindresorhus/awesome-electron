@@ -247,7 +247,7 @@ Made with Electron.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - Build status notifier.
 - [Automint](http://automint.in) - CRM for automobile businesses.
-- [Discord](https://discordapp.com) - Voice and text chat for gamers.
+- [Discord](https://discord.com) - Voice and text chat.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
