@@ -225,6 +225,7 @@ Made with Electron.
 - [Glyphfinder](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 - [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 - [Yana](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+- [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ### Closed Source
 
