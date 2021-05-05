@@ -12,7 +12,7 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 ---
 
-<div style="text-align:center;">
+<div align="center">
 	<p>
 		<p>
 			<sup>
@@ -282,6 +282,8 @@ Made with Electron.
 
 ## Boilerplates
 
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
+- [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
@@ -289,15 +291,6 @@ Made with Electron.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
-
-### Outdated
-These boilerplates are currently using versions of Electron that [are not supported](https://www.electronjs.org/docs/tutorial/support#currently-supported-versions).
-
-- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
-- [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
-- [descjop](https://github.com/karad/lein_template_descjop) - ClojureScript boilerplate for creating an app.
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
-- [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 
 ## Tools
 
