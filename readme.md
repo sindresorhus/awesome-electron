@@ -270,6 +270,7 @@ Made with Electron.
 - [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Nota](https://nota.md) - Pro writing app designed for local Markdown files.
+- [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 
 ### Samples
 
