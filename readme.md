@@ -226,6 +226,7 @@ Made with Electron.
 - [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 - [Yana](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+- [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 
 ### Closed Source
 
