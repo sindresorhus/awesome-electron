@@ -117,7 +117,6 @@ Made with Electron.
 - [Markn](https://github.com/minodisk/markn) - Markdown viewer.
 - [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
-- [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
 - [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
