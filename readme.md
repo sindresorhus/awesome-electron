@@ -245,6 +245,7 @@ Made with Electron.
 - [Yana](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
+- [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
 ### Closed Source
 
