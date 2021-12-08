@@ -155,7 +155,7 @@ Made with Electron.
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
 - [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
-- [Apple Music Electron/Cider](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free lightweight alternative to iTunes and other Apple Music applications
+- [Apple Music Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free lightweight alternative to iTunes and other Apple Music applications
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
