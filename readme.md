@@ -297,7 +297,7 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Nota](https://nota.md) - Pro writing app designed for local Markdown files.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
-- [Apple Music Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - A free lightweight alternative to iTunes and other Apple Music applications
+- [Apple Music Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) - Lightweight alternative to iTunes and other Apple Music applications
 
 
 ### Samples
