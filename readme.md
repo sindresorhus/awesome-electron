@@ -252,7 +252,7 @@ Made with Electron.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
-- [linked](https://github.com/lostdesign/linked) - Daily journal to unclutter your mind - write notes on a daily basis.
+- [linked](https://github.com/lostdesign/linked) - Daily journal.
 
 ### Closed Source
 
