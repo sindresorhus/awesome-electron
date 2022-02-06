@@ -252,6 +252,7 @@ Made with Electron.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
+- [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 
 ### Closed Source
 
