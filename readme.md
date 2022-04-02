@@ -320,6 +320,7 @@ Made with Electron.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
+- [electron-vite-boilerplate](https://github.com/alex8088/electron-vite-boilerplate) - Boilerplate based on electron-vite, electron-toolkit, electron-builder, Vue3 and TypeScript.
 
 ## Tools
 
@@ -397,6 +398,9 @@ Made with Electron.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
+- [electron-vite](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+- [electron-toolkit](https://github.com/alex8088/electron-toolkit) - Toolkit for Electron.
+- [create-electron](https://github.com/alex8088/quick-start/tree/master/packages/create-electron) - An easy way to start an Electron project with Vue/React/Svelte.
 
 ### Using Electron
 
