@@ -397,6 +397,7 @@ Made with Electron.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
+- [Remote Package Sender V2](https://github.com/Gkiokan/ps4-remote-pkg-sender) - Send your Homebrew Apps and PKG files to your Playstation.
 
 ### Using Electron
 
