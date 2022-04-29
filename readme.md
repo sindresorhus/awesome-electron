@@ -270,8 +270,8 @@ Made with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
-- [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. _(Japanese)_
-- [Remember](https://rememberapp.co.kr) - Business card management. _(Korean)_
+- [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
+- [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
@@ -488,10 +488,10 @@ Made with Electron.
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`#electron` on Atom Slack](https://discuss.atom.io/t/join-us-on-slack/16638)
-- [electron-jp](https://electron-jp-slackin.herokuapp.com) _(Japanese)_
-- [electron-br](https://electron-br.slack.com) _(Brazilian Portuguese)_
-- [electron-pl](https://electronpl.github.io) _(Polish)_
-- [`@electron_ru` on Telegram](https://telegram.me/electron_ru) _(Russian)_
+- [electron-jp](https://electron-jp-slackin.herokuapp.com) *(Japanese)*
+- [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
+- [electron-pl](https://electronpl.github.io) *(Polish)*
+- [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
