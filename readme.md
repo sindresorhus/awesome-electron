@@ -12,7 +12,7 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 <br>
 <br>
-<div align="center"><h3><a href="https://sindresorhus.com/one-thing">Check out my new app: One Thing</a></h3></div>
+<div align="center"><h3><a href="https://www.producthunt.com/posts/folder-peek">Check out my new app: Folder Peek</a></h3></div>
 <br>
 <br>
 
@@ -66,6 +66,37 @@ Electron is an open-source framework for creating desktop apps using web technol
 				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
 			</div>
 			<b>A dead-simple software licensing and distribution API built for developers</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>Paperwork that makes the data work.</b>
+			<div>
+				<sub>
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				<br>
+				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>Paperwork that makes the data work.</b>
+			<div>
+				<sub>
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				<br>
+				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
 		</a>
 		<br>
 	</p>
