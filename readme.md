@@ -330,6 +330,7 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Nota](https://nota.md) - Pro writing app designed for local Markdown files.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
+- [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 
 ### Samples
 
