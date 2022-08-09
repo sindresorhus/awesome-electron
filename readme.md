@@ -200,6 +200,7 @@ Made with Electron.
 
 ###### Featured
 
+- [Rosefinch](https://rosefinchapp.com) - Store and run SQL queries.
 - [Nota](https://nota.md) - Pro writing app designed for local Markdown files.
 
 ###### Other
