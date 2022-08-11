@@ -8,6 +8,24 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 <br>
 
+---
+
+<br>
+<br>
+<div align="center">
+	<sub>Check out my latest app</sub>
+	<br>
+	<h2>
+		<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+		<br>
+		<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+	</h2>
+</div>
+<br>
+<br>
+
+---
+
 <div align="center">
 	<p>
 		<p>
@@ -49,15 +67,6 @@ Electron is an open-source framework for creating desktop apps using web technol
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
 			</div>
 		</a>
-		<br>
-		<br>
-		<a href="https://keygen.sh">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
-			</div>
-			<b>A dead-simple software licensing and distribution API built for developers</b>
-		</a>
-		<br>
 		<br>
 		<br>
 		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
