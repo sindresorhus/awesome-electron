@@ -205,6 +205,7 @@ Made with Electron.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
+- [FAIRshare](https://fairdataihub.org/fairshare) - Your one-stop tool for curating and sharing research data according to FAIR guidelines.
 
 ### Closed Source
 
