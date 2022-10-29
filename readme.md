@@ -320,6 +320,7 @@ Made with Electron.
 - [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
+- [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 
 ### Using Electron
 
