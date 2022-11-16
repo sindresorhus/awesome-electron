@@ -253,6 +253,7 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
+- [He3](https://he3.app) - Free and Modern Developer Toolbox.
 
 ### Samples
 
