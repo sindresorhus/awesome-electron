@@ -119,6 +119,7 @@ Made with Electron.
 - [Min](https://github.com/minbrowser/min) - Minimal web browser.
 - [Hyper](https://github.com/zeit/hyper) - Terminal.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 
 ###### Other
 
