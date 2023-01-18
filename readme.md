@@ -16,9 +16,9 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my latest app</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+		<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
 		<br>
-		<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+		<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
 	</h2>
 </div>
 <br>
@@ -57,32 +57,13 @@ Electron is an open-source framework for creating desktop apps using web technol
 		</a>
 		<br>
 		<br>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
+		<a href="https://dashcam.io?ref=sindresorhus_awesome_electron">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
+				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
 			</div>
-			<br>
-			<b>Paperwork that makes the data work.</b>
+			<b>Video crash reports for Electron</b>
 			<div>
-				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
-				<br>
-				The easiest way to build paperwork automation into your product.
-				</sub>
-			</div>
-		</a>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>Paperwork that makes the data work.</b>
-			<div>
-				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
-				<br>
-				The easiest way to build paperwork automation into your product.
-				</sub>
+				<sup>Capture the steps to reproduce every bug with the Dashcam desktop app.</sup>
 			</div>
 		</a>
 		<br>
