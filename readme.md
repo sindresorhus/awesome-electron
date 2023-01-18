@@ -8,7 +8,7 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 <br>
 
----
+<!-- ---
 
 <br>
 <br>
@@ -16,13 +16,15 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my latest app</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+		<a href="https://www.producthunt.com/posts/today-14">Today</a>
 		<br>
-		<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+		<sup>Quickly view your schedule in the macOS menu bar</sup>
 	</h2>
 </div>
 <br>
 <br>
+
+-->
 
 ---
 
@@ -83,6 +85,17 @@ Electron is an open-source framework for creating desktop apps using web technol
 				<br>
 				The easiest way to build paperwork automation into your product.
 				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://dashcam.io?ref=sindresorhus_awesome_electron">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
+			</div>
+			<b>Video crash reports for Electron</b>
+			<div>
+				<sup>Capture the steps to reproduce every bug with the Dashcam desktop app.</sup>
 			</div>
 		</a>
 		<br>
