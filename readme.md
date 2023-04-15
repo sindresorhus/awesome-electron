@@ -335,6 +335,7 @@ Made with Electron.
 
 ## Components
 
+- [FabricJS](http://fabricjs.com/) - a powerful HTML5 canvas library that works with Electron.
 - [menubar](https://github.com/maxogden/menubar) - Menubar app framework.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
