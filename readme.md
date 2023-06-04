@@ -174,6 +174,7 @@ Made with Electron.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
+- [Ostara](https://github.com/krud-dev/ostara) - Management tool that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
 ### Closed Source
 
