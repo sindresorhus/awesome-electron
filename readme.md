@@ -292,7 +292,7 @@ Made with Electron.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
-- [Hydraulic Conveyor](https://www.hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI or code changes.
+- [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 
 ### Using Electron
 
