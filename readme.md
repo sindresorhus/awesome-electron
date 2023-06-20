@@ -292,6 +292,7 @@ Made with Electron.
 - [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
+- [electron-vite](https://github.com/alex8088/electron-vite) - Fast and easy-to-use build tool integrated with Vite.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 
