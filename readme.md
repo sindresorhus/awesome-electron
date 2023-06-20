@@ -254,7 +254,7 @@ Made with Electron.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
-- [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks GUI client.
+- [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks client.
 
 ### Closed Source
 
