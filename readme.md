@@ -57,16 +57,6 @@ Electron is an open-source framework for creating desktop apps using web technol
 		</a>
 		<br>
 		<br>
-		<a href="https://dashcam.io?ref=sindresorhus_awesome_electron">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
-			</div>
-			<b>Video crash reports for Electron</b>
-			<div>
-				<sup>Capture the steps to reproduce every bug with the Dashcam desktop app.</sup>
-			</div>
-		</a>
-		<br>
 	</p>
 </div>
 
