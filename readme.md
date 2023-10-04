@@ -167,6 +167,7 @@ Made with Electron.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+- [BSManager](https://github.com/Zagrios/bs-manager) - Manage your Beat Saber versions, contents and mods in one place.
 
 ### Closed Source
 
