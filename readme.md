@@ -16,9 +16,9 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my latest app</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
+		<a href="https://sindresorhus.com/one-task">One Task</a>
 		<br>
-		<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
+		<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
 	</h2>
 </div>
 <br>
