@@ -287,6 +287,7 @@ Made with Electron.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 - [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
+- [electron-fetch-via-main](https://github.com/wong2/electron-fetch-via-main) - Simple cross origin requests in Electron.
 
 ### Using Electron
 
