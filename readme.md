@@ -236,6 +236,7 @@ Made with Electron.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
+- [electron-react-express-boilerplate](https://github.com/amar391/electron-react-express-boilerplate) - Boilerplate Code to develop a Fullstack Electron App using React and Express.
 
 ## Tools
 
