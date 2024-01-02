@@ -287,6 +287,7 @@ Made with Electron.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 - [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
+- [electron-vite](https://github.com/electron-vite) - Using Vite and Electron to build desktop App quickly.
 
 ### Using Electron
 
