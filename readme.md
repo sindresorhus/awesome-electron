@@ -351,7 +351,6 @@ Made with Electron.
 ## Podcasts
 
 - [Hanselminutes: Creating cross-platform Electron apps with Jessica Lord](http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord)
-- [JavaScript Air: Electron Apps with @jlord and @emorikawa](https://javascriptair.com/episodes/2016-07-06)
 - [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/podcast/216)
 - [Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron](http://www.fullstackradio.com/48)
 
