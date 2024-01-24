@@ -216,6 +216,7 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
+- [Tabula](https://www.tabula.io/) - Business intelligent and no-code analytics tool built for Snowflake and PostgreSQL.
 
 ### Samples
 
