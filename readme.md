@@ -167,6 +167,7 @@ Made with Electron.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+- [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
 ### Closed Source
 
