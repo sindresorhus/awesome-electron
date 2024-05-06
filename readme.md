@@ -217,7 +217,8 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
-
+- [Employee X](https://employee-x.en.uptodown.com/windows/download) - Employee X is a free desktop software and WhatsApp Bot you can install on any Windows PCs and by simply scanning a QR you can start training your own: A.I. product salesman, A.I. customer attention specialist or A.I. appointment secretary.
+  
 ### Samples
 
 - [Electron API usage](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
