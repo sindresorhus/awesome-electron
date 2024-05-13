@@ -16,49 +16,13 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my macOS app</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
+		<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
 		<br>
-		<sup>Display the time remaining today in your menu bar</sup>
+		<sup>Customize the gap between menu bar items on macOS</sup>
 	</h2>
 </div>
 <br>
 <br>
-
----
-
-<div align="center">
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
-		</p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="180"/>
-		</a>
-		<br>
-		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="230"/>
-		</a>
-		<br>
-		<br>
-		<a href="https://strapi.io/?ref=sindresorhus">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
-			</div>
-			<b>Strapi is the leading open-source headless CMS.</b>
-			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-	</p>
-</div>
 
 ---
 
