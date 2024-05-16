@@ -217,6 +217,7 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
+- [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
 
 ### Samples
 
