@@ -218,7 +218,7 @@ Made with Electron.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
-- [Cursr](https://cursr.app) - Cross-platform software KVM and mouse movement optimization tool for multi-display single/multi device setups.
+- [Cursr](https://cursr.app) - Mouse movement optimization including Software KVM for multi-display setups.
 
 ### Samples
 
