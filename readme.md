@@ -13,12 +13,12 @@ Electron is an open-source framework for creating desktop apps using web technol
 <br>
 <br>
 <div align="center">
-	<sub>Check out my latest app</sub>
+	<sub>Check out my macOS app</sub>
 	<br>
 	<h2>
-		<a href="https://sindresorhus.com/one-task">One Task</a>
+		<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
 		<br>
-		<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
+		<sup>Display the time remaining today in your menu bar</sup>
 	</h2>
 </div>
 <br>
@@ -167,6 +167,7 @@ Made with Electron.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+- [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
 ### Closed Source
 
@@ -216,6 +217,7 @@ Made with Electron.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
+- [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
 - [Cursr](https://cursr.app) - Cross-platform software KVM and mouse movement optimization tool for multi-display single/multi device setups.
 
 ### Samples
