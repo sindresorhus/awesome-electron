@@ -289,6 +289,7 @@ Made with Electron.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 - [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
+- [NxElectron](https://github.com/bennymeg/nx-electron) - Tools and schematics for building monorepo electron project.
 
 ### Using Electron
 
