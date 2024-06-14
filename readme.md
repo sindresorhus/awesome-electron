@@ -168,6 +168,7 @@ Made with Electron.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+- [WatchIT](https://github.com/WatchItDev/watchit-app) - A movie platform with a decentralized network approach.
 
 ### Closed Source
 
