@@ -132,6 +132,7 @@ Made with Electron.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+- [Comet](https://github.com/stellar-comet/comet) - Video converter powered by FFmpeg with bulk uploads.
 
 ### Closed Source
 
