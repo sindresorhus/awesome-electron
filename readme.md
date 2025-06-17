@@ -13,13 +13,13 @@ Electron is an open-source framework for creating desktop apps using web technol
 <br>
 <br>
 <div align="center">
-	<sub>Check out my macOS app</sub>
-	<br>
-	<h2>
-		<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
-		<br>
-		<sup>Customize the gap between menu bar items on macOS</sup>
-	</h2>
+ <sub>Check out my macOS app</sub>
+ <br>
+ <h2>
+  <a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
+  <br>
+  <sup>Customize the gap between menu bar items on macOS</sup>
+ </h2>
 </div>
 <br>
 <br>
@@ -30,17 +30,29 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 ## Contents
 
-- [Apps](#apps)
-- [Boilerplates](#boilerplates)
-- [Tools](#tools)
-- [Components](#components)
-- [Documentation](#documentation)
-- [Articles](#articles)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Related](#related)
+- [Awesome Electron ](#awesome-electron-)
+	- [Contents](#contents)
+	- [Apps](#apps)
+		- [Open Source](#open-source)
+					- [Featured](#featured)
+					- [Other](#other)
+		- [Closed Source](#closed-source)
+					- [Featured](#featured-1)
+					- [Other](#other-1)
+		- [Samples](#samples)
+	- [Boilerplates](#boilerplates)
+	- [Tools](#tools)
+		- [For Electron](#for-electron)
+		- [Using Electron](#using-electron)
+	- [Components](#components)
+	- [Documentation](#documentation)
+	- [Articles](#articles)
+	- [Books](#books)
+	- [Videos](#videos)
+	- [Podcasts](#podcasts)
+	- [Community](#community)
+	- [Contribute](#contribute)
+	- [Related](#related)
 
 ## Apps
 
@@ -202,6 +214,7 @@ Made with Electron.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
+- [reactronite](https://github.com/flaviodelgrosso/reactronite) - A modern, feature-rich Electron kit for building cross-platform desktop applications with React and Vite - by [flaviodelgrosso](https://github.com/flaviodelgrosso)
 
 ## Tools
 
