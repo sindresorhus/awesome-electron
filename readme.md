@@ -132,6 +132,7 @@ Made with Electron.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+- [Rubix Soundboard](https://github.com/rubix-studios-pty-ltd/soundboard) - Open-source vietnamese soundboard application.
 
 ### Closed Source
 
