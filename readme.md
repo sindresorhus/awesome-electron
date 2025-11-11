@@ -182,6 +182,7 @@ Made with Electron.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
+- [Tab Display](https://tab-display.enfpdev.com) - Virtual display app built with Electron and WebRTC.
 
 ### Samples
 
