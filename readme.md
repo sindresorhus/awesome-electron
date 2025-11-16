@@ -182,6 +182,7 @@ Made with Electron.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
+- [Obsidian](https://obsidian.md) - Highly extensible, Markdown-based note taking and personal knowledge management software. 
 
 ### Samples
 
