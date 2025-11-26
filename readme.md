@@ -133,6 +133,7 @@ Made with Electron.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+- [Copicseal](https://github.com/copicseal/copicseal) – Cross-platform photo tool for adding clean borders, watermarks, and EXIF overlays.
 
 ### Closed Source
 
