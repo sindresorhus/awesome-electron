@@ -133,6 +133,7 @@ Made with Electron.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+- [Podlite for Desktop](https://github.com/podlite/podlite-desktop) - Official desktop editor for the Podlite markup language.
 
 ### Closed Source
 
