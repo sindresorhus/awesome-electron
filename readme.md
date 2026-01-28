@@ -129,6 +129,7 @@ Made with Electron.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
 - [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks client.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
+- [ShellLeap](https://github.com/shareefsakk2/shellleap) - Secure cross-platform SSH & SFTP client with AES-256-GCM vault.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
