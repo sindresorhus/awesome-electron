@@ -199,6 +199,7 @@ Made with Electron.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+- [electron-modular-boilerplate](https://github.com/trae-op/electron-modular-boilerplate) - Boilerplate with React and Tailwind CSS, featuring a modular main process architecture.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
