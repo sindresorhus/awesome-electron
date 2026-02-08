@@ -155,7 +155,7 @@ Made with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
-- [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
+- [Remember](https://rememberapp.co.kr) - Business card management. _(Korean)_
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
@@ -253,6 +253,7 @@ Made with Electron.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
 - [electron-vite](https://github.com/alex8088/electron-vite) - Fast and easy-to-use build tool integrated with Vite.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
+- [electron-modular](https://github.com/trae-op/electron-modular) - Library for organizing Electron application logic into independent modules.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 - [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
 - [electron-webauthn-mac](https://github.com/vault12/electron-webauthn-mac) - Native WebAuthn/Passkey support for macOS apps via Apple's AuthenticationServices framework.
@@ -328,9 +329,9 @@ Made with Electron.
 - [Reddit](https://www.reddit.com/r/electronjs)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/electron)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
-- [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
-- [electron-pl](https://electronpl.github.io) *(Polish)*
-- [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
+- [electron-br](https://electron-br.slack.com) _(Brazilian Portuguese)_
+- [electron-pl](https://electronpl.github.io) _(Polish)_
+- [`@electron_ru` on Telegram](https://telegram.me/electron_ru) _(Russian)_
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
