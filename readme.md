@@ -133,7 +133,6 @@ Made with Electron.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
-- [OpenClaw Easy](https://github.com/openclaw/openclaw) - Connect AI models (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord.
 
 ### Closed Source
 
@@ -185,6 +184,7 @@ Made with Electron.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
 - [Obsidian](https://obsidian.md) - Extensible Markdown note taking and knowledge management.
+- [OpenClaw Easy](https://openclaw-easy.com) - Connect AI models (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord.
 
 ### Samples
 
