@@ -133,6 +133,7 @@ Made with Electron.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+- [Dorothy](https://github.com/Charlie85270/Dorothy) - Orchestrate multiple AI CLI agents simultaneously with automations and Kanban management.
 
 ### Closed Source
 
