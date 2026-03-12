@@ -133,6 +133,7 @@ Made with Electron.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+- [Openclaw Easy Desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - AI assistant for WhatsApp, Telegram, Discord, and Slack with BYOK and local model support.
 
 ### Closed Source
 
