@@ -256,6 +256,7 @@ Made with Electron.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 - [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
 - [electron-webauthn-mac](https://github.com/vault12/electron-webauthn-mac) - Native WebAuthn/Passkey support for macOS apps via Apple's AuthenticationServices framework.
+- [electron-native-speech](https://github.com/varaprasadreddy9676/electron-native-speech) - Native OS speech transcription (file + live mic) using Apple's Speech framework. No cloud, no API keys.
 
 ### Using Electron
 
