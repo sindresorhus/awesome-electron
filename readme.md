@@ -184,6 +184,7 @@ Made with Electron.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
 - [Obsidian](https://obsidian.md) - Extensible Markdown note taking and knowledge management.
+- [OpenClaw Easy](https://openclaw-easy.com) - Connect AI models (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord.
 
 ### Samples
 
